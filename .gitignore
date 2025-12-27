@@ -11,3 +11,16 @@ coverage/
 .gitignore
 .ipynb_checkpoints
 anaconda_projects/
+
+# Documentation and project files (not needed in repo)
+analysis/
+Example Transcripts/
+Project_Roadmap/
+API_DOCUMENTATION.md
+FEATURES_DOCUMENTATION.md
+FINAL_CHECKLIST.md
+IMPLEMENTATION_SUMMARY.md
+SUBMISSION_CHECKLIST.md
+Instruction for the project.txt
+tests/manual_verification.md
+vHackathon_DCRUST_Batchof2026.pdf
