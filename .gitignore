@@ -7,8 +7,6 @@ dist/
 .DS_Store
 coverage/
 .pytest_cache/
-
-.gitignore
 .ipynb_checkpoints
 anaconda_projects/
 
