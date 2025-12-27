@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18.2-61dafb.svg)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.0-black.svg)](https://flask.palletsprojects.com/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3-orange.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > A clinical safety tool that automatically analyzes patient-nurse phone conversations to detect adverse drug reactions using AI-powered transcription, medical NLP, and FDA adverse event data.
@@ -36,6 +37,7 @@ DeepCare AI addresses a critical healthcare challenge: identifying adverse medic
 - Context-aware filtering (removes negations and family history)
 - Frequency-weighted risk scoring
 - Real-time FAERS database cross-referencing
+- **Machine Learning Prediction**: Random Forest model trained on 5,000+ FDA cases
 
 ### 🚦 Risk Assessment
 
@@ -97,6 +99,13 @@ cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+# 4. Train ML Model (Optional but Recommended)
+# This will fetch data from FDA and train the risk classifier
+# Open backend/ml/train_model.ipynb in VS Code and run all cells
+# OR run the python script if available (Notebook preferred for visualization)
+
+# 5. Start Backend
 python app.py
 ```
 
