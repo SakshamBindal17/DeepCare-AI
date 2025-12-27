@@ -15,7 +15,7 @@ def train_quick_model():
     
     # Load data
     print("📊 Loading training data...")
-    df = pd.read_csv('../analysis/results/training_data.csv')
+    df = pd.read_csv('../analysis/results/training_data_robust.csv')
     print(f"   Loaded {len(df)} samples")
     
     # Encode categorical features

@@ -3,6 +3,11 @@ from flask_cors import CORS
 from dotenv import load_dotenv
 import os
 import tempfile
+import warnings
+
+# Suppress specific warnings
+warnings.filterwarnings("ignore", message="Core Pydantic V1 functionality isn't compatible")
+
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import Counter
 
