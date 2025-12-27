@@ -372,13 +372,13 @@ python backend/ml/train_model.py
 
 ## 👥 Team
 
-**Team Name:** [Your Team Name]
+**Team Name:** DeepCare AI
 
 | Name | Role | GitHub |
-|------|------|--------|-------|
-| Mokshit Bindal | Development | [@username](https://github.com/MokshitBindal) |
-| Saksham Bindal | Development | [@username](https://github.com/SakshamBindal17) |
-| Ishan Watts | Testing | [@username](https://github.com/IshanWatts17092003) |
+|------|------|--------|
+| Mokshit Bindal | Development | [@MokshitBindal](https://github.com/MokshitBindal) |
+| Saksham Bindal | Development | [@SakshamBindal17](https://github.com/SakshamBindal17) |
+| Ishan Watts | Testing | [@IshanWatts17092003](https://github.com/IshanWatts17092003) |
 
 ---
 
