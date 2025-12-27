@@ -3,96 +3,75 @@
 ## System Architecture Diagram
 
 ```mermaid
-graph TB
+flowchart TD
     subgraph Frontend["Frontend Layer"]
         A[React Application]
-        A1[Dashboard Component]
-        A2[Call Analysis Component]
-        A3[History Component]
-        A4[Charts Component]
-        A --> A1
-        A --> A2
-        A --> A3
-        A --> A4
+        A --> A1[Dashboard Component]
+        A --> A2[Call Analysis Component]
+        A --> A3[History Component]
+        A --> A4[Charts Component]
     end
+
+    Frontend -->|HTTP POST /analyze| API
 
     subgraph API["API Gateway"]
         B["Flask Backend"]
-        B1["Health Endpoint"]
-        B2["Analyze Endpoint"]
-        B --> B1
-        B --> B2
+        B --> B1["Health Endpoint"]
+        B --> B2["Analyze Endpoint"]
     end
+
+    API --> Services
 
     subgraph Services["Core Services Layer"]
         C[Transcription Service]
+        C --> C1[Audio Processing]
         D[NLP Service]
+        D --> D1[Entity Extraction]
         E[Safety Service]
-        C1[Audio Processing]
-        D1[Entity Extraction]
-        E1[FAERS Lookup]
-        C --> C1
-        D --> D1
-        E --> E1
+        E --> E1[FAERS Lookup]
     end
+
+    C1 -->|API Call| External1
+    D1 -->|API Call| External2
+    E1 -->|API Call| External3
+
+    subgraph External["External Services"]
+        External1[Deepgram API]
+        External2[AWS Comprehend Medical]
+        External3[FDA FAERS Database]
+    end
+
+    Services --> Logic
 
     subgraph Logic["Business Logic Layer"]
         F[Risk Engine]
+        F --> F1[Risk Calculation]
+        F --> F2[Severity Classification]
         G[ML Service]
+        G --> G1[Random Forest Model]
+        G --> G2[Prediction Service]
         H[Data Pipeline]
-        F1[Risk Calculation]
-        F2[Severity Classification]
-        G1[Random Forest Model]
-        G2[Prediction Service]
-        H1[Data Processing]
-        H2[Feature Engineering]
-        F --> F1
-        F --> F2
-        G --> G1
-        G --> G2
-        H --> H1
-        H --> H2
+        H --> H1[Data Processing]
+        H --> H2[Feature Engineering]
     end
 
-    subgraph External["External Services"]
-        I[Deepgram API]
-        J[AWS Comprehend Medical]
-        K[FDA FAERS Database]
-    end
+    G --> Storage
 
     subgraph Storage["Data Storage"]
         L[ML Models]
-        L1[risk_classifier.pkl]
-        L2[drug_encoder.pkl]
-        L3[symptom_encoder.pkl]
-        L --> L1
-        L --> L2
-        L --> L3
+        L --> L1[risk_classifier.pkl]
+        L --> L2[drug_encoder.pkl]
+        L --> L3[symptom_encoder.pkl]
     end
 
-    A -->|HTTP POST /analyze| B
-    B --> C
-    B --> D
-    B --> E
-    C -->|API Call| I
-    D -->|API Call| J
-    E -->|API Call| K
-    B --> F
-    B --> G
-    B --> H
-    F -.-> D
-    F -.-> E
-    G --> L
-    G -.-> F
-    F -->|Risk Score| B
-    G -->|Prediction| B
-    B -->|JSON Response| A
+    Logic -->|Risk Score & Prediction| API
+    API -->|JSON Response| Frontend
 
     style A fill:#3B82F6,stroke:#1E40AF,color:#fff
     style B fill:#10B981,stroke:#059669,color:#fff
-    style I fill:#F59E0B,stroke:#D97706,color:#fff
-    style J fill:#F59E0B,stroke:#D97706,color:#fff
-    style K fill:#F59E0B,stroke:#D97706,color:#fff
+    style External1 fill:#F59E0B,stroke:#D97706,color:#fff
+    style External2 fill:#F59E0B,stroke:#D97706,color:#fff
+    style External3 fill:#F59E0B,stroke:#D97706,color:#fff
     style L fill:#8B5CF6,stroke:#7C3AED,color:#fff
 ```
 
@@ -224,23 +203,22 @@ flowchart TD
 ## ML Model Pipeline
 
 ```mermaid
-flowchart LR
-    subgraph "Data Collection"
-        A[FAERS API] -->|Query| B[15 Drugs × 15 Symptoms]
+flowchart TD
+    subgraph Collection["Data Collection"]
+        A[FAERS API]
+        A -->|Query| B[15 Drugs × 15 Symptoms]
         B --> C[5000+ Samples]
     end
 
-    subgraph "Feature Engineering"
-        C --> D[Label Encoding]
+    subgraph Engineering["Feature Engineering"]
+        D[Label Encoding]
         D --> E[Drug Encoder]
         D --> F[Symptom Encoder]
-        C --> G[FAERS Report Count]
+        G[FAERS Report Count]
     end
 
-    subgraph "Model Training"
-        E --> H[Feature Matrix]
-        F --> H
-        G --> H
+    subgraph Training["Model Training"]
+        H[Feature Matrix]
         H --> I[Random Forest Classifier]
         I --> J[Cross-Validation]
         J --> K{Accuracy > 85%?}
@@ -248,18 +226,28 @@ flowchart LR
         K -->|Yes| L[Save Model]
     end
 
-    subgraph "Model Artifacts"
-        L --> M[risk_classifier.pkl]
-        L --> N[drug_encoder.pkl]
-        L --> O[symptom_encoder.pkl]
+    subgraph Artifacts["Model Artifacts"]
+        M[risk_classifier.pkl]
+        N[drug_encoder.pkl]
+        O[symptom_encoder.pkl]
     end
 
-    subgraph "Prediction"
-        P[New Input] --> Q[Encode Features]
-        Q --> M
-        M --> R[Risk Prediction]
+    subgraph Prediction["Prediction"]
+        P[New Input]
+        P --> Q[Encode Features]
+        Q --> R[Risk Prediction]
         R --> S[Confidence Scores]
     end
+
+    C --> D
+    C --> G
+    E --> H
+    F --> H
+    G --> H
+    L --> M
+    L --> N
+    L --> O
+    Q --> M
 
     style I fill:#8B5CF6,color:#fff
     style M fill:#10B981,color:#fff

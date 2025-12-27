@@ -1,4 +1,4 @@
-# 📐 DeepCare AI - Team Journey & Development Story
+# DeepCare AI - Team Journey & Development Story
 
 **Team:** DeepCare AI  
 **Hackathon:** Veersa Technologies 2026  
@@ -9,10 +9,10 @@
 ## 👥 Meet Team DeepCare AI
 
 **Mokshit Bindal - Lead Developer (Backend)**  
-Backend architecture, ML model development, API integrations (Deepgram, AWS, FDA), deployment.
+Backend architecture, risk engine logic, API integrations (Deepgram, AWS, FDA), deployment.
 
 **Saksham Bindal - Lead Developer (Frontend)**  
-React development, UI/UX design, data visualization, performance optimization.
+React development, UI/UX design, ML model development, data visualization, performance optimization.
 
 **Ishan Watts - QA & Testing Lead**  
 Test case creation, quality assurance, bug tracking, documentation.
@@ -110,6 +110,32 @@ Fail fast, learn faster. That Streamlit experiment taught us exactly what we nee
 ---
 
 ### Phase 3: Backend Development
+
+**The Performance Crisis:**
+
+Early testing revealed a massive problem: processing a single audio file took 5+ minutes. For a real-time healthcare tool, this was unacceptable.
+
+The bottleneck was clear: sequential API calls. The system was:
+
+1. Waiting for Deepgram transcription (~30s)
+2. Then waiting for AWS Comprehend Medical analysis (~45s)
+3. Then querying FAERS for each entity individually (~3-4 minutes for 20+ entities)
+
+"This won't work in production," Mokshit said during testing. "A doctor won't wait 5 minutes for results."
+
+**The Optimization Sprint:**
+
+Three key improvements transformed performance:
+
+1. **Parallelization:** Instead of sequential calls, run Deepgram, AWS, and FAERS queries concurrently using ThreadPoolExecutor. While transcription happens, prepare for NLP. While NLP processes, start FAERS queries.
+
+2. **Deduplication:** Noticed many entities appeared multiple times in transcripts ("aspirin" mentioned 5 times = 5 identical FAERS queries). Built deduplication logic to query each unique entity only once, then reuse results.
+
+3. **LRU Cache:** Implemented Least Recently Used caching for FAERS responses. Common medications (aspirin, ibuprofen) appeared across multiple patient files. Why query the same data repeatedly? Cache it.
+
+**Result:** Average processing time dropped from **5 minutes to 20 seconds** (15x improvement).
+
+Now the system was actually usable.
 
 **API Integration Challenges:**
 
@@ -264,7 +290,7 @@ Every pull request reviewed by at least one team member before merging.
 
 **Phase 1:** Mokshit (backend foundation), Saksham (data + prototype), Ishan (test strategy)
 
-**Phase 2:** Mokshit (ML development), Saksham (React build-out), Ishan (integration testing)
+**Phase 2:** Mokshit (backend logic & risk engine), Saksham (React build-out & ML model), Ishan (integration testing)
 
 **Phase 3:** Mokshit (deployment), Saksham (UI polish), Ishan (final QA)
 
@@ -288,13 +314,14 @@ Remote collaboration required patience—explaining code over a call takes longe
 **Mokshit:**
 
 - Advanced Flask API patterns
-- ML feature engineering for medical data
+- Risk engine logic and algorithms
 - Concurrent API processing
 - Cloud deployment strategies
 
 **Saksham:**
 
 - React performance optimization
+- ML feature engineering and Random Forest modeling
 - Real-time audio synchronization
 - Chart.js configurations
 - Figma design fundamentals
@@ -340,49 +367,55 @@ Have backup plans. Free tiers change, requirements vary. Stay adaptable.
 **Solution:** Pivoted to Flask + React after 3 days  
 **Impact:** Learned rapidly from failure, avoided weeks of wrong path
 
-### Challenge 3: FAERS Rate Limiting
+### Challenge 3: Audio Processing Performance
+
+**Problem:** Initial implementation took 5+ minutes per audio file (sequential API calls)  
+**Solution:** Parallelization with ThreadPoolExecutor + entity deduplication + LRU caching  
+**Result:** 20 seconds average (15x faster, from 5min → 20sec)
+
+### Challenge 4: FAERS Rate Limiting
 
 **Problem:** API rejecting requests after 10 queries  
 **Solution:** Intelligent caching + exponential backoff  
 **Result:** 80% reduction in API calls
 
-### Challenge 4: Entity Extraction Noise
+### Challenge 5: Entity Extraction Noise
 
 **Problem:** Extracting irrelevant data (family history, negations)  
 **Solution:** Context-aware filtering with negation detection  
 **Result:** 60% → 92% accuracy improvement
 
-### Challenge 5: Risk Scoring Complexity
+### Challenge 6: Risk Scoring Complexity
 
 **Problem:** How to score multiple medications, symptoms, and conditions fairly  
 **Solution:** Multi-factor weighted algorithm with medical research backing  
 **Result:** 92% accuracy vs. physician assessments
 
-### Challenge 6: Audio Sync Performance
+### Challenge 7: Audio Sync Performance
 
 **Problem:** Laggy highlighting, poor user experience  
 **Solution:** Timestamp buffering + React optimization  
 **Result:** Smooth "karaoke effect" synchronization
 
-### Challenge 7: Chart Rendering Speed
+### Challenge 8: Chart Rendering Speed
 
 **Problem:** 3.2 second load time for data visualizations  
 **Solution:** Strategic sampling + lazy loading + web workers  
 **Result:** 0.4 seconds (8x faster)
 
-### Challenge 8: ML Training Data
+### Challenge 9: ML Training Data
 
 **Problem:** Needed 1000s of labeled examples, had only 50  
 **Solution:** Auto-generated training data using own system + FAERS  
 **Result:** 5,000+ samples created in 2 hours
 
-### Challenge 9: Deployment Platform
+### Challenge 10: Deployment Platform
 
 **Problem:** Heroku discontinued, Railway required payment  
 **Solution:** Switched to Render with free tier  
 **Result:** Successful deployment of both backend and frontend
 
-### Challenge 10: Production CORS Errors
+### Challenge 11: Production CORS Errors
 
 **Problem:** Frontend couldn't communicate with deployed backend  
 **Solution:** Proper Flask CORS configuration with allowed origins  
@@ -392,7 +425,7 @@ Have backup plans. Free tiers change, requirements vary. Stay adaptable.
 
 ## 💡 Clever Solutions We're Proud Of
 
-1. **Self-Training System:** Used our own pipeline to generate ML training data from FAERS queries
+1. **Audio Processing Optimization:** Reduced processing time from 5 minutes to 20 seconds through parallelization (ThreadPoolExecutor), entity deduplication, and LRU caching (15x improvement)
 
 2. **Progressive UI Loading:** Show users immediate feedback while processing continues in background
 
@@ -417,6 +450,7 @@ Have backup plans. Free tiers change, requirements vary. Stay adaptable.
 - **Test Cases:** 37+
 - **Code Coverage:** 85%
 - **API Response Time:** <2 seconds
+- **Audio Processing Time:** 20 seconds (down from 5 minutes - 15x improvement)
 - **ML Model Accuracy:** 85%
 - **Risk Scoring Accuracy:** 92%
 - **Chart Performance:** 8x improvement
