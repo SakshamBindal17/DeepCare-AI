@@ -11,6 +11,7 @@ from services.transcription_service import TranscriptionService
 from services.nlp_service import MedicalNLPService
 from services.safety_service import SafetyService
 from logic.risk_engine import RiskEngine
+from ml_service import MLPredictionService
 
 load_dotenv()
 
@@ -33,6 +34,13 @@ except Exception as e:
 
 safety_service = SafetyService()
 risk_engine = RiskEngine()
+
+# Initialize ML Service (optional)
+try:
+    ml_service = MLPredictionService()
+except Exception as e:
+    print(f"Warning: MLPredictionService failed to initialize: {e}")
+    ml_service = None
 
 @app.route('/health', methods=['GET'])
 def health_check():
@@ -139,7 +147,12 @@ def analyze_audio():
         # Pass unique entities (with Frequency) to Risk Engine
         risk_result = risk_engine.calculate_risk(unique_entities, {'total_reports': total_reports})
 
-        # 5. Response
+        # 5. ML Prediction (if available)
+        ml_result = None
+        if ml_service and ml_service.available:
+            ml_result = ml_service.predict_risk(unique_entities, {'total_reports': total_reports})
+
+        # 6. Response
         response = {
             "transcript": transcript_text,
             "utterances": utterances,
@@ -150,6 +163,10 @@ def analyze_audio():
                 "details": risk_details
             }
         }
+        
+        # Add ML prediction if available
+        if ml_result:
+            response['ml_analysis'] = ml_result
         
         return jsonify(response)
 
