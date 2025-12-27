@@ -1,6 +1,6 @@
 # 🏥 DeepCare AI - Complete Project Documentation
 
-**Veersa Hackathon 2026 | Team: [Your Team Name]**
+**Veersa Hackathon 2026 | Team: DeepCare AI**
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18.2-61DAFB.svg)](https://reactjs.org/)
