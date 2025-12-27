@@ -1,37 +1,99 @@
-import React from 'react';
-import { Play, FileText, AlertTriangle, CheckCircle, Clock, ArrowRight } from 'lucide-react';
-import { motion } from 'framer-motion';
+import React, { useState, useEffect } from "react";
+import {
+  FileAudio,
+  FileText,
+  AlertTriangle,
+  ArrowRight,
+  Clock,
+  ChevronRight,
+} from "lucide-react";
+import { motion } from "framer-motion";
+import { getSessionStats, getAnalysisHistory } from "../utils/sessionManager";
 
 const Dashboard = ({ onNavigate }) => {
+  const [stats, setStats] = useState({
+    totalCalls: 0,
+    criticalCalls: 0,
+    moderateCalls: 0,
+    lowRiskCalls: 0,
+  });
+  const [recentCalls, setRecentCalls] = useState([]);
+
+  useEffect(() => {
+    // Load session statistics
+    const loadStats = () => {
+      const sessionStats = getSessionStats();
+      setStats(sessionStats);
+
+      const history = getAnalysisHistory();
+      setRecentCalls(history.slice(0, 5)); // Show last 5
+    };
+
+    loadStats();
+
+    // Refresh every 2 seconds
+    const interval = setInterval(loadStats, 2000);
+    return () => clearInterval(interval);
+  }, []);
+
   const container = {
     hidden: { opacity: 0 },
     show: {
       opacity: 1,
       transition: {
-        staggerChildren: 0.1
-      }
-    }
+        staggerChildren: 0.1,
+      },
+    },
   };
 
   const item = {
     hidden: { opacity: 0, y: 20 },
-    show: { opacity: 1, y: 0 }
+    show: { opacity: 1, y: 0 },
+  };
+
+  const getRiskColor = (level) => {
+    switch (level) {
+      case "Critical":
+        return "text-red-600 bg-red-50 border-red-200";
+      case "Moderate":
+        return "text-yellow-600 bg-yellow-50 border-yellow-200";
+      case "Low Risk":
+        return "text-green-600 bg-green-50 border-green-200";
+      default:
+        return "text-gray-600 bg-gray-50 border-gray-200";
+    }
+  };
+
+  const formatTimestamp = (isoString) => {
+    const date = new Date(isoString);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffMins = Math.floor(diffMs / 60000);
+
+    if (diffMins < 1) return "Just now";
+    if (diffMins < 60) return `${diffMins} min ago`;
+    return `${Math.floor(diffMins / 60)} hours ago`;
   };
 
   return (
-    <motion.div 
+    <motion.div
       variants={container}
       initial="hidden"
       animate="show"
       className="space-y-6"
     >
       <div className="flex items-center justify-between">
-        <motion.h1 variants={item} className="text-2xl font-bold text-foreground">Dashboard Overview</motion.h1>
-        <motion.button 
+        <motion.h1
+          variants={item}
+          className="text-2xl font-bold text-foreground"
+        >
+          Dashboard Overview
+        </motion.h1>
+        <motion.button
           variants={item}
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          onClick={() => onNavigate('call-analysis')}
+          onClick={() => onNavigate("call-analysis")}
           className="px-4 py-2 bg-gradient-to-r from-primary to-purple-600 text-primary-foreground rounded-lg hover:shadow-lg hover:shadow-primary/25 transition-all font-medium flex items-center space-x-2"
         >
           <span>Analyze New Call</span>
@@ -39,121 +101,149 @@ const Dashboard = ({ onNavigate }) => {
         </motion.button>
       </div>
 
-      {/* Stats Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <motion.div variants={item} className="bg-card/50 backdrop-blur-sm p-6 rounded-xl border border-border shadow-sm hover:shadow-md transition-shadow">
+      {/* Session Stats Grid */}
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+        <motion.div
+          variants={item}
+          className="bg-card/50 backdrop-blur-sm p-6 rounded-xl border border-border shadow-sm hover:shadow-md transition-shadow"
+        >
           <div className="flex items-center justify-between mb-4">
             <div className="p-3 bg-blue-50 text-blue-600 rounded-lg">
-              <FileText size={24} />
+              <FileAudio size={24} />
             </div>
-            <span className="text-sm font-medium text-green-600 bg-green-50 px-2 py-1 rounded-full">+12%</span>
           </div>
-          <h3 className="text-2xl font-bold text-foreground">24</h3>
-          <p className="text-sm text-muted-foreground">Consultations this week</p>
+          <h3 className="text-2xl font-bold text-foreground">
+            {stats.totalCalls}
+          </h3>
+          <p className="text-sm text-muted-foreground">Calls Analyzed</p>
         </motion.div>
 
-        <motion.div variants={item} className="bg-card/50 backdrop-blur-sm p-6 rounded-xl border border-border shadow-sm hover:shadow-md transition-shadow">
+        <motion.div
+          variants={item}
+          className="bg-card/50 backdrop-blur-sm p-6 rounded-xl border border-border shadow-sm hover:shadow-md transition-shadow"
+        >
           <div className="flex items-center justify-between mb-4">
             <div className="p-3 bg-red-50 text-red-600 rounded-lg">
               <AlertTriangle size={24} />
             </div>
-            <span className="text-sm font-medium text-red-600 bg-red-50 px-2 py-1 rounded-full">High Priority</span>
           </div>
-          <h3 className="text-2xl font-bold text-foreground">3</h3>
-          <p className="text-sm text-muted-foreground">Critical Risk Alerts</p>
+          <h3 className="text-2xl font-bold text-foreground">
+            {stats.criticalCalls}
+          </h3>
+          <p className="text-sm text-muted-foreground">Critical Alerts</p>
         </motion.div>
 
-        <motion.div variants={item} className="bg-card/50 backdrop-blur-sm p-6 rounded-xl border border-border shadow-sm hover:shadow-md transition-shadow">
+        <motion.div
+          variants={item}
+          className="bg-card/50 backdrop-blur-sm p-6 rounded-xl border border-border shadow-sm hover:shadow-md transition-shadow"
+        >
           <div className="flex items-center justify-between mb-4">
-            <div className="p-3 bg-green-50 text-green-600 rounded-lg">
-              <CheckCircle size={24} />
+            <div className="p-3 bg-yellow-50 text-yellow-600 rounded-lg">
+              <FileText size={24} />
             </div>
           </div>
-          <h3 className="text-2xl font-bold text-foreground">98%</h3>
-          <p className="text-sm text-muted-foreground">Transcription Accuracy</p>
+          <h3 className="text-2xl font-bold text-foreground">
+            {stats.moderateCalls}
+          </h3>
+          <p className="text-sm text-muted-foreground">Moderate Risk</p>
+        </motion.div>
+
+        <motion.div
+          variants={item}
+          className="bg-card/50 backdrop-blur-sm p-6 rounded-xl border border-border shadow-sm hover:shadow-md transition-shadow"
+        >
+          <div className="flex items-center justify-between mb-4">
+            <div className="p-3 bg-green-50 text-green-600 rounded-lg">
+              <FileText size={24} />
+            </div>
+          </div>
+          <h3 className="text-2xl font-bold text-foreground">
+            {stats.lowRiskCalls}
+          </h3>
+          <p className="text-sm text-muted-foreground">Low Risk</p>
         </motion.div>
       </div>
 
-      {/* Recent Activity & Live View */}
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        {/* Recent Consultations */}
-        <motion.div variants={item} className="lg:col-span-2 bg-card/50 backdrop-blur-sm rounded-xl border border-border shadow-sm overflow-hidden">
-          <div className="p-6 border-b border-border flex items-center justify-between">
-            <h2 className="text-lg font-semibold text-foreground">Recent Consultations</h2>
-            <button className="text-sm text-primary hover:underline">View All</button>
+      {/* Recent Analyses */}
+      <motion.div
+        variants={item}
+        className="bg-card/50 backdrop-blur-sm rounded-xl border border-border shadow-sm overflow-hidden"
+      >
+        <div className="p-6 border-b border-border flex items-center justify-between">
+          <h2 className="text-lg font-semibold text-foreground">
+            Recent Analysis
+          </h2>
+          <button
+            onClick={() => onNavigate("history")}
+            className="text-sm text-primary hover:underline"
+          >
+            View All
+          </button>
+        </div>
+
+        {recentCalls.length === 0 ? (
+          <div className="p-12 text-center">
+            <FileAudio
+              size={48}
+              className="mx-auto text-muted-foreground opacity-20 mb-4"
+            />
+            <p className="text-muted-foreground mb-4">
+              No calls analyzed yet this session
+            </p>
+            <button
+              onClick={() => onNavigate("call-analysis")}
+              className="px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors"
+            >
+              Analyze Your First Call
+            </button>
           </div>
+        ) : (
           <div className="divide-y divide-border">
-            {[1, 2, 3].map((i) => (
-              <div key={i} className="p-4 hover:bg-accent/50 transition-colors flex items-center justify-between group cursor-pointer">
-                <div className="flex items-center space-x-4">
-                  <div className="w-10 h-10 rounded-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center text-gray-500 font-medium">
-                    PT
+            {recentCalls.map((call) => (
+              <div
+                key={call.id}
+                onClick={() => {
+                  onNavigate("call-analysis", call);
+                }}
+                className="p-4 hover:bg-accent/50 transition-colors flex items-center justify-between group cursor-pointer"
+              >
+                <div className="flex items-center space-x-4 flex-1 min-w-0">
+                  <div className="p-2 bg-primary/10 rounded-lg flex-shrink-0">
+                    <FileAudio size={20} className="text-primary" />
                   </div>
-                  <div>
-                    <h4 className="font-medium text-foreground">Patient #CAR000{i}</h4>
-                    <p className="text-sm text-muted-foreground">Cardiology Follow-up</p>
+                  <div className="flex-1 min-w-0">
+                    <h4 className="font-medium text-foreground truncate">
+                      {call.fileName}
+                    </h4>
+                    <div className="flex items-center text-xs text-muted-foreground mt-1">
+                      <Clock size={12} className="mr-1" />
+                      {formatTimestamp(call.timestamp)}
+                    </div>
                   </div>
                 </div>
-                <div className="flex items-center space-x-4">
-                  <div className="flex items-center text-sm text-muted-foreground">
-                    <Clock size={14} className="mr-1" />
-                    <span>2 hours ago</span>
+                <div className="flex items-center space-x-4 flex-shrink-0">
+                  <div className="text-right mr-2">
+                    <div className="text-lg font-bold text-foreground">
+                      {call.riskScore}
+                    </div>
+                    <div
+                      className={`text-xs px-2 py-1 rounded-full border ${getRiskColor(
+                        call.riskLevel
+                      )}`}
+                    >
+                      {call.riskLevel}
+                    </div>
                   </div>
-                  <button className="p-2 text-muted-foreground hover:text-primary opacity-0 group-hover:opacity-100 transition-all transform translate-x-2 group-hover:translate-x-0">
-                    <Play size={18} />
-                  </button>
+                  <ChevronRight
+                    size={18}
+                    className="text-muted-foreground group-hover:text-primary transition-colors"
+                  />
                 </div>
               </div>
             ))}
           </div>
-        </motion.div>
-
-        {/* Quick Actions / System Status */}
-        <motion.div variants={item} className="bg-card/50 backdrop-blur-sm rounded-xl border border-border shadow-sm p-6">
-          <h2 className="text-lg font-semibold text-foreground mb-4">System Status</h2>
-          <div className="space-y-4">
-            <div className="flex items-center justify-between p-3 bg-accent/50 rounded-lg border border-transparent hover:border-border transition-colors">
-              <div className="flex items-center space-x-3">
-                <div className="relative">
-                  <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                  <div className="absolute inset-0 w-2 h-2 bg-green-500 rounded-full animate-ping opacity-75"></div>
-                </div>
-                <span className="text-sm font-medium">Deepgram API</span>
-              </div>
-              <span className="text-xs text-green-600 font-medium bg-green-50 px-2 py-1 rounded-full">Operational</span>
-            </div>
-            <div className="flex items-center justify-between p-3 bg-accent/50 rounded-lg border border-transparent hover:border-border transition-colors">
-              <div className="flex items-center space-x-3">
-                <div className="relative">
-                  <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                  <div className="absolute inset-0 w-2 h-2 bg-green-500 rounded-full animate-ping opacity-75"></div>
-                </div>
-                <span className="text-sm font-medium">Risk Engine</span>
-              </div>
-              <span className="text-xs text-green-600 font-medium bg-green-50 px-2 py-1 rounded-full">Operational</span>
-            </div>
-            <div className="flex items-center justify-between p-3 bg-accent/50 rounded-lg border border-transparent hover:border-border transition-colors">
-              <div className="flex items-center space-x-3">
-                <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                <span className="text-sm font-medium">FAERS Database</span>
-              </div>
-              <span className="text-xs text-green-600 font-medium bg-green-50 px-2 py-1 rounded-full">Connected</span>
-            </div>
-          </div>
-
-          <div className="mt-6 pt-6 border-t border-border">
-            <h3 className="text-sm font-medium text-muted-foreground mb-3">Quick Actions</h3>
-            <div className="grid grid-cols-2 gap-3">
-              <button className="p-3 text-sm font-medium text-center border border-border rounded-lg hover:bg-primary hover:text-primary-foreground hover:border-primary transition-all duration-200">
-                Upload Audio
-              </button>
-              <button className="p-3 text-sm font-medium text-center border border-border rounded-lg hover:bg-primary hover:text-primary-foreground hover:border-primary transition-all duration-200">
-                View Reports
-              </button>
-            </div>
-          </div>
-        </motion.div>
-      </div>
+        )}
+      </motion.div>
     </motion.div>
   );
 };
