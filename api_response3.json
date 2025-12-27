@@ -1,0 +1,238 @@
+{
+  "entities": [
+    {
+      "Category": "MEDICAL_CONDITION",
+      "Frequency": 12,
+      "Score": 0.9350614547729492,
+      "Text": "pain",
+      "Traits": [
+        {
+          "Name": "SYMPTOM",
+          "Score": 0.9596198797225952
+        }
+      ],
+      "Type": "DX_NAME"
+    },
+    {
+      "Category": "ANATOMY",
+      "Frequency": 2,
+      "Score": 0.877546489238739,
+      "Text": "chest",
+      "Traits": [],
+      "Type": "SYSTEM_ORGAN_SITE"
+    },
+    {
+      "Category": "MEDICAL_CONDITION",
+      "Frequency": 3,
+      "Score": 0.9201511740684509,
+      "Text": "heart attack",
+      "Traits": [
+        {
+          "Name": "LOW_CONFIDENCE",
+          "Score": 0.6768204569816589
+        },
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.7299559712409973
+        }
+      ],
+      "Type": "DX_NAME"
+    },
+    {
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Frequency": 1,
+      "Score": 0.913013756275177,
+      "Text": "K. K.",
+      "Traits": [],
+      "Type": "NAME"
+    },
+    {
+      "Category": "ANATOMY",
+      "Frequency": 1,
+      "Score": 0.7613970637321472,
+      "Text": "neck",
+      "Traits": [],
+      "Type": "SYSTEM_ORGAN_SITE"
+    },
+    {
+      "Category": "MEDICATION",
+      "Frequency": 2,
+      "Score": 0.7613970637321472,
+      "Text": "Tylenol",
+      "Traits": [],
+      "Type": "BRAND_NAME"
+    },
+    {
+      "Category": "ANATOMY",
+      "Frequency": 2,
+      "Score": 0.8921527862548828,
+      "Text": "nose",
+      "Traits": [],
+      "Type": "SYSTEM_ORGAN_SITE"
+    },
+    {
+      "Category": "MEDICAL_CONDITION",
+      "Frequency": 1,
+      "Score": 0.8921527862548828,
+      "Text": "flu",
+      "Traits": [
+        {
+          "Name": "DIAGNOSIS",
+          "Score": 0.5296252369880676
+        }
+      ],
+      "Type": "DX_NAME"
+    },
+    {
+      "Category": "TIME_EXPRESSION",
+      "Frequency": 1,
+      "Score": 0.821601390838623,
+      "Text": "last week",
+      "Traits": [],
+      "Type": "TIME_TO_DX_NAME"
+    },
+    {
+      "Category": "MEDICAL_CONDITION",
+      "Frequency": 1,
+      "Score": 0.8921527862548828,
+      "Text": "fever",
+      "Traits": [
+        {
+          "Name": "SYMPTOM",
+          "Score": 0.9214484095573425
+        }
+      ],
+      "Type": "DX_NAME"
+    },
+    {
+      "Category": "MEDICAL_CONDITION",
+      "Frequency": 1,
+      "Score": 0.8617406487464905,
+      "Text": "runny nose",
+      "Traits": [
+        {
+          "Name": "SYMPTOM",
+          "Score": 0.9013108015060425
+        }
+      ],
+      "Type": "DX_NAME"
+    },
+    {
+      "Category": "MEDICAL_CONDITION",
+      "Frequency": 1,
+      "Score": 0.9201511740684509,
+      "Text": "cough",
+      "Traits": [
+        {
+          "Name": "SYMPTOM",
+          "Score": 0.9596198797225952
+        }
+      ],
+      "Type": "DX_NAME"
+    },
+    {
+      "Category": "MEDICAL_CONDITION",
+      "Frequency": 1,
+      "Score": 0.7172441482543945,
+      "Text": "feeling super tired",
+      "Traits": [
+        {
+          "Name": "SYMPTOM",
+          "Score": 0.7299559712409973
+        }
+      ],
+      "Type": "DX_NAME"
+    },
+    {
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Frequency": 1,
+      "Score": 0.9375329613685608,
+      "Text": "K. Alright",
+      "Traits": [],
+      "Type": "NAME"
+    },
+    {
+      "Category": "ANATOMY",
+      "Frequency": 4,
+      "Score": 0.7613970637321472,
+      "Text": "heart",
+      "Traits": [],
+      "Type": "SYSTEM_ORGAN_SITE"
+    },
+    {
+      "Category": "TIME_EXPRESSION",
+      "Frequency": 2,
+      "Score": 0.7950295805931091,
+      "Text": "two weeks ago",
+      "Traits": [],
+      "Type": "TIME_TO_DX_NAME"
+    },
+    {
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Frequency": 1,
+      "Score": 0.9127426743507385,
+      "Text": "K. So",
+      "Traits": [],
+      "Type": "NAME"
+    },
+    {
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Frequency": 1,
+      "Score": 0.7814159393310547,
+      "Text": "student",
+      "Traits": [],
+      "Type": "PROFESSION"
+    },
+    {
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Frequency": 1,
+      "Score": 0.8886599540710449,
+      "Text": "Western",
+      "Traits": [],
+      "Type": "ADDRESS"
+    },
+    {
+      "Category": "PROTECTED_HEALTH_INFORMATION",
+      "Frequency": 1,
+      "Score": 0.7453292608261108,
+      "Text": "Alright",
+      "Traits": [],
+      "Type": "NAME"
+    }
+  ],
+  "faers_data": {
+    "details": [
+      {
+        "drug": "Tylenol",
+        "reports": 8359,
+        "symptom": "cough"
+      },
+      {
+        "drug": "Tylenol",
+        "reports": 44773,
+        "symptom": "pain"
+      },
+      {
+        "drug": "Tylenol",
+        "reports": 652,
+        "symptom": "fever"
+      }
+    ],
+    "total_reports": 53784
+  },
+  "risk_analysis": {
+    "action_plan": "CRITICAL ALERT: Detected heart attack (x3). Immediate medical attention required. FAERS data indicates 53784 related reports. Advise patient to go to ER immediately.",
+    "details": {
+      "critical_symptoms": [
+        "heart attack (x3)"
+      ],
+      "faers_reports": 53784,
+      "moderate_symptoms": [
+        "fever (x1)"
+      ]
+    },
+    "level": "RED",
+    "score": 60
+  },
+  "transcript": "Brings you here today? I'm just having this really sharp pain in my chest, and I'm scared. I think I'm having a heart attack. Oh, wow. You know, that must be really scary. Yeah. When did this, when did this pain start? So about three days ago. Three days ago? Okay. And where exactly in your chest do you feel it? It's kind of right here, right over my heart, I think. That's where it's the worst. K. K. And is it, what kind of pain is it? Is it more like a dull pressure pain, or is it a sharp pain? How would you describe it? I I'd say it's a sharp pain. A sharp pain? K. And, so it started three days ago. Has it been coming and going, or has it been constant? It just lasts for a few seconds, and then it goes away. Okay. And does the pain, come on when you're doing any activities? Or what, when does the pain usually come on? It's usually worse when I'm coughing or I'm lying down. Yeah. Okay. Yeah. Okay. And, does it improve with any positional changes at all or anything that you do that does it help? When I when I lean forward, it actually does get better, if I think about it. Yeah. Okay. And has this ever happened to you before? No. No. It hasn't. Okay. And on a scale of, one to 10, one being the least amount of pain you felt and 10 being the worst, how much would you rate it? I'd say a six out of 10. Okay. And does the pain move, anywhere, on in your chest, or does it stay in the same spot? Yeah. I think it it kinda goes to my neck sometimes. Okay. And do you have any other symptoms? Like, do you have any shortness of breath, dizziness, anything like that? No. I don't. Any okay. Any any palpitations? Nope. Okay. Alright. And other than that, have you been having any other symptoms at all besides the pain? No. No. Nothing else except that. Just have these, sharp episodes of pain that last a couple of seconds. Okay. Have you have you have you tried, like, any medications that have has helped the pain? Yeah. I took some, I took some Tylenol, and that did help. Okay. I took it once yesterday. Alright. Any recent, injuries to the area? Like, do you have any falls or anything like that? No. No. I haven't. K. Any headaches and nausea or vomiting, fevers or chills, any of those symptoms? No. K. Any, cough, runny nose, any viral symptoms? No. Well, not right now, but, I did have I did have a flu last week. I had a fever. I had a runny nose. I did have a bit of a cough, and I was feeling super tired. But not anymore. I'm okay now. Okay. And, have you, at all had any dizziness or have you fainted at all? No. Okay. Have you been noticing any kind of, weakness or numbness? Nope. No? Okay. In terms of your past medical history, do you have any medical conditions like diabetes, high blood pressure, any other diagnosis? No. I'm a pretty healthy 25 year old. Okay. And do you take any medications? I sometimes take Tylenol. Okay. And any, allergies at all? Nope. K. Alright. And, any previous surgeries? No. No. No surgeries. Do Do you have any family history of, any heart conditions or any cancers or anything like that? Yeah. My father, he he had a heart attack two weeks ago, and he and he passed away. And I'm worried I'm having a heart attack too. It was just two weeks ago? Yeah. I'm so sorry to hear that. It must be really difficult time for you right now. Mhmm. K. So you you're worried you might be having a heart attack as well? Yeah. K. So, yeah, we can definitely, do some, tests and, see what what what's going on. I just have a few more questions and then, I'll just get to some of the the management and what we'll be doing for you in the future. So, currently, right now, do you work at all? No. I'm a student. I well, it's a part time job. I I I do work as a postman. Okay. And, where are you a student? What do you do? I'm studying engineering at Western. Alright. And, currently, where do you live? Do you live in, student housing, apartment, or home? I live with my parents. Well, my mom now. Okay. In a house. Alright. And do you, drink at all alcohol? I drink occasionally. Maybe one or two drinks on the weekends. Okay. And any recreational drug use like marijuana or cocaine? No. No. And do you smoke? No. Alright. So those are all the questions we had, for you today. And, yeah, it must be really, difficult and scary for you right now to, but we'll make sure to get to the bottom of this, see what's going on. Mhmm. So what we can do is, get you an ECG to see, how your heart is functioning and then, see get get a new blood work, if we need it for the future. But, yeah. Right now, I would I would say try not to, worry too much about it right now and see, what what some of those tests, come back. Thank you. So yeah. You're welcome."
+}
