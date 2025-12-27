@@ -1,6 +1,0 @@
-flask
-flask-cors
-python-dotenv
-deepgram-sdk
-boto3
-requests
