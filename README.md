@@ -8,9 +8,10 @@
 
 > **An intelligent AI-powered system that analyzes nurse-patient conversations to detect and predict adverse medical events in real-time**
 
-**🔗 Live Demo:** [Add deployment link here]  
-**🎥 Video Presentation:** [Add video link here]  
-**📊 Figma Design:** [Add Figma link here]
+**🔗 Frontend Application:** [https://deepcare-ai.onrender.com](https://deepcare-ai.onrender.com)  
+**🔗 Backend API:** [https://deepcare-ai-backend.onrender.com](https://deepcare-ai-backend.onrender.com)  
+**📊 Figma Design:** [View Design here](https://www.figma.com/design/fSX8aPdbMo8RnSmUgJBFwc/DeepCare-AI-Hackathon?t=0cGK9ysIydl3k3MO-1)  
+**🎥 Project Demo Video:** [View Video here]()
 
 ---
 
@@ -27,7 +28,7 @@
 
 ## 🎯 Problem Statement
 
-Millions of conversations happen between medical agents/nurses and patients every day regarding their medical conditions and medications. While the patients or nurses might not realize, there might be indications of an adverse event which has already occurred or there is a possibility of one occurring. 
+Millions of conversations happen between medical agents/nurses and patients every day regarding their medical conditions and medications. While the patients or nurses might not realize, there might be indications of an adverse event which has already occurred or there is a possibility of one occurring.
 
 **It is critical to identify and flag such possible adverse events quickly and accurately** to prevent the same from occurring or remediating the one that has happened already.
 
@@ -48,6 +49,7 @@ DeepCare AI is an end-to-end intelligent system that:
 ## ✨ Key Features
 
 ### 🎙️ **Audio Intelligence**
+
 - Medical-grade transcription using **Deepgram Nova-2**
 - Speaker diarization (Nurse vs. Patient)
 - Timestamped utterances for precision
@@ -55,6 +57,7 @@ DeepCare AI is an end-to-end intelligent system that:
 - Click-to-seek navigation
 
 ### 🧠 **Medical NLP**
+
 - Entity extraction with **AWS Comprehend Medical**
 - Automatic identification of:
   - 💊 Medications (generic & brand names)
@@ -64,6 +67,7 @@ DeepCare AI is an end-to-end intelligent system that:
 - Context-aware filtering (removes negations, family history)
 
 ### 🚨 **Risk Assessment Engine**
+
 - **Multi-factor risk scoring** (0-10 scale)
 - Three-tier classification:
   - 🔴 **Critical** (≥7.0): Immediate attention required
@@ -76,18 +80,21 @@ DeepCare AI is an end-to-end intelligent system that:
   - ML model confidence
 
 ### 📈 **FDA FAERS Integration**
+
 - Real-time database queries to [open.fda.gov](https://open.fda.gov/data/faers/)
 - Cross-reference drug-symptom combinations
 - Historical adverse event statistics
 - Interactive data visualization charts
 
 ### 🤖 **Machine Learning Model**
+
 - **Random Forest Classifier** trained on 5,000+ FDA cases
 - Features: drug type, symptom severity, FAERS report frequency
 - **85%+ accuracy** in risk prediction
 - Confidence scores for transparency
 
 ### 📊 **Interactive Dashboard**
+
 - Live session statistics
 - Analysis history with persistence
 - FAERS report bar charts
@@ -138,12 +145,14 @@ DeepCare AI is an end-to-end intelligent system that:
 ## 🛠️ Technology Stack
 
 ### **Backend**
+
 - **Framework:** Flask 3.0
 - **Language:** Python 3.13
 - **ML:** scikit-learn, pandas, numpy
 - **APIs:** Deepgram SDK, boto3 (AWS), requests
 
 ### **Frontend**
+
 - **Framework:** React 18.2
 - **Build Tool:** Vite 5.1
 - **UI Library:** Tailwind CSS
@@ -152,11 +161,13 @@ DeepCare AI is an end-to-end intelligent system that:
 - **Icons:** Lucide React
 
 ### **External Services**
+
 - **Transcription:** Deepgram Nova-2
 - **Medical NLP:** AWS Comprehend Medical
 - **Safety Data:** FDA openFDA API (FAERS)
 
 ### **DevOps & Tools**
+
 - **Version Control:** Git, GitHub
 - **Testing:** pytest, unittest
 - **Package Manager:** npm, pip
@@ -294,6 +305,7 @@ pytest tests/ --cov=backend --cov-report=html
 ```
 
 **Test Categories:**
+
 - ✅ Unit Tests (Risk Engine, ML Service, FAERS Service)
 - ✅ Integration Tests (End-to-end pipeline)
 - ✅ API Tests (Endpoint validation)
@@ -323,6 +335,7 @@ We conducted comprehensive analysis of FDA's FAERS database:
 ### **Feature Engineering**
 
 For our ML model, we engineered features including:
+
 1. Drug encoder (categorical → numerical)
 2. Symptom encoder (categorical → numerical)
 3. FAERS report frequency (numerical)
@@ -374,11 +387,11 @@ python backend/ml/train_model.py
 
 **Team Name:** DeepCare AI
 
-| Name | Role | GitHub |
-|------|------|--------|
-| Mokshit Bindal | Development | [@MokshitBindal](https://github.com/MokshitBindal) |
-| Saksham Bindal | Development | [@SakshamBindal17](https://github.com/SakshamBindal17) |
-| Ishan Watts | Testing | [@IshanWatts17092003](https://github.com/IshanWatts17092003) |
+| Name           | Role        | GitHub                                                       |
+| -------------- | ----------- | ------------------------------------------------------------ |
+| Mokshit Bindal | Development | [@MokshitBindal](https://github.com/MokshitBindal)           |
+| Saksham Bindal | Development | [@SakshamBindal17](https://github.com/SakshamBindal17)       |
+| Ishan Watts    | Testing     | [@IshanWatts17092003](https://github.com/IshanWatts17092003) |
 
 ---
 
