@@ -10,3 +10,4 @@ coverage/
 
 .gitignore
 .ipynb_checkpoints
+anaconda_projects/
