@@ -17,7 +17,7 @@
 
 ## 📑 Quick Links
 
-- [Architecture]()
+- [Architecture](https://github.com/SakshamBindal17/DeepCare-AI/tree/main?tab=readme-ov-file#%EF%B8%8F-architecture)
 - [Features Documentation](./FEATURES_DOCUMENTATION.md)
 - [Test Cases & QA](./TEST_CASES.md)
 - [Implementation Summary](./IMPLEMENTATION_SUMMARY.md)
