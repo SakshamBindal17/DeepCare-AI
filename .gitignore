@@ -9,3 +9,4 @@ coverage/
 .pytest_cache/
 
 .gitignore
+.ipynb_checkpoints
