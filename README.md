@@ -17,6 +17,7 @@
 
 ## 📑 Quick Links
 
+- [Architecture]()
 - [Features Documentation](./FEATURES_DOCUMENTATION.md)
 - [Test Cases & QA](./TEST_CASES.md)
 - [Implementation Summary](./IMPLEMENTATION_SUMMARY.md)
