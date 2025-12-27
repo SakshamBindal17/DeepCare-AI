@@ -1,0 +1,5697 @@
+drug,symptom,faers_reports,label
+atorvastatin,myocardial infarction,4625,2
+atorvastatin,heart attack,0,0
+atorvastatin,cardiac arrest,1915,1
+atorvastatin,stroke,0,0
+atorvastatin,cerebrovascular accident,4373,2
+atorvastatin,anaphylactic reaction,775,1
+atorvastatin,anaphylaxis,0,0
+atorvastatin,angioedema,1217,1
+atorvastatin,stevens-johnson syndrome,320,1
+atorvastatin,renal failure,5298,2
+atorvastatin,kidney failure,0,0
+atorvastatin,hepatic failure,590,1
+atorvastatin,liver failure,0,0
+atorvastatin,respiratory failure,1638,1
+atorvastatin,pulmonary embolism,1686,1
+atorvastatin,deep vein thrombosis,995,1
+atorvastatin,gastrointestinal haemorrhage,2943,2
+atorvastatin,internal bleeding,0,0
+atorvastatin,seizure,1881,1
+atorvastatin,convulsion,283,0
+atorvastatin,suicidal ideation,1010,1
+atorvastatin,rhabdomyolysis,3962,2
+atorvastatin,pancreatitis,1063,1
+atorvastatin,sepsis,2727,2
+atorvastatin,chest pain,5605,2
+atorvastatin,dyspnoea,15552,2
+atorvastatin,shortness of breath,0,0
+atorvastatin,dizziness,12867,2
+atorvastatin,vertigo,1471,1
+atorvastatin,palpitations,2628,2
+atorvastatin,tachycardia,2051,2
+atorvastatin,bradycardia,2296,2
+atorvastatin,hypertension,5103,2
+atorvastatin,hypotension,6531,2
+atorvastatin,syncope,3733,2
+atorvastatin,fainting,0,0
+atorvastatin,oedema,1282,1
+atorvastatin,swelling,1548,1
+atorvastatin,rash,7073,2
+atorvastatin,urticaria,2188,2
+atorvastatin,hives,0,0
+atorvastatin,pruritus,7356,2
+atorvastatin,itching,0,0
+atorvastatin,vomiting,9327,2
+atorvastatin,nausea,15441,2
+atorvastatin,diarrhoea,16469,2
+atorvastatin,abdominal pain,5145,2
+atorvastatin,headache,11319,2
+atorvastatin,migraine,1179,1
+atorvastatin,tremor,3113,2
+atorvastatin,insomnia,5392,2
+atorvastatin,anxiety,4561,2
+atorvastatin,depression,3940,2
+atorvastatin,fatigue,18514,2
+atorvastatin,asthenia,10493,2
+atorvastatin,weakness,0,0
+atorvastatin,pyrexia,6132,2
+atorvastatin,fever,0,0
+atorvastatin,arthralgia,9404,2
+atorvastatin,joint pain,0,0
+atorvastatin,myalgia,8936,2
+atorvastatin,muscle pain,0,0
+atorvastatin,back pain,5728,2
+atorvastatin,cough,7214,2
+lipitor,myocardial infarction,5736,2
+lipitor,heart attack,0,0
+lipitor,cardiac arrest,898,1
+lipitor,stroke,0,0
+lipitor,cerebrovascular accident,4476,2
+lipitor,anaphylactic reaction,349,1
+lipitor,anaphylaxis,0,0
+lipitor,angioedema,261,0
+lipitor,stevens-johnson syndrome,127,0
+lipitor,renal failure,3502,2
+lipitor,kidney failure,0,0
+lipitor,hepatic failure,279,0
+lipitor,liver failure,0,0
+lipitor,respiratory failure,905,1
+lipitor,pulmonary embolism,991,1
+lipitor,deep vein thrombosis,852,1
+lipitor,gastrointestinal haemorrhage,1676,1
+lipitor,internal bleeding,0,0
+lipitor,seizure,563,1
+lipitor,convulsion,791,1
+lipitor,suicidal ideation,645,1
+lipitor,rhabdomyolysis,1329,1
+lipitor,pancreatitis,939,1
+lipitor,sepsis,1189,1
+lipitor,chest pain,4016,2
+lipitor,dyspnoea,7722,2
+lipitor,shortness of breath,0,0
+lipitor,dizziness,7087,2
+lipitor,vertigo,681,1
+lipitor,palpitations,1685,1
+lipitor,tachycardia,753,1
+lipitor,bradycardia,602,1
+lipitor,hypertension,4199,2
+lipitor,hypotension,2627,2
+lipitor,syncope,1408,1
+lipitor,fainting,0,0
+lipitor,oedema,837,1
+lipitor,swelling,1051,1
+lipitor,rash,3760,2
+lipitor,urticaria,1327,1
+lipitor,hives,0,0
+lipitor,pruritus,3567,2
+lipitor,itching,0,0
+lipitor,vomiting,4516,2
+lipitor,nausea,9040,2
+lipitor,diarrhoea,7412,2
+lipitor,abdominal pain,2439,2
+lipitor,headache,6685,2
+lipitor,migraine,681,1
+lipitor,tremor,2045,2
+lipitor,insomnia,3674,2
+lipitor,anxiety,3926,2
+lipitor,depression,3318,2
+lipitor,fatigue,9671,2
+lipitor,asthenia,6600,2
+lipitor,weakness,0,0
+lipitor,pyrexia,3025,2
+lipitor,fever,0,0
+lipitor,arthralgia,6311,2
+lipitor,joint pain,0,0
+lipitor,myalgia,7566,2
+lipitor,muscle pain,0,0
+lipitor,back pain,4219,2
+lipitor,cough,3688,2
+lisinopril,myocardial infarction,5678,2
+lisinopril,heart attack,0,0
+lisinopril,cardiac arrest,1821,1
+lisinopril,stroke,0,0
+lisinopril,cerebrovascular accident,4695,2
+lisinopril,anaphylactic reaction,1025,1
+lisinopril,anaphylaxis,0,0
+lisinopril,angioedema,8000,2
+lisinopril,stevens-johnson syndrome,255,0
+lisinopril,renal failure,7652,2
+lisinopril,kidney failure,0,0
+lisinopril,hepatic failure,390,1
+lisinopril,liver failure,0,0
+lisinopril,respiratory failure,1609,1
+lisinopril,pulmonary embolism,1707,1
+lisinopril,deep vein thrombosis,1519,1
+lisinopril,gastrointestinal haemorrhage,3290,2
+lisinopril,internal bleeding,0,0
+lisinopril,seizure,1379,1
+lisinopril,convulsion,887,1
+lisinopril,suicidal ideation,1334,1
+lisinopril,rhabdomyolysis,988,1
+lisinopril,pancreatitis,1869,1
+lisinopril,sepsis,2249,2
+lisinopril,chest pain,5936,2
+lisinopril,dyspnoea,14079,2
+lisinopril,shortness of breath,0,0
+lisinopril,dizziness,13873,2
+lisinopril,vertigo,1130,1
+lisinopril,palpitations,2525,2
+lisinopril,tachycardia,1505,1
+lisinopril,bradycardia,1533,1
+lisinopril,hypertension,8625,2
+lisinopril,hypotension,6783,2
+lisinopril,syncope,2703,2
+lisinopril,fainting,0,0
+lisinopril,oedema,2190,2
+lisinopril,swelling,2996,2
+lisinopril,rash,8507,2
+lisinopril,urticaria,3458,2
+lisinopril,hives,0,0
+lisinopril,pruritus,7906,2
+lisinopril,itching,0,0
+lisinopril,vomiting,10851,2
+lisinopril,nausea,18800,2
+lisinopril,diarrhoea,17412,2
+lisinopril,abdominal pain,5024,2
+lisinopril,headache,13055,2
+lisinopril,migraine,1923,1
+lisinopril,tremor,3402,2
+lisinopril,insomnia,6848,2
+lisinopril,anxiety,7206,2
+lisinopril,depression,6084,2
+lisinopril,fatigue,20082,2
+lisinopril,asthenia,10971,2
+lisinopril,weakness,0,0
+lisinopril,pyrexia,5310,2
+lisinopril,fever,0,0
+lisinopril,arthralgia,9549,2
+lisinopril,joint pain,0,0
+lisinopril,myalgia,4073,2
+lisinopril,muscle pain,0,0
+lisinopril,back pain,6007,2
+lisinopril,cough,8425,2
+zestril,myocardial infarction,576,1
+zestril,heart attack,0,0
+zestril,cardiac arrest,95,0
+zestril,stroke,0,0
+zestril,cerebrovascular accident,425,1
+zestril,anaphylactic reaction,29,0
+zestril,anaphylaxis,0,0
+zestril,angioedema,92,0
+zestril,stevens-johnson syndrome,15,0
+zestril,renal failure,439,1
+zestril,kidney failure,0,0
+zestril,hepatic failure,17,0
+zestril,liver failure,0,0
+zestril,respiratory failure,97,0
+zestril,pulmonary embolism,95,0
+zestril,deep vein thrombosis,112,0
+zestril,gastrointestinal haemorrhage,217,0
+zestril,internal bleeding,0,0
+zestril,seizure,34,0
+zestril,convulsion,74,0
+zestril,suicidal ideation,51,0
+zestril,rhabdomyolysis,63,0
+zestril,pancreatitis,219,0
+zestril,sepsis,121,0
+zestril,chest pain,701,1
+zestril,dyspnoea,924,1
+zestril,shortness of breath,0,0
+zestril,dizziness,941,1
+zestril,vertigo,57,0
+zestril,palpitations,168,0
+zestril,tachycardia,111,0
+zestril,bradycardia,93,0
+zestril,hypertension,851,1
+zestril,hypotension,284,0
+zestril,syncope,134,0
+zestril,fainting,0,0
+zestril,oedema,470,1
+zestril,swelling,482,1
+zestril,rash,557,1
+zestril,urticaria,414,1
+zestril,hives,0,0
+zestril,pruritus,480,1
+zestril,itching,0,0
+zestril,vomiting,885,1
+zestril,nausea,1064,1
+zestril,diarrhoea,944,1
+zestril,abdominal pain,421,1
+zestril,headache,831,1
+zestril,migraine,286,0
+zestril,tremor,157,0
+zestril,insomnia,516,1
+zestril,anxiety,780,1
+zestril,depression,606,1
+zestril,fatigue,1054,1
+zestril,asthenia,847,1
+zestril,weakness,0,0
+zestril,pyrexia,601,1
+zestril,fever,0,0
+zestril,arthralgia,749,1
+zestril,joint pain,0,0
+zestril,myalgia,166,0
+zestril,muscle pain,0,0
+zestril,back pain,306,1
+zestril,cough,356,1
+amlodipine,myocardial infarction,3219,2
+amlodipine,heart attack,0,0
+amlodipine,cardiac arrest,2451,2
+amlodipine,stroke,0,0
+amlodipine,cerebrovascular accident,4190,2
+amlodipine,anaphylactic reaction,916,1
+amlodipine,anaphylaxis,0,0
+amlodipine,angioedema,1987,1
+amlodipine,stevens-johnson syndrome,496,1
+amlodipine,renal failure,7123,2
+amlodipine,kidney failure,0,0
+amlodipine,hepatic failure,516,1
+amlodipine,liver failure,0,0
+amlodipine,respiratory failure,2483,2
+amlodipine,pulmonary embolism,2057,2
+amlodipine,deep vein thrombosis,1401,1
+amlodipine,gastrointestinal haemorrhage,2642,2
+amlodipine,internal bleeding,0,0
+amlodipine,seizure,1891,1
+amlodipine,convulsion,581,1
+amlodipine,suicidal ideation,1109,1
+amlodipine,rhabdomyolysis,1867,1
+amlodipine,pancreatitis,1103,1
+amlodipine,sepsis,3100,2
+amlodipine,chest pain,5850,2
+amlodipine,dyspnoea,17773,2
+amlodipine,shortness of breath,0,0
+amlodipine,dizziness,14794,2
+amlodipine,vertigo,1748,1
+amlodipine,palpitations,3819,2
+amlodipine,tachycardia,2207,2
+amlodipine,bradycardia,3465,2
+amlodipine,hypertension,10655,2
+amlodipine,hypotension,11233,2
+amlodipine,syncope,3822,2
+amlodipine,fainting,0,0
+amlodipine,oedema,2582,2
+amlodipine,swelling,2334,2
+amlodipine,rash,8874,2
+amlodipine,urticaria,2565,2
+amlodipine,hives,0,0
+amlodipine,pruritus,8399,2
+amlodipine,itching,0,0
+amlodipine,vomiting,11805,2
+amlodipine,nausea,18247,2
+amlodipine,diarrhoea,19001,2
+amlodipine,abdominal pain,6250,2
+amlodipine,headache,13774,2
+amlodipine,migraine,1411,1
+amlodipine,tremor,3725,2
+amlodipine,insomnia,6250,2
+amlodipine,anxiety,5870,2
+amlodipine,depression,4611,2
+amlodipine,fatigue,21947,2
+amlodipine,asthenia,11811,2
+amlodipine,weakness,0,0
+amlodipine,pyrexia,7813,2
+amlodipine,fever,0,0
+amlodipine,arthralgia,10476,2
+amlodipine,joint pain,0,0
+amlodipine,myalgia,4926,2
+amlodipine,muscle pain,0,0
+amlodipine,back pain,6267,2
+amlodipine,cough,9086,2
+norvasc,myocardial infarction,2116,2
+norvasc,heart attack,0,0
+norvasc,cardiac arrest,495,1
+norvasc,stroke,0,0
+norvasc,cerebrovascular accident,2076,2
+norvasc,anaphylactic reaction,217,0
+norvasc,anaphylaxis,0,0
+norvasc,angioedema,232,0
+norvasc,stevens-johnson syndrome,181,0
+norvasc,renal failure,2205,2
+norvasc,kidney failure,0,0
+norvasc,hepatic failure,162,0
+norvasc,liver failure,0,0
+norvasc,respiratory failure,633,1
+norvasc,pulmonary embolism,506,1
+norvasc,deep vein thrombosis,513,1
+norvasc,gastrointestinal haemorrhage,919,1
+norvasc,internal bleeding,0,0
+norvasc,seizure,283,0
+norvasc,convulsion,454,1
+norvasc,suicidal ideation,264,0
+norvasc,rhabdomyolysis,391,1
+norvasc,pancreatitis,394,1
+norvasc,sepsis,789,1
+norvasc,chest pain,1992,1
+norvasc,dyspnoea,3995,2
+norvasc,shortness of breath,0,0
+norvasc,dizziness,3665,2
+norvasc,vertigo,438,1
+norvasc,palpitations,908,1
+norvasc,tachycardia,461,1
+norvasc,bradycardia,541,1
+norvasc,hypertension,2961,2
+norvasc,hypotension,1622,1
+norvasc,syncope,1001,1
+norvasc,fainting,0,0
+norvasc,oedema,652,1
+norvasc,swelling,638,1
+norvasc,rash,2016,2
+norvasc,urticaria,648,1
+norvasc,hives,0,0
+norvasc,pruritus,1712,1
+norvasc,itching,0,0
+norvasc,vomiting,2589,2
+norvasc,nausea,4619,2
+norvasc,diarrhoea,3836,2
+norvasc,abdominal pain,1414,1
+norvasc,headache,3210,2
+norvasc,migraine,306,1
+norvasc,tremor,1056,1
+norvasc,insomnia,1627,1
+norvasc,anxiety,1963,1
+norvasc,depression,1533,1
+norvasc,fatigue,4385,2
+norvasc,asthenia,3229,2
+norvasc,weakness,0,0
+norvasc,pyrexia,1948,1
+norvasc,fever,0,0
+norvasc,arthralgia,2247,2
+norvasc,joint pain,0,0
+norvasc,myalgia,1172,1
+norvasc,muscle pain,0,0
+norvasc,back pain,1778,1
+norvasc,cough,1918,1
+metoprolol,myocardial infarction,7264,2
+metoprolol,heart attack,0,0
+metoprolol,cardiac arrest,2796,2
+metoprolol,stroke,0,0
+metoprolol,cerebrovascular accident,4514,2
+metoprolol,anaphylactic reaction,506,1
+metoprolol,anaphylaxis,0,0
+metoprolol,angioedema,909,1
+metoprolol,stevens-johnson syndrome,293,0
+metoprolol,renal failure,6588,2
+metoprolol,kidney failure,0,0
+metoprolol,hepatic failure,522,1
+metoprolol,liver failure,0,0
+metoprolol,respiratory failure,2115,2
+metoprolol,pulmonary embolism,1921,1
+metoprolol,deep vein thrombosis,1580,1
+metoprolol,gastrointestinal haemorrhage,4044,2
+metoprolol,internal bleeding,0,0
+metoprolol,seizure,1545,1
+metoprolol,convulsion,736,1
+metoprolol,suicidal ideation,856,1
+metoprolol,rhabdomyolysis,1591,1
+metoprolol,pancreatitis,1096,1
+metoprolol,sepsis,3102,2
+metoprolol,chest pain,6481,2
+metoprolol,dyspnoea,18081,2
+metoprolol,shortness of breath,0,0
+metoprolol,dizziness,15028,2
+metoprolol,vertigo,1266,1
+metoprolol,palpitations,3753,2
+metoprolol,tachycardia,2566,2
+metoprolol,bradycardia,3852,2
+metoprolol,hypertension,7753,2
+metoprolol,hypotension,9325,2
+metoprolol,syncope,4117,2
+metoprolol,fainting,0,0
+metoprolol,oedema,1508,1
+metoprolol,swelling,1818,1
+metoprolol,rash,7036,2
+metoprolol,urticaria,2118,2
+metoprolol,hives,0,0
+metoprolol,pruritus,6924,2
+metoprolol,itching,0,0
+metoprolol,vomiting,9094,2
+metoprolol,nausea,17268,2
+metoprolol,diarrhoea,17631,2
+metoprolol,abdominal pain,4844,2
+metoprolol,headache,11666,2
+metoprolol,migraine,1208,1
+metoprolol,tremor,3514,2
+metoprolol,insomnia,5763,2
+metoprolol,anxiety,5614,2
+metoprolol,depression,4451,2
+metoprolol,fatigue,20763,2
+metoprolol,asthenia,11966,2
+metoprolol,weakness,0,0
+metoprolol,pyrexia,5675,2
+metoprolol,fever,0,0
+metoprolol,arthralgia,8412,2
+metoprolol,joint pain,0,0
+metoprolol,myalgia,3857,2
+metoprolol,muscle pain,0,0
+metoprolol,back pain,5957,2
+metoprolol,cough,7689,2
+lopressor,myocardial infarction,1539,1
+lopressor,heart attack,0,0
+lopressor,cardiac arrest,264,0
+lopressor,stroke,0,0
+lopressor,cerebrovascular accident,695,1
+lopressor,anaphylactic reaction,53,0
+lopressor,anaphylaxis,0,0
+lopressor,angioedema,53,0
+lopressor,stevens-johnson syndrome,43,0
+lopressor,renal failure,811,1
+lopressor,kidney failure,0,0
+lopressor,hepatic failure,54,0
+lopressor,liver failure,0,0
+lopressor,respiratory failure,310,1
+lopressor,pulmonary embolism,264,0
+lopressor,deep vein thrombosis,225,0
+lopressor,gastrointestinal haemorrhage,484,1
+lopressor,internal bleeding,0,0
+lopressor,seizure,95,0
+lopressor,convulsion,163,0
+lopressor,suicidal ideation,78,0
+lopressor,rhabdomyolysis,81,0
+lopressor,pancreatitis,130,0
+lopressor,sepsis,316,1
+lopressor,chest pain,798,1
+lopressor,dyspnoea,1308,1
+lopressor,shortness of breath,0,0
+lopressor,dizziness,951,1
+lopressor,vertigo,89,0
+lopressor,palpitations,339,1
+lopressor,tachycardia,237,0
+lopressor,bradycardia,233,0
+lopressor,hypertension,734,1
+lopressor,hypotension,716,1
+lopressor,syncope,333,1
+lopressor,fainting,0,0
+lopressor,oedema,153,0
+lopressor,swelling,120,0
+lopressor,rash,472,1
+lopressor,urticaria,158,0
+lopressor,hives,0,0
+lopressor,pruritus,397,1
+lopressor,itching,0,0
+lopressor,vomiting,746,1
+lopressor,nausea,1340,1
+lopressor,diarrhoea,1079,1
+lopressor,abdominal pain,429,1
+lopressor,headache,780,1
+lopressor,migraine,92,0
+lopressor,tremor,288,0
+lopressor,insomnia,379,1
+lopressor,anxiety,827,1
+lopressor,depression,578,1
+lopressor,fatigue,1164,1
+lopressor,asthenia,982,1
+lopressor,weakness,0,0
+lopressor,pyrexia,510,1
+lopressor,fever,0,0
+lopressor,arthralgia,561,1
+lopressor,joint pain,0,0
+lopressor,myalgia,281,0
+lopressor,muscle pain,0,0
+lopressor,back pain,517,1
+lopressor,cough,427,1
+losartan,myocardial infarction,2297,2
+losartan,heart attack,0,0
+losartan,cardiac arrest,828,1
+losartan,stroke,0,0
+losartan,cerebrovascular accident,2105,2
+losartan,anaphylactic reaction,338,1
+losartan,anaphylaxis,0,0
+losartan,angioedema,1058,1
+losartan,stevens-johnson syndrome,127,0
+losartan,renal failure,3254,2
+losartan,kidney failure,0,0
+losartan,hepatic failure,160,0
+losartan,liver failure,0,0
+losartan,respiratory failure,754,1
+losartan,pulmonary embolism,842,1
+losartan,deep vein thrombosis,624,1
+losartan,gastrointestinal haemorrhage,1406,1
+losartan,internal bleeding,0,0
+losartan,seizure,1032,1
+losartan,convulsion,220,0
+losartan,suicidal ideation,520,1
+losartan,rhabdomyolysis,424,1
+losartan,pancreatitis,543,1
+losartan,sepsis,1239,1
+losartan,chest pain,3346,2
+losartan,dyspnoea,9214,2
+losartan,shortness of breath,0,0
+losartan,dizziness,8831,2
+losartan,vertigo,794,1
+losartan,palpitations,1989,1
+losartan,tachycardia,1113,1
+losartan,bradycardia,753,1
+losartan,hypertension,5126,2
+losartan,hypotension,3286,2
+losartan,syncope,1714,1
+losartan,fainting,0,0
+losartan,oedema,712,1
+losartan,swelling,1411,1
+losartan,rash,5040,2
+losartan,urticaria,1465,1
+losartan,hives,0,0
+losartan,pruritus,5260,2
+losartan,itching,0,0
+losartan,vomiting,5632,2
+losartan,nausea,10171,2
+losartan,diarrhoea,10788,2
+losartan,abdominal pain,2701,2
+losartan,headache,8573,2
+losartan,migraine,1063,1
+losartan,tremor,2158,2
+losartan,insomnia,4057,2
+losartan,anxiety,3533,2
+losartan,depression,2689,2
+losartan,fatigue,12899,2
+losartan,asthenia,6418,2
+losartan,weakness,0,0
+losartan,pyrexia,3645,2
+losartan,fever,0,0
+losartan,arthralgia,6777,2
+losartan,joint pain,0,0
+losartan,myalgia,2676,2
+losartan,muscle pain,0,0
+losartan,back pain,4273,2
+losartan,cough,5758,2
+cozaar,myocardial infarction,800,1
+cozaar,heart attack,0,0
+cozaar,cardiac arrest,231,0
+cozaar,stroke,0,0
+cozaar,cerebrovascular accident,579,1
+cozaar,anaphylactic reaction,69,0
+cozaar,anaphylaxis,0,0
+cozaar,angioedema,91,0
+cozaar,stevens-johnson syndrome,25,0
+cozaar,renal failure,893,1
+cozaar,kidney failure,0,0
+cozaar,hepatic failure,54,0
+cozaar,liver failure,0,0
+cozaar,respiratory failure,196,0
+cozaar,pulmonary embolism,223,0
+cozaar,deep vein thrombosis,188,0
+cozaar,gastrointestinal haemorrhage,377,1
+cozaar,internal bleeding,0,0
+cozaar,seizure,88,0
+cozaar,convulsion,134,0
+cozaar,suicidal ideation,100,0
+cozaar,rhabdomyolysis,147,0
+cozaar,pancreatitis,164,0
+cozaar,sepsis,275,0
+cozaar,chest pain,735,1
+cozaar,dyspnoea,1570,1
+cozaar,shortness of breath,0,0
+cozaar,dizziness,1474,1
+cozaar,vertigo,131,0
+cozaar,palpitations,390,1
+cozaar,tachycardia,176,0
+cozaar,bradycardia,203,0
+cozaar,hypertension,967,1
+cozaar,hypotension,657,1
+cozaar,syncope,318,1
+cozaar,fainting,0,0
+cozaar,oedema,195,0
+cozaar,swelling,182,0
+cozaar,rash,723,1
+cozaar,urticaria,250,0
+cozaar,hives,0,0
+cozaar,pruritus,677,1
+cozaar,itching,0,0
+cozaar,vomiting,891,1
+cozaar,nausea,1725,1
+cozaar,diarrhoea,1477,1
+cozaar,abdominal pain,493,1
+cozaar,headache,1188,1
+cozaar,migraine,112,0
+cozaar,tremor,384,1
+cozaar,insomnia,603,1
+cozaar,anxiety,763,1
+cozaar,depression,582,1
+cozaar,fatigue,1664,1
+cozaar,asthenia,1083,1
+cozaar,weakness,0,0
+cozaar,pyrexia,565,1
+cozaar,fever,0,0
+cozaar,arthralgia,914,1
+cozaar,joint pain,0,0
+cozaar,myalgia,506,1
+cozaar,muscle pain,0,0
+cozaar,back pain,728,1
+cozaar,cough,831,1
+hydrochlorothiazide,myocardial infarction,3049,2
+hydrochlorothiazide,heart attack,0,0
+hydrochlorothiazide,cardiac arrest,1021,1
+hydrochlorothiazide,stroke,0,0
+hydrochlorothiazide,cerebrovascular accident,3084,2
+hydrochlorothiazide,anaphylactic reaction,536,1
+hydrochlorothiazide,anaphylaxis,0,0
+hydrochlorothiazide,angioedema,2043,2
+hydrochlorothiazide,stevens-johnson syndrome,291,0
+hydrochlorothiazide,renal failure,4311,2
+hydrochlorothiazide,kidney failure,0,0
+hydrochlorothiazide,hepatic failure,320,1
+hydrochlorothiazide,liver failure,0,0
+hydrochlorothiazide,respiratory failure,1167,1
+hydrochlorothiazide,pulmonary embolism,1571,1
+hydrochlorothiazide,deep vein thrombosis,1123,1
+hydrochlorothiazide,gastrointestinal haemorrhage,1573,1
+hydrochlorothiazide,internal bleeding,0,0
+hydrochlorothiazide,seizure,862,1
+hydrochlorothiazide,convulsion,699,1
+hydrochlorothiazide,suicidal ideation,851,1
+hydrochlorothiazide,rhabdomyolysis,935,1
+hydrochlorothiazide,pancreatitis,1124,1
+hydrochlorothiazide,sepsis,1668,1
+hydrochlorothiazide,chest pain,4069,2
+hydrochlorothiazide,dyspnoea,10708,2
+hydrochlorothiazide,shortness of breath,0,0
+hydrochlorothiazide,dizziness,10648,2
+hydrochlorothiazide,vertigo,1188,1
+hydrochlorothiazide,palpitations,2547,2
+hydrochlorothiazide,tachycardia,1945,1
+hydrochlorothiazide,bradycardia,1386,1
+hydrochlorothiazide,hypertension,6725,2
+hydrochlorothiazide,hypotension,5339,2
+hydrochlorothiazide,syncope,3084,2
+hydrochlorothiazide,fainting,0,0
+hydrochlorothiazide,oedema,1058,1
+hydrochlorothiazide,swelling,1590,1
+hydrochlorothiazide,rash,5469,2
+hydrochlorothiazide,urticaria,1968,1
+hydrochlorothiazide,hives,0,0
+hydrochlorothiazide,pruritus,6075,2
+hydrochlorothiazide,itching,0,0
+hydrochlorothiazide,vomiting,7791,2
+hydrochlorothiazide,nausea,13679,2
+hydrochlorothiazide,diarrhoea,11749,2
+hydrochlorothiazide,abdominal pain,4271,2
+hydrochlorothiazide,headache,10251,2
+hydrochlorothiazide,migraine,1284,1
+hydrochlorothiazide,tremor,2595,2
+hydrochlorothiazide,insomnia,5102,2
+hydrochlorothiazide,anxiety,5248,2
+hydrochlorothiazide,depression,3812,2
+hydrochlorothiazide,fatigue,13949,2
+hydrochlorothiazide,asthenia,8053,2
+hydrochlorothiazide,weakness,0,0
+hydrochlorothiazide,pyrexia,5004,2
+hydrochlorothiazide,fever,0,0
+hydrochlorothiazide,arthralgia,8011,2
+hydrochlorothiazide,joint pain,0,0
+hydrochlorothiazide,myalgia,3036,2
+hydrochlorothiazide,muscle pain,0,0
+hydrochlorothiazide,back pain,5049,2
+hydrochlorothiazide,cough,6183,2
+microzide,myocardial infarction,15,0
+microzide,heart attack,0,0
+microzide,cardiac arrest,1,0
+microzide,stroke,0,0
+microzide,cerebrovascular accident,16,0
+microzide,anaphylactic reaction,5,0
+microzide,anaphylaxis,0,0
+microzide,angioedema,2,0
+microzide,stevens-johnson syndrome,0,0
+microzide,renal failure,18,0
+microzide,kidney failure,0,0
+microzide,hepatic failure,0,0
+microzide,liver failure,0,0
+microzide,respiratory failure,4,0
+microzide,pulmonary embolism,0,0
+microzide,deep vein thrombosis,3,0
+microzide,gastrointestinal haemorrhage,18,0
+microzide,internal bleeding,0,0
+microzide,seizure,3,0
+microzide,convulsion,0,0
+microzide,suicidal ideation,4,0
+microzide,rhabdomyolysis,3,0
+microzide,pancreatitis,5,0
+microzide,sepsis,2,0
+microzide,chest pain,16,0
+microzide,dyspnoea,26,0
+microzide,shortness of breath,0,0
+microzide,dizziness,30,0
+microzide,vertigo,0,0
+microzide,palpitations,16,0
+microzide,tachycardia,3,0
+microzide,bradycardia,3,0
+microzide,hypertension,35,0
+microzide,hypotension,6,0
+microzide,syncope,7,0
+microzide,fainting,0,0
+microzide,oedema,5,0
+microzide,swelling,5,0
+microzide,rash,16,0
+microzide,urticaria,10,0
+microzide,hives,0,0
+microzide,pruritus,13,0
+microzide,itching,0,0
+microzide,vomiting,17,0
+microzide,nausea,44,0
+microzide,diarrhoea,38,0
+microzide,abdominal pain,16,0
+microzide,headache,24,0
+microzide,migraine,6,0
+microzide,tremor,12,0
+microzide,insomnia,17,0
+microzide,anxiety,27,0
+microzide,depression,20,0
+microzide,fatigue,46,0
+microzide,asthenia,29,0
+microzide,weakness,0,0
+microzide,pyrexia,12,0
+microzide,fever,0,0
+microzide,arthralgia,19,0
+microzide,joint pain,0,0
+microzide,myalgia,14,0
+microzide,muscle pain,0,0
+microzide,back pain,17,0
+microzide,cough,19,0
+furosemide,myocardial infarction,3720,2
+furosemide,heart attack,0,0
+furosemide,cardiac arrest,2705,2
+furosemide,stroke,0,0
+furosemide,cerebrovascular accident,2893,2
+furosemide,anaphylactic reaction,518,1
+furosemide,anaphylaxis,0,0
+furosemide,angioedema,715,1
+furosemide,stevens-johnson syndrome,467,1
+furosemide,renal failure,8300,2
+furosemide,kidney failure,0,0
+furosemide,hepatic failure,1028,1
+furosemide,liver failure,0,0
+furosemide,respiratory failure,2963,2
+furosemide,pulmonary embolism,1980,1
+furosemide,deep vein thrombosis,1351,1
+furosemide,gastrointestinal haemorrhage,4036,2
+furosemide,internal bleeding,0,0
+furosemide,seizure,1281,1
+furosemide,convulsion,628,1
+furosemide,suicidal ideation,482,1
+furosemide,rhabdomyolysis,1798,1
+furosemide,pancreatitis,734,1
+furosemide,sepsis,3583,2
+furosemide,chest pain,4376,2
+furosemide,dyspnoea,17962,2
+furosemide,shortness of breath,0,0
+furosemide,dizziness,9534,2
+furosemide,vertigo,1073,1
+furosemide,palpitations,1993,1
+furosemide,tachycardia,1718,1
+furosemide,bradycardia,2950,2
+furosemide,hypertension,4898,2
+furosemide,hypotension,10057,2
+furosemide,syncope,3542,2
+furosemide,fainting,0,0
+furosemide,oedema,2809,2
+furosemide,swelling,1876,1
+furosemide,rash,5215,2
+furosemide,urticaria,1317,1
+furosemide,hives,0,0
+furosemide,pruritus,4527,2
+furosemide,itching,0,0
+furosemide,vomiting,7839,2
+furosemide,nausea,11126,2
+furosemide,diarrhoea,12669,2
+furosemide,abdominal pain,3969,2
+furosemide,headache,7983,2
+furosemide,migraine,916,1
+furosemide,tremor,2493,2
+furosemide,insomnia,3477,2
+furosemide,anxiety,3483,2
+furosemide,depression,3213,2
+furosemide,fatigue,12746,2
+furosemide,asthenia,9213,2
+furosemide,weakness,0,0
+furosemide,pyrexia,6226,2
+furosemide,fever,0,0
+furosemide,arthralgia,5175,2
+furosemide,joint pain,0,0
+furosemide,myalgia,2414,2
+furosemide,muscle pain,0,0
+furosemide,back pain,4264,2
+furosemide,cough,6291,2
+lasix,myocardial infarction,3670,2
+lasix,heart attack,0,0
+lasix,cardiac arrest,1588,1
+lasix,stroke,0,0
+lasix,cerebrovascular accident,2513,2
+lasix,anaphylactic reaction,322,1
+lasix,anaphylaxis,0,0
+lasix,angioedema,271,0
+lasix,stevens-johnson syndrome,370,1
+lasix,renal failure,5511,2
+lasix,kidney failure,0,0
+lasix,hepatic failure,711,1
+lasix,liver failure,0,0
+lasix,respiratory failure,2237,2
+lasix,pulmonary embolism,1393,1
+lasix,deep vein thrombosis,1174,1
+lasix,gastrointestinal haemorrhage,3181,2
+lasix,internal bleeding,0,0
+lasix,seizure,537,1
+lasix,convulsion,660,1
+lasix,suicidal ideation,359,1
+lasix,rhabdomyolysis,710,1
+lasix,pancreatitis,567,1
+lasix,sepsis,2447,2
+lasix,chest pain,3580,2
+lasix,dyspnoea,12601,2
+lasix,shortness of breath,0,0
+lasix,dizziness,5858,2
+lasix,vertigo,582,1
+lasix,palpitations,1465,1
+lasix,tachycardia,1034,1
+lasix,bradycardia,1524,1
+lasix,hypertension,3386,2
+lasix,hypotension,5400,2
+lasix,syncope,2399,2
+lasix,fainting,0,0
+lasix,oedema,2607,2
+lasix,swelling,1543,1
+lasix,rash,3255,2
+lasix,urticaria,841,1
+lasix,hives,0,0
+lasix,pruritus,2680,2
+lasix,itching,0,0
+lasix,vomiting,5207,2
+lasix,nausea,8427,2
+lasix,diarrhoea,8106,2
+lasix,abdominal pain,2938,2
+lasix,headache,5303,2
+lasix,migraine,604,1
+lasix,tremor,1694,1
+lasix,insomnia,2345,2
+lasix,anxiety,3531,2
+lasix,depression,2522,2
+lasix,fatigue,8598,2
+lasix,asthenia,6820,2
+lasix,weakness,0,0
+lasix,pyrexia,4167,2
+lasix,fever,0,0
+lasix,arthralgia,3883,2
+lasix,joint pain,0,0
+lasix,myalgia,1658,1
+lasix,muscle pain,0,0
+lasix,back pain,3249,2
+lasix,cough,4106,2
+carvedilol,myocardial infarction,1939,1
+carvedilol,heart attack,0,0
+carvedilol,cardiac arrest,980,1
+carvedilol,stroke,0,0
+carvedilol,cerebrovascular accident,1312,1
+carvedilol,anaphylactic reaction,193,0
+carvedilol,anaphylaxis,0,0
+carvedilol,angioedema,293,0
+carvedilol,stevens-johnson syndrome,94,0
+carvedilol,renal failure,3078,2
+carvedilol,kidney failure,0,0
+carvedilol,hepatic failure,163,0
+carvedilol,liver failure,0,0
+carvedilol,respiratory failure,693,1
+carvedilol,pulmonary embolism,446,1
+carvedilol,deep vein thrombosis,327,1
+carvedilol,gastrointestinal haemorrhage,1510,1
+carvedilol,internal bleeding,0,0
+carvedilol,seizure,495,1
+carvedilol,convulsion,148,0
+carvedilol,suicidal ideation,144,0
+carvedilol,rhabdomyolysis,374,1
+carvedilol,pancreatitis,278,0
+carvedilol,sepsis,851,1
+carvedilol,chest pain,1976,1
+carvedilol,dyspnoea,5775,2
+carvedilol,shortness of breath,0,0
+carvedilol,dizziness,4668,2
+carvedilol,vertigo,413,1
+carvedilol,palpitations,769,1
+carvedilol,tachycardia,542,1
+carvedilol,bradycardia,1517,1
+carvedilol,hypertension,2393,2
+carvedilol,hypotension,4256,2
+carvedilol,syncope,1412,1
+carvedilol,fainting,0,0
+carvedilol,oedema,539,1
+carvedilol,swelling,634,1
+carvedilol,rash,1808,1
+carvedilol,urticaria,452,1
+carvedilol,hives,0,0
+carvedilol,pruritus,1988,1
+carvedilol,itching,0,0
+carvedilol,vomiting,2570,2
+carvedilol,nausea,4483,2
+carvedilol,diarrhoea,5133,2
+carvedilol,abdominal pain,1230,1
+carvedilol,headache,2965,2
+carvedilol,migraine,219,0
+carvedilol,tremor,704,1
+carvedilol,insomnia,1580,1
+carvedilol,anxiety,1444,1
+carvedilol,depression,1156,1
+carvedilol,fatigue,6269,2
+carvedilol,asthenia,3716,2
+carvedilol,weakness,0,0
+carvedilol,pyrexia,1604,1
+carvedilol,fever,0,0
+carvedilol,arthralgia,2145,2
+carvedilol,joint pain,0,0
+carvedilol,myalgia,981,1
+carvedilol,muscle pain,0,0
+carvedilol,back pain,1649,1
+carvedilol,cough,2281,2
+coreg,myocardial infarction,1906,1
+coreg,heart attack,0,0
+coreg,cardiac arrest,481,1
+coreg,stroke,0,0
+coreg,cerebrovascular accident,950,1
+coreg,anaphylactic reaction,107,0
+coreg,anaphylaxis,0,0
+coreg,angioedema,76,0
+coreg,stevens-johnson syndrome,33,0
+coreg,renal failure,1429,1
+coreg,kidney failure,0,0
+coreg,hepatic failure,59,0
+coreg,liver failure,0,0
+coreg,respiratory failure,419,1
+coreg,pulmonary embolism,226,0
+coreg,deep vein thrombosis,241,0
+coreg,gastrointestinal haemorrhage,1079,1
+coreg,internal bleeding,0,0
+coreg,seizure,126,0
+coreg,convulsion,157,0
+coreg,suicidal ideation,97,0
+coreg,rhabdomyolysis,100,0
+coreg,pancreatitis,166,0
+coreg,sepsis,461,1
+coreg,chest pain,1198,1
+coreg,dyspnoea,2916,2
+coreg,shortness of breath,0,0
+coreg,dizziness,2649,2
+coreg,vertigo,158,0
+coreg,palpitations,566,1
+coreg,tachycardia,271,0
+coreg,bradycardia,350,1
+coreg,hypertension,1200,1
+coreg,hypotension,1721,1
+coreg,syncope,572,1
+coreg,fainting,0,0
+coreg,oedema,342,1
+coreg,swelling,315,1
+coreg,rash,857,1
+coreg,urticaria,261,0
+coreg,hives,0,0
+coreg,pruritus,857,1
+coreg,itching,0,0
+coreg,vomiting,1284,1
+coreg,nausea,2412,2
+coreg,diarrhoea,2034,2
+coreg,abdominal pain,648,1
+coreg,headache,1475,1
+coreg,migraine,126,0
+coreg,tremor,389,1
+coreg,insomnia,787,1
+coreg,anxiety,1030,1
+coreg,depression,778,1
+coreg,fatigue,2932,2
+coreg,asthenia,1935,1
+coreg,weakness,0,0
+coreg,pyrexia,637,1
+coreg,fever,0,0
+coreg,arthralgia,920,1
+coreg,joint pain,0,0
+coreg,myalgia,520,1
+coreg,muscle pain,0,0
+coreg,back pain,933,1
+coreg,cough,998,1
+clopidogrel,myocardial infarction,3593,2
+clopidogrel,heart attack,0,0
+clopidogrel,cardiac arrest,1117,1
+clopidogrel,stroke,0,0
+clopidogrel,cerebrovascular accident,2313,2
+clopidogrel,anaphylactic reaction,276,0
+clopidogrel,anaphylaxis,0,0
+clopidogrel,angioedema,444,1
+clopidogrel,stevens-johnson syndrome,138,0
+clopidogrel,renal failure,1820,1
+clopidogrel,kidney failure,0,0
+clopidogrel,hepatic failure,150,0
+clopidogrel,liver failure,0,0
+clopidogrel,respiratory failure,577,1
+clopidogrel,pulmonary embolism,452,1
+clopidogrel,deep vein thrombosis,287,0
+clopidogrel,gastrointestinal haemorrhage,2678,2
+clopidogrel,internal bleeding,0,0
+clopidogrel,seizure,591,1
+clopidogrel,convulsion,187,0
+clopidogrel,suicidal ideation,242,0
+clopidogrel,rhabdomyolysis,1006,1
+clopidogrel,pancreatitis,206,0
+clopidogrel,sepsis,823,1
+clopidogrel,chest pain,2437,2
+clopidogrel,dyspnoea,5411,2
+clopidogrel,shortness of breath,0,0
+clopidogrel,dizziness,4265,2
+clopidogrel,vertigo,491,1
+clopidogrel,palpitations,758,1
+clopidogrel,tachycardia,592,1
+clopidogrel,bradycardia,928,1
+clopidogrel,hypertension,1660,1
+clopidogrel,hypotension,2717,2
+clopidogrel,syncope,1534,1
+clopidogrel,fainting,0,0
+clopidogrel,oedema,422,1
+clopidogrel,swelling,490,1
+clopidogrel,rash,1867,1
+clopidogrel,urticaria,726,1
+clopidogrel,hives,0,0
+clopidogrel,pruritus,2023,2
+clopidogrel,itching,0,0
+clopidogrel,vomiting,2733,2
+clopidogrel,nausea,3950,2
+clopidogrel,diarrhoea,4034,2
+clopidogrel,abdominal pain,1910,1
+clopidogrel,headache,2794,2
+clopidogrel,migraine,306,1
+clopidogrel,tremor,916,1
+clopidogrel,insomnia,1129,1
+clopidogrel,anxiety,1173,1
+clopidogrel,depression,1148,1
+clopidogrel,fatigue,4731,2
+clopidogrel,asthenia,3319,2
+clopidogrel,weakness,0,0
+clopidogrel,pyrexia,1563,1
+clopidogrel,fever,0,0
+clopidogrel,arthralgia,2060,2
+clopidogrel,joint pain,0,0
+clopidogrel,myalgia,1581,1
+clopidogrel,muscle pain,0,0
+clopidogrel,back pain,1425,1
+clopidogrel,cough,2105,2
+plavix,myocardial infarction,6881,2
+plavix,heart attack,0,0
+plavix,cardiac arrest,893,1
+plavix,stroke,0,0
+plavix,cerebrovascular accident,4598,2
+plavix,anaphylactic reaction,185,0
+plavix,anaphylaxis,0,0
+plavix,angioedema,271,0
+plavix,stevens-johnson syndrome,128,0
+plavix,renal failure,2818,2
+plavix,kidney failure,0,0
+plavix,hepatic failure,175,0
+plavix,liver failure,0,0
+plavix,respiratory failure,720,1
+plavix,pulmonary embolism,570,1
+plavix,deep vein thrombosis,557,1
+plavix,gastrointestinal haemorrhage,6249,2
+plavix,internal bleeding,0,0
+plavix,seizure,375,1
+plavix,convulsion,509,1
+plavix,suicidal ideation,252,0
+plavix,rhabdomyolysis,627,1
+plavix,pancreatitis,419,1
+plavix,sepsis,851,1
+plavix,chest pain,3535,2
+plavix,dyspnoea,5692,2
+plavix,shortness of breath,0,0
+plavix,dizziness,4396,2
+plavix,vertigo,478,1
+plavix,palpitations,800,1
+plavix,tachycardia,443,1
+plavix,bradycardia,769,1
+plavix,hypertension,2233,2
+plavix,hypotension,2543,2
+plavix,syncope,1331,1
+plavix,fainting,0,0
+plavix,oedema,548,1
+plavix,swelling,520,1
+plavix,rash,2042,2
+plavix,urticaria,776,1
+plavix,hives,0,0
+plavix,pruritus,2456,2
+plavix,itching,0,0
+plavix,vomiting,2784,2
+plavix,nausea,4939,2
+plavix,diarrhoea,4248,2
+plavix,abdominal pain,1448,1
+plavix,headache,3280,2
+plavix,migraine,282,0
+plavix,tremor,1123,1
+plavix,insomnia,1685,1
+plavix,anxiety,1923,1
+plavix,depression,1609,1
+plavix,fatigue,4819,2
+plavix,asthenia,4285,2
+plavix,weakness,0,0
+plavix,pyrexia,1741,1
+plavix,fever,0,0
+plavix,arthralgia,2218,2
+plavix,joint pain,0,0
+plavix,myalgia,1687,1
+plavix,muscle pain,0,0
+plavix,back pain,2078,2
+plavix,cough,1850,1
+warfarin,myocardial infarction,1389,1
+warfarin,heart attack,0,0
+warfarin,cardiac arrest,1158,1
+warfarin,stroke,0,0
+warfarin,cerebrovascular accident,2230,2
+warfarin,anaphylactic reaction,143,0
+warfarin,anaphylaxis,0,0
+warfarin,angioedema,233,0
+warfarin,stevens-johnson syndrome,145,0
+warfarin,renal failure,2255,2
+warfarin,kidney failure,0,0
+warfarin,hepatic failure,245,0
+warfarin,liver failure,0,0
+warfarin,respiratory failure,1170,1
+warfarin,pulmonary embolism,2119,2
+warfarin,deep vein thrombosis,2010,2
+warfarin,gastrointestinal haemorrhage,3421,2
+warfarin,internal bleeding,0,0
+warfarin,seizure,491,1
+warfarin,convulsion,398,1
+warfarin,suicidal ideation,296,0
+warfarin,rhabdomyolysis,616,1
+warfarin,pancreatitis,257,0
+warfarin,sepsis,1843,1
+warfarin,chest pain,2479,2
+warfarin,dyspnoea,8760,2
+warfarin,shortness of breath,0,0
+warfarin,dizziness,5385,2
+warfarin,vertigo,458,1
+warfarin,palpitations,1394,1
+warfarin,tachycardia,896,1
+warfarin,bradycardia,1036,1
+warfarin,hypertension,1655,1
+warfarin,hypotension,3744,2
+warfarin,syncope,1681,1
+warfarin,fainting,0,0
+warfarin,oedema,1123,1
+warfarin,swelling,943,1
+warfarin,rash,2538,2
+warfarin,urticaria,611,1
+warfarin,hives,0,0
+warfarin,pruritus,1922,1
+warfarin,itching,0,0
+warfarin,vomiting,3827,2
+warfarin,nausea,6192,2
+warfarin,diarrhoea,6213,2
+warfarin,abdominal pain,2200,2
+warfarin,headache,4797,2
+warfarin,migraine,556,1
+warfarin,tremor,1094,1
+warfarin,insomnia,1727,1
+warfarin,anxiety,1592,1
+warfarin,depression,1228,1
+warfarin,fatigue,6313,2
+warfarin,asthenia,4541,2
+warfarin,weakness,0,0
+warfarin,pyrexia,2729,2
+warfarin,fever,0,0
+warfarin,arthralgia,2435,2
+warfarin,joint pain,0,0
+warfarin,myalgia,1332,1
+warfarin,muscle pain,0,0
+warfarin,back pain,2063,2
+warfarin,cough,2798,2
+coumadin,myocardial infarction,0,0
+coumadin,heart attack,0,0
+coumadin,cardiac arrest,0,0
+coumadin,stroke,0,0
+coumadin,cerebrovascular accident,0,0
+coumadin,anaphylactic reaction,0,0
+coumadin,anaphylaxis,0,0
+coumadin,angioedema,0,0
+coumadin,stevens-johnson syndrome,0,0
+coumadin,renal failure,0,0
+coumadin,kidney failure,0,0
+coumadin,hepatic failure,0,0
+coumadin,liver failure,0,0
+coumadin,respiratory failure,0,0
+coumadin,pulmonary embolism,0,0
+coumadin,deep vein thrombosis,0,0
+coumadin,gastrointestinal haemorrhage,0,0
+coumadin,internal bleeding,0,0
+coumadin,seizure,0,0
+coumadin,convulsion,0,0
+coumadin,suicidal ideation,0,0
+coumadin,rhabdomyolysis,0,0
+coumadin,pancreatitis,0,0
+coumadin,sepsis,0,0
+coumadin,chest pain,0,0
+coumadin,dyspnoea,0,0
+coumadin,shortness of breath,0,0
+coumadin,dizziness,0,0
+coumadin,vertigo,0,0
+coumadin,palpitations,0,0
+coumadin,tachycardia,0,0
+coumadin,bradycardia,0,0
+coumadin,hypertension,0,0
+coumadin,hypotension,0,0
+coumadin,syncope,0,0
+coumadin,fainting,0,0
+coumadin,oedema,0,0
+coumadin,swelling,0,0
+coumadin,rash,0,0
+coumadin,urticaria,0,0
+coumadin,hives,0,0
+coumadin,pruritus,0,0
+coumadin,itching,0,0
+coumadin,vomiting,0,0
+coumadin,nausea,0,0
+coumadin,diarrhoea,0,0
+coumadin,abdominal pain,0,0
+coumadin,headache,0,0
+coumadin,migraine,0,0
+coumadin,tremor,0,0
+coumadin,insomnia,0,0
+coumadin,anxiety,0,0
+coumadin,depression,0,0
+coumadin,fatigue,0,0
+coumadin,asthenia,0,0
+coumadin,weakness,0,0
+coumadin,pyrexia,0,0
+coumadin,fever,0,0
+coumadin,arthralgia,0,0
+coumadin,joint pain,0,0
+coumadin,myalgia,0,0
+coumadin,muscle pain,0,0
+coumadin,back pain,0,0
+coumadin,cough,0,0
+apixaban,myocardial infarction,1224,1
+apixaban,heart attack,0,0
+apixaban,cardiac arrest,384,1
+apixaban,stroke,0,0
+apixaban,cerebrovascular accident,3493,2
+apixaban,anaphylactic reaction,179,0
+apixaban,anaphylaxis,0,0
+apixaban,angioedema,467,1
+apixaban,stevens-johnson syndrome,73,0
+apixaban,renal failure,495,1
+apixaban,kidney failure,0,0
+apixaban,hepatic failure,78,0
+apixaban,liver failure,0,0
+apixaban,respiratory failure,391,1
+apixaban,pulmonary embolism,1507,1
+apixaban,deep vein thrombosis,935,1
+apixaban,gastrointestinal haemorrhage,1551,1
+apixaban,internal bleeding,0,0
+apixaban,seizure,264,0
+apixaban,convulsion,0,0
+apixaban,suicidal ideation,153,0
+apixaban,rhabdomyolysis,123,0
+apixaban,pancreatitis,87,0
+apixaban,sepsis,467,1
+apixaban,chest pain,983,1
+apixaban,dyspnoea,3549,2
+apixaban,shortness of breath,0,0
+apixaban,dizziness,1882,1
+apixaban,vertigo,150,0
+apixaban,palpitations,705,1
+apixaban,tachycardia,833,1
+apixaban,bradycardia,607,1
+apixaban,hypertension,1043,1
+apixaban,hypotension,1339,1
+apixaban,syncope,654,1
+apixaban,fainting,0,0
+apixaban,oedema,201,0
+apixaban,swelling,177,0
+apixaban,rash,751,1
+apixaban,urticaria,189,0
+apixaban,hives,0,0
+apixaban,pruritus,874,1
+apixaban,itching,0,0
+apixaban,vomiting,1225,1
+apixaban,nausea,1632,1
+apixaban,diarrhoea,1695,1
+apixaban,abdominal pain,724,1
+apixaban,headache,1543,1
+apixaban,migraine,438,1
+apixaban,tremor,278,0
+apixaban,insomnia,710,1
+apixaban,anxiety,778,1
+apixaban,depression,272,0
+apixaban,fatigue,2122,2
+apixaban,asthenia,1049,1
+apixaban,weakness,0,0
+apixaban,pyrexia,1199,1
+apixaban,fever,0,0
+apixaban,arthralgia,1124,1
+apixaban,joint pain,0,0
+apixaban,myalgia,315,1
+apixaban,muscle pain,0,0
+apixaban,back pain,786,1
+apixaban,cough,904,1
+eliquis,myocardial infarction,1542,1
+eliquis,heart attack,0,0
+eliquis,cardiac arrest,647,1
+eliquis,stroke,0,0
+eliquis,cerebrovascular accident,5189,2
+eliquis,anaphylactic reaction,155,0
+eliquis,anaphylaxis,0,0
+eliquis,angioedema,157,0
+eliquis,stevens-johnson syndrome,82,0
+eliquis,renal failure,1618,1
+eliquis,kidney failure,0,0
+eliquis,hepatic failure,201,0
+eliquis,liver failure,0,0
+eliquis,respiratory failure,625,1
+eliquis,pulmonary embolism,2747,2
+eliquis,deep vein thrombosis,1775,1
+eliquis,gastrointestinal haemorrhage,3294,2
+eliquis,internal bleeding,0,0
+eliquis,seizure,642,1
+eliquis,convulsion,0,0
+eliquis,suicidal ideation,158,0
+eliquis,rhabdomyolysis,186,0
+eliquis,pancreatitis,220,0
+eliquis,sepsis,1261,1
+eliquis,chest pain,1910,1
+eliquis,dyspnoea,8519,2
+eliquis,shortness of breath,0,0
+eliquis,dizziness,6203,2
+eliquis,vertigo,558,1
+eliquis,palpitations,1193,1
+eliquis,tachycardia,611,1
+eliquis,bradycardia,643,1
+eliquis,hypertension,1996,1
+eliquis,hypotension,3115,2
+eliquis,syncope,1327,1
+eliquis,fainting,0,0
+eliquis,oedema,756,1
+eliquis,swelling,1021,1
+eliquis,rash,3565,2
+eliquis,urticaria,846,1
+eliquis,hives,0,0
+eliquis,pruritus,3299,2
+eliquis,itching,0,0
+eliquis,vomiting,2993,2
+eliquis,nausea,6205,2
+eliquis,diarrhoea,7358,2
+eliquis,abdominal pain,1489,1
+eliquis,headache,5611,2
+eliquis,migraine,508,1
+eliquis,tremor,1144,1
+eliquis,insomnia,2040,2
+eliquis,anxiety,1619,1
+eliquis,depression,1069,1
+eliquis,fatigue,8951,2
+eliquis,asthenia,4864,2
+eliquis,weakness,0,0
+eliquis,pyrexia,1860,1
+eliquis,fever,0,0
+eliquis,arthralgia,3605,2
+eliquis,joint pain,0,0
+eliquis,myalgia,1408,1
+eliquis,muscle pain,0,0
+eliquis,back pain,2510,2
+eliquis,cough,3647,2
+rivaroxaban,myocardial infarction,0,0
+rivaroxaban,heart attack,0,0
+rivaroxaban,cardiac arrest,0,0
+rivaroxaban,stroke,0,0
+rivaroxaban,cerebrovascular accident,0,0
+rivaroxaban,anaphylactic reaction,0,0
+rivaroxaban,anaphylaxis,0,0
+rivaroxaban,angioedema,0,0
+rivaroxaban,stevens-johnson syndrome,0,0
+rivaroxaban,renal failure,0,0
+rivaroxaban,kidney failure,0,0
+rivaroxaban,hepatic failure,0,0
+rivaroxaban,liver failure,0,0
+rivaroxaban,respiratory failure,0,0
+rivaroxaban,pulmonary embolism,0,0
+rivaroxaban,deep vein thrombosis,0,0
+rivaroxaban,gastrointestinal haemorrhage,0,0
+rivaroxaban,internal bleeding,0,0
+rivaroxaban,seizure,0,0
+rivaroxaban,convulsion,0,0
+rivaroxaban,suicidal ideation,0,0
+rivaroxaban,rhabdomyolysis,0,0
+rivaroxaban,pancreatitis,0,0
+rivaroxaban,sepsis,0,0
+rivaroxaban,chest pain,0,0
+rivaroxaban,dyspnoea,0,0
+rivaroxaban,shortness of breath,0,0
+rivaroxaban,dizziness,0,0
+rivaroxaban,vertigo,0,0
+rivaroxaban,palpitations,0,0
+rivaroxaban,tachycardia,0,0
+rivaroxaban,bradycardia,0,0
+rivaroxaban,hypertension,0,0
+rivaroxaban,hypotension,0,0
+rivaroxaban,syncope,0,0
+rivaroxaban,fainting,0,0
+rivaroxaban,oedema,0,0
+rivaroxaban,swelling,0,0
+rivaroxaban,rash,0,0
+rivaroxaban,urticaria,0,0
+rivaroxaban,hives,0,0
+rivaroxaban,pruritus,0,0
+rivaroxaban,itching,0,0
+rivaroxaban,vomiting,0,0
+rivaroxaban,nausea,0,0
+rivaroxaban,diarrhoea,0,0
+rivaroxaban,abdominal pain,0,0
+rivaroxaban,headache,0,0
+rivaroxaban,migraine,0,0
+rivaroxaban,tremor,0,0
+rivaroxaban,insomnia,0,0
+rivaroxaban,anxiety,0,0
+rivaroxaban,depression,0,0
+rivaroxaban,fatigue,0,0
+rivaroxaban,asthenia,0,0
+rivaroxaban,weakness,0,0
+rivaroxaban,pyrexia,0,0
+rivaroxaban,fever,0,0
+rivaroxaban,arthralgia,0,0
+rivaroxaban,joint pain,0,0
+rivaroxaban,myalgia,0,0
+rivaroxaban,muscle pain,0,0
+rivaroxaban,back pain,0,0
+rivaroxaban,cough,0,0
+xarelto,myocardial infarction,1320,1
+xarelto,heart attack,0,0
+xarelto,cardiac arrest,485,1
+xarelto,stroke,0,0
+xarelto,cerebrovascular accident,4920,2
+xarelto,anaphylactic reaction,111,0
+xarelto,anaphylaxis,0,0
+xarelto,angioedema,130,0
+xarelto,stevens-johnson syndrome,100,0
+xarelto,renal failure,1192,1
+xarelto,kidney failure,0,0
+xarelto,hepatic failure,214,0
+xarelto,liver failure,0,0
+xarelto,respiratory failure,989,1
+xarelto,pulmonary embolism,4979,2
+xarelto,deep vein thrombosis,4397,2
+xarelto,gastrointestinal haemorrhage,20686,2
+xarelto,internal bleeding,0,0
+xarelto,seizure,471,1
+xarelto,convulsion,60,0
+xarelto,suicidal ideation,148,0
+xarelto,rhabdomyolysis,148,0
+xarelto,pancreatitis,247,0
+xarelto,sepsis,887,1
+xarelto,chest pain,1619,1
+xarelto,dyspnoea,5786,2
+xarelto,shortness of breath,0,0
+xarelto,dizziness,4494,2
+xarelto,vertigo,436,1
+xarelto,palpitations,846,1
+xarelto,tachycardia,529,1
+xarelto,bradycardia,433,1
+xarelto,hypertension,1347,1
+xarelto,hypotension,2084,2
+xarelto,syncope,1238,1
+xarelto,fainting,0,0
+xarelto,oedema,525,1
+xarelto,swelling,621,1
+xarelto,rash,2398,2
+xarelto,urticaria,697,1
+xarelto,hives,0,0
+xarelto,pruritus,2081,2
+xarelto,itching,0,0
+xarelto,vomiting,2468,2
+xarelto,nausea,4459,2
+xarelto,diarrhoea,4706,2
+xarelto,abdominal pain,1354,1
+xarelto,headache,3979,2
+xarelto,migraine,353,1
+xarelto,tremor,730,1
+xarelto,insomnia,1275,1
+xarelto,anxiety,1068,1
+xarelto,depression,800,1
+xarelto,fatigue,5514,2
+xarelto,asthenia,3761,2
+xarelto,weakness,0,0
+xarelto,pyrexia,1554,1
+xarelto,fever,0,0
+xarelto,arthralgia,2354,2
+xarelto,joint pain,0,0
+xarelto,myalgia,1030,1
+xarelto,muscle pain,0,0
+xarelto,back pain,1823,1
+xarelto,cough,2160,2
+levothyroxine,myocardial infarction,2340,2
+levothyroxine,heart attack,0,0
+levothyroxine,cardiac arrest,1327,1
+levothyroxine,stroke,0,0
+levothyroxine,cerebrovascular accident,2776,2
+levothyroxine,anaphylactic reaction,739,1
+levothyroxine,anaphylaxis,0,0
+levothyroxine,angioedema,1074,1
+levothyroxine,stevens-johnson syndrome,312,1
+levothyroxine,renal failure,3629,2
+levothyroxine,kidney failure,0,0
+levothyroxine,hepatic failure,478,1
+levothyroxine,liver failure,0,0
+levothyroxine,respiratory failure,1391,1
+levothyroxine,pulmonary embolism,2115,2
+levothyroxine,deep vein thrombosis,1406,1
+levothyroxine,gastrointestinal haemorrhage,2098,2
+levothyroxine,internal bleeding,0,0
+levothyroxine,seizure,1800,1
+levothyroxine,convulsion,796,1
+levothyroxine,suicidal ideation,1415,1
+levothyroxine,rhabdomyolysis,1070,1
+levothyroxine,pancreatitis,1013,1
+levothyroxine,sepsis,2310,2
+levothyroxine,chest pain,4916,2
+levothyroxine,dyspnoea,14499,2
+levothyroxine,shortness of breath,0,0
+levothyroxine,dizziness,12999,2
+levothyroxine,vertigo,1647,1
+levothyroxine,palpitations,4074,2
+levothyroxine,tachycardia,2393,2
+levothyroxine,bradycardia,1452,1
+levothyroxine,hypertension,5968,2
+levothyroxine,hypotension,5508,2
+levothyroxine,syncope,2594,2
+levothyroxine,fainting,0,0
+levothyroxine,oedema,1687,1
+levothyroxine,swelling,2125,2
+levothyroxine,rash,8306,2
+levothyroxine,urticaria,3049,2
+levothyroxine,hives,0,0
+levothyroxine,pruritus,8059,2
+levothyroxine,itching,0,0
+levothyroxine,vomiting,10780,2
+levothyroxine,nausea,18560,2
+levothyroxine,diarrhoea,17401,2
+levothyroxine,abdominal pain,5224,2
+levothyroxine,headache,14954,2
+levothyroxine,migraine,2532,2
+levothyroxine,tremor,4308,2
+levothyroxine,insomnia,6842,2
+levothyroxine,anxiety,6743,2
+levothyroxine,depression,5295,2
+levothyroxine,fatigue,21519,2
+levothyroxine,asthenia,10862,2
+levothyroxine,weakness,0,0
+levothyroxine,pyrexia,7133,2
+levothyroxine,fever,0,0
+levothyroxine,arthralgia,10034,2
+levothyroxine,joint pain,0,0
+levothyroxine,myalgia,4350,2
+levothyroxine,muscle pain,0,0
+levothyroxine,back pain,5967,2
+levothyroxine,cough,7072,2
+synthroid,myocardial infarction,2005,2
+synthroid,heart attack,0,0
+synthroid,cardiac arrest,624,1
+synthroid,stroke,0,0
+synthroid,cerebrovascular accident,2288,2
+synthroid,anaphylactic reaction,490,1
+synthroid,anaphylaxis,0,0
+synthroid,angioedema,288,0
+synthroid,stevens-johnson syndrome,161,0
+synthroid,renal failure,1849,1
+synthroid,kidney failure,0,0
+synthroid,hepatic failure,180,0
+synthroid,liver failure,0,0
+synthroid,respiratory failure,758,1
+synthroid,pulmonary embolism,1425,1
+synthroid,deep vein thrombosis,1164,1
+synthroid,gastrointestinal haemorrhage,1258,1
+synthroid,internal bleeding,0,0
+synthroid,seizure,923,1
+synthroid,convulsion,792,1
+synthroid,suicidal ideation,1018,1
+synthroid,rhabdomyolysis,231,0
+synthroid,pancreatitis,698,1
+synthroid,sepsis,1162,1
+synthroid,chest pain,3764,2
+synthroid,dyspnoea,9108,2
+synthroid,shortness of breath,0,0
+synthroid,dizziness,9056,2
+synthroid,vertigo,1097,1
+synthroid,palpitations,3459,2
+synthroid,tachycardia,1032,1
+synthroid,bradycardia,516,1
+synthroid,hypertension,4365,2
+synthroid,hypotension,2725,2
+synthroid,syncope,1485,1
+synthroid,fainting,0,0
+synthroid,oedema,928,1
+synthroid,swelling,1643,1
+synthroid,rash,5616,2
+synthroid,urticaria,2559,2
+synthroid,hives,0,0
+synthroid,pruritus,5338,2
+synthroid,itching,0,0
+synthroid,vomiting,6470,2
+synthroid,nausea,13439,2
+synthroid,diarrhoea,10605,2
+synthroid,abdominal pain,3877,2
+synthroid,headache,11282,2
+synthroid,migraine,1757,1
+synthroid,tremor,3203,2
+synthroid,insomnia,5728,2
+synthroid,anxiety,5560,2
+synthroid,depression,4105,2
+synthroid,fatigue,15806,2
+synthroid,asthenia,7788,2
+synthroid,weakness,0,0
+synthroid,pyrexia,4314,2
+synthroid,fever,0,0
+synthroid,arthralgia,8301,2
+synthroid,joint pain,0,0
+synthroid,myalgia,3393,2
+synthroid,muscle pain,0,0
+synthroid,back pain,4889,2
+synthroid,cough,5448,2
+metformin,myocardial infarction,5373,2
+metformin,heart attack,0,0
+metformin,cardiac arrest,2986,2
+metformin,stroke,0,0
+metformin,cerebrovascular accident,4724,2
+metformin,anaphylactic reaction,991,1
+metformin,anaphylaxis,0,0
+metformin,angioedema,1303,1
+metformin,stevens-johnson syndrome,256,0
+metformin,renal failure,7176,2
+metformin,kidney failure,0,0
+metformin,hepatic failure,803,1
+metformin,liver failure,0,0
+metformin,respiratory failure,2183,2
+metformin,pulmonary embolism,2486,2
+metformin,deep vein thrombosis,1534,1
+metformin,gastrointestinal haemorrhage,2660,2
+metformin,internal bleeding,0,0
+metformin,seizure,1638,1
+metformin,convulsion,667,1
+metformin,suicidal ideation,1454,1
+metformin,rhabdomyolysis,1960,1
+metformin,pancreatitis,3577,2
+metformin,sepsis,3311,2
+metformin,chest pain,5761,2
+metformin,dyspnoea,15927,2
+metformin,shortness of breath,0,0
+metformin,dizziness,14888,2
+metformin,vertigo,1644,1
+metformin,palpitations,3162,2
+metformin,tachycardia,2588,2
+metformin,bradycardia,2148,2
+metformin,hypertension,7112,2
+metformin,hypotension,8002,2
+metformin,syncope,3510,2
+metformin,fainting,0,0
+metformin,oedema,1530,1
+metformin,swelling,2103,2
+metformin,rash,7926,2
+metformin,urticaria,3198,2
+metformin,hives,0,0
+metformin,pruritus,8158,2
+metformin,itching,0,0
+metformin,vomiting,18155,2
+metformin,nausea,28483,2
+metformin,diarrhoea,26189,2
+metformin,abdominal pain,7983,2
+metformin,headache,14235,2
+metformin,migraine,1632,1
+metformin,tremor,4596,2
+metformin,insomnia,6298,2
+metformin,anxiety,6246,2
+metformin,depression,5460,2
+metformin,fatigue,20173,2
+metformin,asthenia,12635,2
+metformin,weakness,0,0
+metformin,pyrexia,7031,2
+metformin,fever,0,0
+metformin,arthralgia,10016,2
+metformin,joint pain,0,0
+metformin,myalgia,4654,2
+metformin,muscle pain,0,0
+metformin,back pain,6607,2
+metformin,cough,7944,2
+glucophage,myocardial infarction,1506,1
+glucophage,heart attack,0,0
+glucophage,cardiac arrest,291,0
+glucophage,stroke,0,0
+glucophage,cerebrovascular accident,1123,1
+glucophage,anaphylactic reaction,118,0
+glucophage,anaphylaxis,0,0
+glucophage,angioedema,90,0
+glucophage,stevens-johnson syndrome,32,0
+glucophage,renal failure,926,1
+glucophage,kidney failure,0,0
+glucophage,hepatic failure,92,0
+glucophage,liver failure,0,0
+glucophage,respiratory failure,219,0
+glucophage,pulmonary embolism,316,1
+glucophage,deep vein thrombosis,222,0
+glucophage,gastrointestinal haemorrhage,308,1
+glucophage,internal bleeding,0,0
+glucophage,seizure,115,0
+glucophage,convulsion,195,0
+glucophage,suicidal ideation,170,0
+glucophage,rhabdomyolysis,140,0
+glucophage,pancreatitis,408,1
+glucophage,sepsis,296,0
+glucophage,chest pain,975,1
+glucophage,dyspnoea,1617,1
+glucophage,shortness of breath,0,0
+glucophage,dizziness,1524,1
+glucophage,vertigo,214,0
+glucophage,palpitations,463,1
+glucophage,tachycardia,234,0
+glucophage,bradycardia,201,0
+glucophage,hypertension,896,1
+glucophage,hypotension,578,1
+glucophage,syncope,377,1
+glucophage,fainting,0,0
+glucophage,oedema,216,0
+glucophage,swelling,174,0
+glucophage,rash,571,1
+glucophage,urticaria,294,0
+glucophage,hives,0,0
+glucophage,pruritus,586,1
+glucophage,itching,0,0
+glucophage,vomiting,2014,2
+glucophage,nausea,3747,2
+glucophage,diarrhoea,2450,2
+glucophage,abdominal pain,802,1
+glucophage,headache,1440,1
+glucophage,migraine,137,0
+glucophage,tremor,589,1
+glucophage,insomnia,629,1
+glucophage,anxiety,985,1
+glucophage,depression,698,1
+glucophage,fatigue,1745,1
+glucophage,asthenia,1485,1
+glucophage,weakness,0,0
+glucophage,pyrexia,801,1
+glucophage,fever,0,0
+glucophage,arthralgia,777,1
+glucophage,joint pain,0,0
+glucophage,myalgia,507,1
+glucophage,muscle pain,0,0
+glucophage,back pain,737,1
+glucophage,cough,790,1
+insulin,myocardial infarction,2895,2
+insulin,heart attack,0,0
+insulin,cardiac arrest,1658,1
+insulin,stroke,0,0
+insulin,cerebrovascular accident,2520,2
+insulin,anaphylactic reaction,523,1
+insulin,anaphylaxis,0,0
+insulin,angioedema,370,1
+insulin,stevens-johnson syndrome,246,0
+insulin,renal failure,3621,2
+insulin,kidney failure,0,0
+insulin,hepatic failure,467,1
+insulin,liver failure,0,0
+insulin,respiratory failure,1758,1
+insulin,pulmonary embolism,1011,1
+insulin,deep vein thrombosis,614,1
+insulin,gastrointestinal haemorrhage,1238,1
+insulin,internal bleeding,0,0
+insulin,seizure,780,1
+insulin,convulsion,662,1
+insulin,suicidal ideation,474,1
+insulin,rhabdomyolysis,1046,1
+insulin,pancreatitis,894,1
+insulin,sepsis,2297,2
+insulin,chest pain,2381,2
+insulin,dyspnoea,6197,2
+insulin,shortness of breath,0,0
+insulin,dizziness,4482,2
+insulin,vertigo,422,1
+insulin,palpitations,911,1
+insulin,tachycardia,1198,1
+insulin,bradycardia,1068,1
+insulin,hypertension,2798,2
+insulin,hypotension,3409,2
+insulin,syncope,1422,1
+insulin,fainting,0,0
+insulin,oedema,855,1
+insulin,swelling,811,1
+insulin,rash,2121,2
+insulin,urticaria,803,1
+insulin,hives,0,0
+insulin,pruritus,2268,2
+insulin,itching,0,0
+insulin,vomiting,5371,2
+insulin,nausea,7093,2
+insulin,diarrhoea,5866,2
+insulin,abdominal pain,2906,2
+insulin,headache,3909,2
+insulin,migraine,468,1
+insulin,tremor,1750,1
+insulin,insomnia,1674,1
+insulin,anxiety,2612,2
+insulin,depression,2015,2
+insulin,fatigue,5383,2
+insulin,asthenia,4318,2
+insulin,weakness,0,0
+insulin,pyrexia,3581,2
+insulin,fever,0,0
+insulin,arthralgia,2757,2
+insulin,joint pain,0,0
+insulin,myalgia,1448,1
+insulin,muscle pain,0,0
+insulin,back pain,2004,2
+insulin,cough,2372,2
+lantus,myocardial infarction,2637,2
+lantus,heart attack,0,0
+lantus,cardiac arrest,667,1
+lantus,stroke,0,0
+lantus,cerebrovascular accident,3475,2
+lantus,anaphylactic reaction,224,0
+lantus,anaphylaxis,0,0
+lantus,angioedema,216,0
+lantus,stevens-johnson syndrome,106,0
+lantus,renal failure,3246,2
+lantus,kidney failure,0,0
+lantus,hepatic failure,227,0
+lantus,liver failure,0,0
+lantus,respiratory failure,555,1
+lantus,pulmonary embolism,486,1
+lantus,deep vein thrombosis,421,1
+lantus,gastrointestinal haemorrhage,959,1
+lantus,internal bleeding,0,0
+lantus,seizure,557,1
+lantus,convulsion,462,1
+lantus,suicidal ideation,320,1
+lantus,rhabdomyolysis,335,1
+lantus,pancreatitis,941,1
+lantus,sepsis,1233,1
+lantus,chest pain,1891,1
+lantus,dyspnoea,4613,2
+lantus,shortness of breath,0,0
+lantus,dizziness,4376,2
+lantus,vertigo,467,1
+lantus,palpitations,926,1
+lantus,tachycardia,490,1
+lantus,bradycardia,360,1
+lantus,hypertension,2117,2
+lantus,hypotension,1635,1
+lantus,syncope,976,1
+lantus,fainting,0,0
+lantus,oedema,596,1
+lantus,swelling,656,1
+lantus,rash,1957,1
+lantus,urticaria,774,1
+lantus,hives,0,0
+lantus,pruritus,2123,2
+lantus,itching,0,0
+lantus,vomiting,4533,2
+lantus,nausea,7564,2
+lantus,diarrhoea,5083,2
+lantus,abdominal pain,1619,1
+lantus,headache,4096,2
+lantus,migraine,336,1
+lantus,tremor,2256,2
+lantus,insomnia,1635,1
+lantus,anxiety,1753,1
+lantus,depression,1449,1
+lantus,fatigue,5121,2
+lantus,asthenia,3974,2
+lantus,weakness,0,0
+lantus,pyrexia,2000,1
+lantus,fever,0,0
+lantus,arthralgia,2252,2
+lantus,joint pain,0,0
+lantus,myalgia,1154,1
+lantus,muscle pain,0,0
+lantus,back pain,1761,1
+lantus,cough,2500,2
+humalog,myocardial infarction,1773,1
+humalog,heart attack,0,0
+humalog,cardiac arrest,334,1
+humalog,stroke,0,0
+humalog,cerebrovascular accident,2402,2
+humalog,anaphylactic reaction,117,0
+humalog,anaphylaxis,0,0
+humalog,angioedema,93,0
+humalog,stevens-johnson syndrome,64,0
+humalog,renal failure,1926,1
+humalog,kidney failure,0,0
+humalog,hepatic failure,124,0
+humalog,liver failure,0,0
+humalog,respiratory failure,325,1
+humalog,pulmonary embolism,311,1
+humalog,deep vein thrombosis,187,0
+humalog,gastrointestinal haemorrhage,429,1
+humalog,internal bleeding,0,0
+humalog,seizure,404,1
+humalog,convulsion,324,1
+humalog,suicidal ideation,174,0
+humalog,rhabdomyolysis,146,0
+humalog,pancreatitis,440,1
+humalog,sepsis,790,1
+humalog,chest pain,1152,1
+humalog,dyspnoea,2773,2
+humalog,shortness of breath,0,0
+humalog,dizziness,2737,2
+humalog,vertigo,239,0
+humalog,palpitations,676,1
+humalog,tachycardia,277,0
+humalog,bradycardia,197,0
+humalog,hypertension,1737,1
+humalog,hypotension,900,1
+humalog,syncope,569,1
+humalog,fainting,0,0
+humalog,oedema,340,1
+humalog,swelling,443,1
+humalog,rash,1147,1
+humalog,urticaria,595,1
+humalog,hives,0,0
+humalog,pruritus,1225,1
+humalog,itching,0,0
+humalog,vomiting,2868,2
+humalog,nausea,4467,2
+humalog,diarrhoea,2893,2
+humalog,abdominal pain,927,1
+humalog,headache,2703,2
+humalog,migraine,253,0
+humalog,tremor,1560,1
+humalog,insomnia,1019,1
+humalog,anxiety,1476,1
+humalog,depression,1023,1
+humalog,fatigue,3507,2
+humalog,asthenia,2535,2
+humalog,weakness,0,0
+humalog,pyrexia,1243,1
+humalog,fever,0,0
+humalog,arthralgia,1336,1
+humalog,joint pain,0,0
+humalog,myalgia,664,1
+humalog,muscle pain,0,0
+humalog,back pain,1174,1
+humalog,cough,1436,1
+gabapentin,myocardial infarction,2180,2
+gabapentin,heart attack,0,0
+gabapentin,cardiac arrest,1988,1
+gabapentin,stroke,0,0
+gabapentin,cerebrovascular accident,2497,2
+gabapentin,anaphylactic reaction,854,1
+gabapentin,anaphylaxis,0,0
+gabapentin,angioedema,451,1
+gabapentin,stevens-johnson syndrome,195,0
+gabapentin,renal failure,4514,2
+gabapentin,kidney failure,0,0
+gabapentin,hepatic failure,299,0
+gabapentin,liver failure,0,0
+gabapentin,respiratory failure,1429,1
+gabapentin,pulmonary embolism,1713,1
+gabapentin,deep vein thrombosis,1249,1
+gabapentin,gastrointestinal haemorrhage,1462,1
+gabapentin,internal bleeding,0,0
+gabapentin,seizure,2723,2
+gabapentin,convulsion,815,1
+gabapentin,suicidal ideation,2590,2
+gabapentin,rhabdomyolysis,638,1
+gabapentin,pancreatitis,795,1
+gabapentin,sepsis,2696,2
+gabapentin,chest pain,3887,2
+gabapentin,dyspnoea,11034,2
+gabapentin,shortness of breath,0,0
+gabapentin,dizziness,12496,2
+gabapentin,vertigo,1596,1
+gabapentin,palpitations,2123,2
+gabapentin,tachycardia,1539,1
+gabapentin,bradycardia,985,1
+gabapentin,hypertension,4759,2
+gabapentin,hypotension,4263,2
+gabapentin,syncope,1949,1
+gabapentin,fainting,0,0
+gabapentin,oedema,1124,1
+gabapentin,swelling,2104,2
+gabapentin,rash,7089,2
+gabapentin,urticaria,2270,2
+gabapentin,hives,0,0
+gabapentin,pruritus,6010,2
+gabapentin,itching,0,0
+gabapentin,vomiting,9265,2
+gabapentin,nausea,17466,2
+gabapentin,diarrhoea,14436,2
+gabapentin,abdominal pain,4521,2
+gabapentin,headache,13745,2
+gabapentin,migraine,3051,2
+gabapentin,tremor,5069,2
+gabapentin,insomnia,6996,2
+gabapentin,anxiety,7499,2
+gabapentin,depression,7128,2
+gabapentin,fatigue,20131,2
+gabapentin,asthenia,9139,2
+gabapentin,weakness,0,0
+gabapentin,pyrexia,5758,2
+gabapentin,fever,0,0
+gabapentin,arthralgia,9105,2
+gabapentin,joint pain,0,0
+gabapentin,myalgia,2978,2
+gabapentin,muscle pain,0,0
+gabapentin,back pain,7029,2
+gabapentin,cough,5546,2
+neurontin,myocardial infarction,1198,1
+neurontin,heart attack,0,0
+neurontin,cardiac arrest,408,1
+neurontin,stroke,0,0
+neurontin,cerebrovascular accident,1217,1
+neurontin,anaphylactic reaction,164,0
+neurontin,anaphylaxis,0,0
+neurontin,angioedema,96,0
+neurontin,stevens-johnson syndrome,96,0
+neurontin,renal failure,1237,1
+neurontin,kidney failure,0,0
+neurontin,hepatic failure,178,0
+neurontin,liver failure,0,0
+neurontin,respiratory failure,514,1
+neurontin,pulmonary embolism,592,1
+neurontin,deep vein thrombosis,557,1
+neurontin,gastrointestinal haemorrhage,576,1
+neurontin,internal bleeding,0,0
+neurontin,seizure,578,1
+neurontin,convulsion,1168,1
+neurontin,suicidal ideation,1652,1
+neurontin,rhabdomyolysis,208,0
+neurontin,pancreatitis,493,1
+neurontin,sepsis,745,1
+neurontin,chest pain,1684,1
+neurontin,dyspnoea,2931,2
+neurontin,shortness of breath,0,0
+neurontin,dizziness,3515,2
+neurontin,vertigo,454,1
+neurontin,palpitations,654,1
+neurontin,tachycardia,440,1
+neurontin,bradycardia,257,0
+neurontin,hypertension,1688,1
+neurontin,hypotension,1163,1
+neurontin,syncope,748,1
+neurontin,fainting,0,0
+neurontin,oedema,462,1
+neurontin,swelling,600,1
+neurontin,rash,1646,1
+neurontin,urticaria,647,1
+neurontin,hives,0,0
+neurontin,pruritus,1424,1
+neurontin,itching,0,0
+neurontin,vomiting,2502,2
+neurontin,nausea,4515,2
+neurontin,diarrhoea,3077,2
+neurontin,abdominal pain,1325,1
+neurontin,headache,3591,2
+neurontin,migraine,836,1
+neurontin,tremor,1626,1
+neurontin,insomnia,2543,2
+neurontin,anxiety,2545,2
+neurontin,depression,3078,2
+neurontin,fatigue,4352,2
+neurontin,asthenia,2713,2
+neurontin,weakness,0,0
+neurontin,pyrexia,1726,1
+neurontin,fever,0,0
+neurontin,arthralgia,2118,2
+neurontin,joint pain,0,0
+neurontin,myalgia,1010,1
+neurontin,muscle pain,0,0
+neurontin,back pain,2059,2
+neurontin,cough,1150,1
+sertraline,myocardial infarction,790,1
+sertraline,heart attack,0,0
+sertraline,cardiac arrest,1127,1
+sertraline,stroke,0,0
+sertraline,cerebrovascular accident,807,1
+sertraline,anaphylactic reaction,351,1
+sertraline,anaphylaxis,0,0
+sertraline,angioedema,449,1
+sertraline,stevens-johnson syndrome,151,0
+sertraline,renal failure,1420,1
+sertraline,kidney failure,0,0
+sertraline,hepatic failure,194,0
+sertraline,liver failure,0,0
+sertraline,respiratory failure,633,1
+sertraline,pulmonary embolism,990,1
+sertraline,deep vein thrombosis,478,1
+sertraline,gastrointestinal haemorrhage,655,1
+sertraline,internal bleeding,0,0
+sertraline,seizure,1586,1
+sertraline,convulsion,491,1
+sertraline,suicidal ideation,3186,2
+sertraline,rhabdomyolysis,736,1
+sertraline,pancreatitis,346,1
+sertraline,sepsis,1017,1
+sertraline,chest pain,1727,1
+sertraline,dyspnoea,4922,2
+sertraline,shortness of breath,0,0
+sertraline,dizziness,5904,2
+sertraline,vertigo,981,1
+sertraline,palpitations,1429,1
+sertraline,tachycardia,1621,1
+sertraline,bradycardia,754,1
+sertraline,hypertension,1959,1
+sertraline,hypotension,2140,2
+sertraline,syncope,1482,1
+sertraline,fainting,0,0
+sertraline,oedema,396,1
+sertraline,swelling,668,1
+sertraline,rash,2456,2
+sertraline,urticaria,941,1
+sertraline,hives,0,0
+sertraline,pruritus,2724,2
+sertraline,itching,0,0
+sertraline,vomiting,5102,2
+sertraline,nausea,8207,2
+sertraline,diarrhoea,6504,2
+sertraline,abdominal pain,2475,2
+sertraline,headache,6627,2
+sertraline,migraine,1003,1
+sertraline,tremor,3482,2
+sertraline,insomnia,4137,2
+sertraline,anxiety,5945,2
+sertraline,depression,5289,2
+sertraline,fatigue,7417,2
+sertraline,asthenia,3778,2
+sertraline,weakness,0,0
+sertraline,pyrexia,2425,2
+sertraline,fever,0,0
+sertraline,arthralgia,3225,2
+sertraline,joint pain,0,0
+sertraline,myalgia,1714,1
+sertraline,muscle pain,0,0
+sertraline,back pain,1977,1
+sertraline,cough,2525,2
+zoloft,myocardial infarction,957,1
+zoloft,heart attack,0,0
+zoloft,cardiac arrest,329,1
+zoloft,stroke,0,0
+zoloft,cerebrovascular accident,969,1
+zoloft,anaphylactic reaction,227,0
+zoloft,anaphylaxis,0,0
+zoloft,angioedema,102,0
+zoloft,stevens-johnson syndrome,86,0
+zoloft,renal failure,951,1
+zoloft,kidney failure,0,0
+zoloft,hepatic failure,104,0
+zoloft,liver failure,0,0
+zoloft,respiratory failure,373,1
+zoloft,pulmonary embolism,830,1
+zoloft,deep vein thrombosis,602,1
+zoloft,gastrointestinal haemorrhage,427,1
+zoloft,internal bleeding,0,0
+zoloft,seizure,587,1
+zoloft,convulsion,814,1
+zoloft,suicidal ideation,1972,1
+zoloft,rhabdomyolysis,167,0
+zoloft,pancreatitis,512,1
+zoloft,sepsis,514,1
+zoloft,chest pain,1610,1
+zoloft,dyspnoea,3266,2
+zoloft,shortness of breath,0,0
+zoloft,dizziness,3758,2
+zoloft,vertigo,530,1
+zoloft,palpitations,998,1
+zoloft,tachycardia,502,1
+zoloft,bradycardia,259,0
+zoloft,hypertension,1632,1
+zoloft,hypotension,980,1
+zoloft,syncope,721,1
+zoloft,fainting,0,0
+zoloft,oedema,353,1
+zoloft,swelling,503,1
+zoloft,rash,1794,1
+zoloft,urticaria,715,1
+zoloft,hives,0,0
+zoloft,pruritus,1587,1
+zoloft,itching,0,0
+zoloft,vomiting,3007,2
+zoloft,nausea,5609,2
+zoloft,diarrhoea,3804,2
+zoloft,abdominal pain,1490,1
+zoloft,headache,4448,2
+zoloft,migraine,862,1
+zoloft,tremor,2060,2
+zoloft,insomnia,3248,2
+zoloft,anxiety,4636,2
+zoloft,depression,4436,2
+zoloft,fatigue,5430,2
+zoloft,asthenia,3038,2
+zoloft,weakness,0,0
+zoloft,pyrexia,1505,1
+zoloft,fever,0,0
+zoloft,arthralgia,2203,2
+zoloft,joint pain,0,0
+zoloft,myalgia,1163,1
+zoloft,muscle pain,0,0
+zoloft,back pain,1801,1
+zoloft,cough,1385,1
+trazodone,myocardial infarction,978,1
+trazodone,heart attack,0,0
+trazodone,cardiac arrest,1165,1
+trazodone,stroke,0,0
+trazodone,cerebrovascular accident,949,1
+trazodone,anaphylactic reaction,254,0
+trazodone,anaphylaxis,0,0
+trazodone,angioedema,163,0
+trazodone,stevens-johnson syndrome,115,0
+trazodone,renal failure,1749,1
+trazodone,kidney failure,0,0
+trazodone,hepatic failure,148,0
+trazodone,liver failure,0,0
+trazodone,respiratory failure,557,1
+trazodone,pulmonary embolism,772,1
+trazodone,deep vein thrombosis,567,1
+trazodone,gastrointestinal haemorrhage,598,1
+trazodone,internal bleeding,0,0
+trazodone,seizure,1021,1
+trazodone,convulsion,584,1
+trazodone,suicidal ideation,2166,2
+trazodone,rhabdomyolysis,417,1
+trazodone,pancreatitis,683,1
+trazodone,sepsis,823,1
+trazodone,chest pain,1936,1
+trazodone,dyspnoea,5099,2
+trazodone,shortness of breath,0,0
+trazodone,dizziness,4991,2
+trazodone,vertigo,682,1
+trazodone,palpitations,1027,1
+trazodone,tachycardia,776,1
+trazodone,bradycardia,538,1
+trazodone,hypertension,2693,2
+trazodone,hypotension,2178,2
+trazodone,syncope,921,1
+trazodone,fainting,0,0
+trazodone,oedema,441,1
+trazodone,swelling,788,1
+trazodone,rash,2783,2
+trazodone,urticaria,956,1
+trazodone,hives,0,0
+trazodone,pruritus,2486,2
+trazodone,itching,0,0
+trazodone,vomiting,4771,2
+trazodone,nausea,8002,2
+trazodone,diarrhoea,5875,2
+trazodone,abdominal pain,2328,2
+trazodone,headache,6540,2
+trazodone,migraine,1670,1
+trazodone,tremor,2667,2
+trazodone,insomnia,4839,2
+trazodone,anxiety,4673,2
+trazodone,depression,4693,2
+trazodone,fatigue,7983,2
+trazodone,asthenia,3873,2
+trazodone,weakness,0,0
+trazodone,pyrexia,2337,2
+trazodone,fever,0,0
+trazodone,arthralgia,3938,2
+trazodone,joint pain,0,0
+trazodone,myalgia,1314,1
+trazodone,muscle pain,0,0
+trazodone,back pain,2672,2
+trazodone,cough,2540,2
+desyrel,myocardial infarction,49,0
+desyrel,heart attack,0,0
+desyrel,cardiac arrest,25,0
+desyrel,stroke,0,0
+desyrel,cerebrovascular accident,65,0
+desyrel,anaphylactic reaction,17,0
+desyrel,anaphylaxis,0,0
+desyrel,angioedema,10,0
+desyrel,stevens-johnson syndrome,15,0
+desyrel,renal failure,87,0
+desyrel,kidney failure,0,0
+desyrel,hepatic failure,13,0
+desyrel,liver failure,0,0
+desyrel,respiratory failure,49,0
+desyrel,pulmonary embolism,94,0
+desyrel,deep vein thrombosis,42,0
+desyrel,gastrointestinal haemorrhage,59,0
+desyrel,internal bleeding,0,0
+desyrel,seizure,51,0
+desyrel,convulsion,30,0
+desyrel,suicidal ideation,90,0
+desyrel,rhabdomyolysis,21,0
+desyrel,pancreatitis,42,0
+desyrel,sepsis,59,0
+desyrel,chest pain,99,0
+desyrel,dyspnoea,289,0
+desyrel,shortness of breath,0,0
+desyrel,dizziness,189,0
+desyrel,vertigo,22,0
+desyrel,palpitations,48,0
+desyrel,tachycardia,52,0
+desyrel,bradycardia,21,0
+desyrel,hypertension,105,0
+desyrel,hypotension,103,0
+desyrel,syncope,71,0
+desyrel,fainting,0,0
+desyrel,oedema,30,0
+desyrel,swelling,29,0
+desyrel,rash,120,0
+desyrel,urticaria,29,0
+desyrel,hives,0,0
+desyrel,pruritus,71,0
+desyrel,itching,0,0
+desyrel,vomiting,202,0
+desyrel,nausea,346,1
+desyrel,diarrhoea,261,0
+desyrel,abdominal pain,136,0
+desyrel,headache,216,0
+desyrel,migraine,70,0
+desyrel,tremor,90,0
+desyrel,insomnia,162,0
+desyrel,anxiety,225,0
+desyrel,depression,210,0
+desyrel,fatigue,291,0
+desyrel,asthenia,190,0
+desyrel,weakness,0,0
+desyrel,pyrexia,183,0
+desyrel,fever,0,0
+desyrel,arthralgia,139,0
+desyrel,joint pain,0,0
+desyrel,myalgia,51,0
+desyrel,muscle pain,0,0
+desyrel,back pain,125,0
+desyrel,cough,136,0
+escitalopram,myocardial infarction,0,0
+escitalopram,heart attack,0,0
+escitalopram,cardiac arrest,0,0
+escitalopram,stroke,0,0
+escitalopram,cerebrovascular accident,0,0
+escitalopram,anaphylactic reaction,0,0
+escitalopram,anaphylaxis,0,0
+escitalopram,angioedema,0,0
+escitalopram,stevens-johnson syndrome,0,0
+escitalopram,renal failure,0,0
+escitalopram,kidney failure,0,0
+escitalopram,hepatic failure,0,0
+escitalopram,liver failure,0,0
+escitalopram,respiratory failure,0,0
+escitalopram,pulmonary embolism,0,0
+escitalopram,deep vein thrombosis,0,0
+escitalopram,gastrointestinal haemorrhage,0,0
+escitalopram,internal bleeding,0,0
+escitalopram,seizure,0,0
+escitalopram,convulsion,0,0
+escitalopram,suicidal ideation,0,0
+escitalopram,rhabdomyolysis,0,0
+escitalopram,pancreatitis,0,0
+escitalopram,sepsis,0,0
+escitalopram,chest pain,0,0
+escitalopram,dyspnoea,0,0
+escitalopram,shortness of breath,0,0
+escitalopram,dizziness,0,0
+escitalopram,vertigo,0,0
+escitalopram,palpitations,0,0
+escitalopram,tachycardia,0,0
+escitalopram,bradycardia,0,0
+escitalopram,hypertension,0,0
+escitalopram,hypotension,0,0
+escitalopram,syncope,0,0
+escitalopram,fainting,0,0
+escitalopram,oedema,0,0
+escitalopram,swelling,0,0
+escitalopram,rash,0,0
+escitalopram,urticaria,0,0
+escitalopram,hives,0,0
+escitalopram,pruritus,0,0
+escitalopram,itching,0,0
+escitalopram,vomiting,0,0
+escitalopram,nausea,0,0
+escitalopram,diarrhoea,0,0
+escitalopram,abdominal pain,0,0
+escitalopram,headache,0,0
+escitalopram,migraine,0,0
+escitalopram,tremor,0,0
+escitalopram,insomnia,0,0
+escitalopram,anxiety,0,0
+escitalopram,depression,0,0
+escitalopram,fatigue,0,0
+escitalopram,asthenia,0,0
+escitalopram,weakness,0,0
+escitalopram,pyrexia,0,0
+escitalopram,fever,0,0
+escitalopram,arthralgia,0,0
+escitalopram,joint pain,0,0
+escitalopram,myalgia,0,0
+escitalopram,muscle pain,0,0
+escitalopram,back pain,0,0
+escitalopram,cough,0,0
+lexapro,myocardial infarction,626,1
+lexapro,heart attack,0,0
+lexapro,cardiac arrest,238,0
+lexapro,stroke,0,0
+lexapro,cerebrovascular accident,711,1
+lexapro,anaphylactic reaction,174,0
+lexapro,anaphylaxis,0,0
+lexapro,angioedema,90,0
+lexapro,stevens-johnson syndrome,82,0
+lexapro,renal failure,858,1
+lexapro,kidney failure,0,0
+lexapro,hepatic failure,88,0
+lexapro,liver failure,0,0
+lexapro,respiratory failure,301,1
+lexapro,pulmonary embolism,905,1
+lexapro,deep vein thrombosis,651,1
+lexapro,gastrointestinal haemorrhage,349,1
+lexapro,internal bleeding,0,0
+lexapro,seizure,521,1
+lexapro,convulsion,771,1
+lexapro,suicidal ideation,1624,1
+lexapro,rhabdomyolysis,103,0
+lexapro,pancreatitis,466,1
+lexapro,sepsis,447,1
+lexapro,chest pain,1276,1
+lexapro,dyspnoea,2641,2
+lexapro,shortness of breath,0,0
+lexapro,dizziness,3282,2
+lexapro,vertigo,369,1
+lexapro,palpitations,779,1
+lexapro,tachycardia,365,1
+lexapro,bradycardia,199,0
+lexapro,hypertension,1218,1
+lexapro,hypotension,834,1
+lexapro,syncope,645,1
+lexapro,fainting,0,0
+lexapro,oedema,281,0
+lexapro,swelling,374,1
+lexapro,rash,1814,1
+lexapro,urticaria,631,1
+lexapro,hives,0,0
+lexapro,pruritus,1553,1
+lexapro,itching,0,0
+lexapro,vomiting,2590,2
+lexapro,nausea,5200,2
+lexapro,diarrhoea,3346,2
+lexapro,abdominal pain,1290,1
+lexapro,headache,3713,2
+lexapro,migraine,782,1
+lexapro,tremor,1622,1
+lexapro,insomnia,2446,2
+lexapro,anxiety,3774,2
+lexapro,depression,3624,2
+lexapro,fatigue,5021,2
+lexapro,asthenia,2220,2
+lexapro,weakness,0,0
+lexapro,pyrexia,1365,1
+lexapro,fever,0,0
+lexapro,arthralgia,1950,1
+lexapro,joint pain,0,0
+lexapro,myalgia,873,1
+lexapro,muscle pain,0,0
+lexapro,back pain,1545,1
+lexapro,cough,1300,1
+duloxetine,myocardial infarction,363,1
+duloxetine,heart attack,0,0
+duloxetine,cardiac arrest,455,1
+duloxetine,stroke,0,0
+duloxetine,cerebrovascular accident,473,1
+duloxetine,anaphylactic reaction,215,0
+duloxetine,anaphylaxis,0,0
+duloxetine,angioedema,253,0
+duloxetine,stevens-johnson syndrome,67,0
+duloxetine,renal failure,750,1
+duloxetine,kidney failure,0,0
+duloxetine,hepatic failure,111,0
+duloxetine,liver failure,0,0
+duloxetine,respiratory failure,280,0
+duloxetine,pulmonary embolism,312,1
+duloxetine,deep vein thrombosis,178,0
+duloxetine,gastrointestinal haemorrhage,266,0
+duloxetine,internal bleeding,0,0
+duloxetine,seizure,684,1
+duloxetine,convulsion,68,0
+duloxetine,suicidal ideation,1367,1
+duloxetine,rhabdomyolysis,232,0
+duloxetine,pancreatitis,193,0
+duloxetine,sepsis,480,1
+duloxetine,chest pain,827,1
+duloxetine,dyspnoea,2428,2
+duloxetine,shortness of breath,0,0
+duloxetine,dizziness,3427,2
+duloxetine,vertigo,544,1
+duloxetine,palpitations,634,1
+duloxetine,tachycardia,607,1
+duloxetine,bradycardia,248,0
+duloxetine,hypertension,1247,1
+duloxetine,hypotension,1196,1
+duloxetine,syncope,584,1
+duloxetine,fainting,0,0
+duloxetine,oedema,191,0
+duloxetine,swelling,408,1
+duloxetine,rash,1501,1
+duloxetine,urticaria,580,1
+duloxetine,hives,0,0
+duloxetine,pruritus,1567,1
+duloxetine,itching,0,0
+duloxetine,vomiting,2582,2
+duloxetine,nausea,5197,2
+duloxetine,diarrhoea,3538,2
+duloxetine,abdominal pain,1170,1
+duloxetine,headache,4005,2
+duloxetine,migraine,827,1
+duloxetine,tremor,1559,1
+duloxetine,insomnia,1964,1
+duloxetine,anxiety,2234,2
+duloxetine,depression,2454,2
+duloxetine,fatigue,5221,2
+duloxetine,asthenia,2088,2
+duloxetine,weakness,0,0
+duloxetine,pyrexia,1118,1
+duloxetine,fever,0,0
+duloxetine,arthralgia,2496,2
+duloxetine,joint pain,0,0
+duloxetine,myalgia,828,1
+duloxetine,muscle pain,0,0
+duloxetine,back pain,1669,1
+duloxetine,cough,1411,1
+cymbalta,myocardial infarction,0,0
+cymbalta,heart attack,0,0
+cymbalta,cardiac arrest,0,0
+cymbalta,stroke,0,0
+cymbalta,cerebrovascular accident,0,0
+cymbalta,anaphylactic reaction,0,0
+cymbalta,anaphylaxis,0,0
+cymbalta,angioedema,0,0
+cymbalta,stevens-johnson syndrome,0,0
+cymbalta,renal failure,0,0
+cymbalta,kidney failure,0,0
+cymbalta,hepatic failure,0,0
+cymbalta,liver failure,0,0
+cymbalta,respiratory failure,0,0
+cymbalta,pulmonary embolism,0,0
+cymbalta,deep vein thrombosis,0,0
+cymbalta,gastrointestinal haemorrhage,0,0
+cymbalta,internal bleeding,0,0
+cymbalta,seizure,0,0
+cymbalta,convulsion,0,0
+cymbalta,suicidal ideation,0,0
+cymbalta,rhabdomyolysis,0,0
+cymbalta,pancreatitis,0,0
+cymbalta,sepsis,0,0
+cymbalta,chest pain,0,0
+cymbalta,dyspnoea,0,0
+cymbalta,shortness of breath,0,0
+cymbalta,dizziness,0,0
+cymbalta,vertigo,0,0
+cymbalta,palpitations,0,0
+cymbalta,tachycardia,0,0
+cymbalta,bradycardia,0,0
+cymbalta,hypertension,0,0
+cymbalta,hypotension,0,0
+cymbalta,syncope,0,0
+cymbalta,fainting,0,0
+cymbalta,oedema,0,0
+cymbalta,swelling,0,0
+cymbalta,rash,0,0
+cymbalta,urticaria,0,0
+cymbalta,hives,0,0
+cymbalta,pruritus,0,0
+cymbalta,itching,0,0
+cymbalta,vomiting,0,0
+cymbalta,nausea,0,0
+cymbalta,diarrhoea,0,0
+cymbalta,abdominal pain,0,0
+cymbalta,headache,0,0
+cymbalta,migraine,0,0
+cymbalta,tremor,0,0
+cymbalta,insomnia,0,0
+cymbalta,anxiety,0,0
+cymbalta,depression,0,0
+cymbalta,fatigue,0,0
+cymbalta,asthenia,0,0
+cymbalta,weakness,0,0
+cymbalta,pyrexia,0,0
+cymbalta,fever,0,0
+cymbalta,arthralgia,0,0
+cymbalta,joint pain,0,0
+cymbalta,myalgia,0,0
+cymbalta,muscle pain,0,0
+cymbalta,back pain,0,0
+cymbalta,cough,0,0
+alprazolam,myocardial infarction,833,1
+alprazolam,heart attack,0,0
+alprazolam,cardiac arrest,3253,2
+alprazolam,stroke,0,0
+alprazolam,cerebrovascular accident,824,1
+alprazolam,anaphylactic reaction,199,0
+alprazolam,anaphylaxis,0,0
+alprazolam,angioedema,166,0
+alprazolam,stevens-johnson syndrome,99,0
+alprazolam,renal failure,1975,1
+alprazolam,kidney failure,0,0
+alprazolam,hepatic failure,189,0
+alprazolam,liver failure,0,0
+alprazolam,respiratory failure,559,1
+alprazolam,pulmonary embolism,753,1
+alprazolam,deep vein thrombosis,542,1
+alprazolam,gastrointestinal haemorrhage,593,1
+alprazolam,internal bleeding,0,0
+alprazolam,seizure,822,1
+alprazolam,convulsion,376,1
+alprazolam,suicidal ideation,1282,1
+alprazolam,rhabdomyolysis,547,1
+alprazolam,pancreatitis,354,1
+alprazolam,sepsis,718,1
+alprazolam,chest pain,1526,1
+alprazolam,dyspnoea,3736,2
+alprazolam,shortness of breath,0,0
+alprazolam,dizziness,3510,2
+alprazolam,vertigo,634,1
+alprazolam,palpitations,1054,1
+alprazolam,tachycardia,1007,1
+alprazolam,bradycardia,767,1
+alprazolam,hypertension,2194,2
+alprazolam,hypotension,2265,2
+alprazolam,syncope,852,1
+alprazolam,fainting,0,0
+alprazolam,oedema,362,1
+alprazolam,swelling,512,1
+alprazolam,rash,2287,2
+alprazolam,urticaria,686,1
+alprazolam,hives,0,0
+alprazolam,pruritus,1832,1
+alprazolam,itching,0,0
+alprazolam,vomiting,3254,2
+alprazolam,nausea,5856,2
+alprazolam,diarrhoea,4361,2
+alprazolam,abdominal pain,1777,1
+alprazolam,headache,4676,2
+alprazolam,migraine,669,1
+alprazolam,tremor,1886,1
+alprazolam,insomnia,3039,2
+alprazolam,anxiety,4471,2
+alprazolam,depression,3075,2
+alprazolam,fatigue,5522,2
+alprazolam,asthenia,3061,2
+alprazolam,weakness,0,0
+alprazolam,pyrexia,2279,2
+alprazolam,fever,0,0
+alprazolam,arthralgia,2339,2
+alprazolam,joint pain,0,0
+alprazolam,myalgia,983,1
+alprazolam,muscle pain,0,0
+alprazolam,back pain,2010,2
+alprazolam,cough,1511,1
+xanax,myocardial infarction,1169,1
+xanax,heart attack,0,0
+xanax,cardiac arrest,455,1
+xanax,stroke,0,0
+xanax,cerebrovascular accident,1145,1
+xanax,anaphylactic reaction,230,0
+xanax,anaphylaxis,0,0
+xanax,angioedema,128,0
+xanax,stevens-johnson syndrome,79,0
+xanax,renal failure,1198,1
+xanax,kidney failure,0,0
+xanax,hepatic failure,167,0
+xanax,liver failure,0,0
+xanax,respiratory failure,505,1
+xanax,pulmonary embolism,944,1
+xanax,deep vein thrombosis,773,1
+xanax,gastrointestinal haemorrhage,583,1
+xanax,internal bleeding,0,0
+xanax,seizure,805,1
+xanax,convulsion,953,1
+xanax,suicidal ideation,1951,1
+xanax,rhabdomyolysis,255,0
+xanax,pancreatitis,444,1
+xanax,sepsis,667,1
+xanax,chest pain,2275,2
+xanax,dyspnoea,4954,2
+xanax,shortness of breath,0,0
+xanax,dizziness,4848,2
+xanax,vertigo,709,1
+xanax,palpitations,1451,1
+xanax,tachycardia,752,1
+xanax,bradycardia,368,1
+xanax,hypertension,2123,2
+xanax,hypotension,1534,1
+xanax,syncope,837,1
+xanax,fainting,0,0
+xanax,oedema,447,1
+xanax,swelling,636,1
+xanax,rash,2349,2
+xanax,urticaria,851,1
+xanax,hives,0,0
+xanax,pruritus,2123,2
+xanax,itching,0,0
+xanax,vomiting,4192,2
+xanax,nausea,7703,2
+xanax,diarrhoea,4954,2
+xanax,abdominal pain,2107,2
+xanax,headache,5826,2
+xanax,migraine,1244,1
+xanax,tremor,2645,2
+xanax,insomnia,4665,2
+xanax,anxiety,6414,2
+xanax,depression,4601,2
+xanax,fatigue,7056,2
+xanax,asthenia,4083,2
+xanax,weakness,0,0
+xanax,pyrexia,2185,2
+xanax,fever,0,0
+xanax,arthralgia,3078,2
+xanax,joint pain,0,0
+xanax,myalgia,1460,1
+xanax,muscle pain,0,0
+xanax,back pain,2663,2
+xanax,cough,1855,1
+clonazepam,myocardial infarction,800,1
+clonazepam,heart attack,0,0
+clonazepam,cardiac arrest,1755,1
+clonazepam,stroke,0,0
+clonazepam,cerebrovascular accident,851,1
+clonazepam,anaphylactic reaction,257,0
+clonazepam,anaphylaxis,0,0
+clonazepam,angioedema,116,0
+clonazepam,stevens-johnson syndrome,207,0
+clonazepam,renal failure,1369,1
+clonazepam,kidney failure,0,0
+clonazepam,hepatic failure,225,0
+clonazepam,liver failure,0,0
+clonazepam,respiratory failure,804,1
+clonazepam,pulmonary embolism,696,1
+clonazepam,deep vein thrombosis,515,1
+clonazepam,gastrointestinal haemorrhage,397,1
+clonazepam,internal bleeding,0,0
+clonazepam,seizure,2865,2
+clonazepam,convulsion,1050,1
+clonazepam,suicidal ideation,2418,2
+clonazepam,rhabdomyolysis,572,1
+clonazepam,pancreatitis,434,1
+clonazepam,sepsis,724,1
+clonazepam,chest pain,2031,2
+clonazepam,dyspnoea,5243,2
+clonazepam,shortness of breath,0,0
+clonazepam,dizziness,5059,2
+clonazepam,vertigo,698,1
+clonazepam,palpitations,1222,1
+clonazepam,tachycardia,1139,1
+clonazepam,bradycardia,730,1
+clonazepam,hypertension,2223,2
+clonazepam,hypotension,2308,2
+clonazepam,syncope,939,1
+clonazepam,fainting,0,0
+clonazepam,oedema,1080,1
+clonazepam,swelling,593,1
+clonazepam,rash,2244,2
+clonazepam,urticaria,954,1
+clonazepam,hives,0,0
+clonazepam,pruritus,2213,2
+clonazepam,itching,0,0
+clonazepam,vomiting,4560,2
+clonazepam,nausea,6566,2
+clonazepam,diarrhoea,4856,2
+clonazepam,abdominal pain,1955,1
+clonazepam,headache,6124,2
+clonazepam,migraine,1325,1
+clonazepam,tremor,3151,2
+clonazepam,insomnia,4675,2
+clonazepam,anxiety,5951,2
+clonazepam,depression,5599,2
+clonazepam,fatigue,7286,2
+clonazepam,asthenia,3575,2
+clonazepam,weakness,0,0
+clonazepam,pyrexia,2734,2
+clonazepam,fever,0,0
+clonazepam,arthralgia,3146,2
+clonazepam,joint pain,0,0
+clonazepam,myalgia,1392,1
+clonazepam,muscle pain,0,0
+clonazepam,back pain,2407,2
+clonazepam,cough,2804,2
+klonopin,myocardial infarction,391,1
+klonopin,heart attack,0,0
+klonopin,cardiac arrest,143,0
+klonopin,stroke,0,0
+klonopin,cerebrovascular accident,405,1
+klonopin,anaphylactic reaction,91,0
+klonopin,anaphylaxis,0,0
+klonopin,angioedema,34,0
+klonopin,stevens-johnson syndrome,63,0
+klonopin,renal failure,391,1
+klonopin,kidney failure,0,0
+klonopin,hepatic failure,56,0
+klonopin,liver failure,0,0
+klonopin,respiratory failure,178,0
+klonopin,pulmonary embolism,321,1
+klonopin,deep vein thrombosis,269,0
+klonopin,gastrointestinal haemorrhage,170,0
+klonopin,internal bleeding,0,0
+klonopin,seizure,933,1
+klonopin,convulsion,752,1
+klonopin,suicidal ideation,1349,1
+klonopin,rhabdomyolysis,83,0
+klonopin,pancreatitis,287,0
+klonopin,sepsis,215,0
+klonopin,chest pain,927,1
+klonopin,dyspnoea,1704,1
+klonopin,shortness of breath,0,0
+klonopin,dizziness,2477,2
+klonopin,vertigo,308,1
+klonopin,palpitations,669,1
+klonopin,tachycardia,252,0
+klonopin,bradycardia,117,0
+klonopin,hypertension,827,1
+klonopin,hypotension,537,1
+klonopin,syncope,353,1
+klonopin,fainting,0,0
+klonopin,oedema,182,0
+klonopin,swelling,257,0
+klonopin,rash,1099,1
+klonopin,urticaria,391,1
+klonopin,hives,0,0
+klonopin,pruritus,919,1
+klonopin,itching,0,0
+klonopin,vomiting,1684,1
+klonopin,nausea,3341,2
+klonopin,diarrhoea,1962,1
+klonopin,abdominal pain,813,1
+klonopin,headache,2875,2
+klonopin,migraine,717,1
+klonopin,tremor,1406,1
+klonopin,insomnia,2772,2
+klonopin,anxiety,3326,2
+klonopin,depression,2818,2
+klonopin,fatigue,3306,2
+klonopin,asthenia,1582,1
+klonopin,weakness,0,0
+klonopin,pyrexia,941,1
+klonopin,fever,0,0
+klonopin,arthralgia,1253,1
+klonopin,joint pain,0,0
+klonopin,myalgia,629,1
+klonopin,muscle pain,0,0
+klonopin,back pain,1124,1
+klonopin,cough,767,1
+lorazepam,myocardial infarction,1000,1
+lorazepam,heart attack,0,0
+lorazepam,cardiac arrest,1500,1
+lorazepam,stroke,0,0
+lorazepam,cerebrovascular accident,979,1
+lorazepam,anaphylactic reaction,307,1
+lorazepam,anaphylaxis,0,0
+lorazepam,angioedema,229,0
+lorazepam,stevens-johnson syndrome,230,0
+lorazepam,renal failure,1847,1
+lorazepam,kidney failure,0,0
+lorazepam,hepatic failure,299,0
+lorazepam,liver failure,0,0
+lorazepam,respiratory failure,1243,1
+lorazepam,pulmonary embolism,1159,1
+lorazepam,deep vein thrombosis,764,1
+lorazepam,gastrointestinal haemorrhage,714,1
+lorazepam,internal bleeding,0,0
+lorazepam,seizure,1822,1
+lorazepam,convulsion,793,1
+lorazepam,suicidal ideation,1947,1
+lorazepam,rhabdomyolysis,958,1
+lorazepam,pancreatitis,683,1
+lorazepam,sepsis,1379,1
+lorazepam,chest pain,2636,2
+lorazepam,dyspnoea,6232,2
+lorazepam,shortness of breath,0,0
+lorazepam,dizziness,5629,2
+lorazepam,vertigo,662,1
+lorazepam,palpitations,1182,1
+lorazepam,tachycardia,2108,2
+lorazepam,bradycardia,1148,1
+lorazepam,hypertension,3025,2
+lorazepam,hypotension,3134,2
+lorazepam,syncope,1183,1
+lorazepam,fainting,0,0
+lorazepam,oedema,1281,1
+lorazepam,swelling,1474,1
+lorazepam,rash,3669,2
+lorazepam,urticaria,1855,1
+lorazepam,hives,0,0
+lorazepam,pruritus,2852,2
+lorazepam,itching,0,0
+lorazepam,vomiting,5916,2
+lorazepam,nausea,8774,2
+lorazepam,diarrhoea,7127,2
+lorazepam,abdominal pain,2732,2
+lorazepam,headache,5766,2
+lorazepam,migraine,1348,1
+lorazepam,tremor,2574,2
+lorazepam,insomnia,4187,2
+lorazepam,anxiety,5654,2
+lorazepam,depression,3797,2
+lorazepam,fatigue,8907,2
+lorazepam,asthenia,4791,2
+lorazepam,weakness,0,0
+lorazepam,pyrexia,4409,2
+lorazepam,fever,0,0
+lorazepam,arthralgia,3787,2
+lorazepam,joint pain,0,0
+lorazepam,myalgia,1305,1
+lorazepam,muscle pain,0,0
+lorazepam,back pain,2364,2
+lorazepam,cough,2328,2
+ativan,myocardial infarction,588,1
+ativan,heart attack,0,0
+ativan,cardiac arrest,370,1
+ativan,stroke,0,0
+ativan,cerebrovascular accident,633,1
+ativan,anaphylactic reaction,193,0
+ativan,anaphylaxis,0,0
+ativan,angioedema,117,0
+ativan,stevens-johnson syndrome,88,0
+ativan,renal failure,766,1
+ativan,kidney failure,0,0
+ativan,hepatic failure,126,0
+ativan,liver failure,0,0
+ativan,respiratory failure,574,1
+ativan,pulmonary embolism,620,1
+ativan,deep vein thrombosis,566,1
+ativan,gastrointestinal haemorrhage,410,1
+ativan,internal bleeding,0,0
+ativan,seizure,817,1
+ativan,convulsion,659,1
+ativan,suicidal ideation,956,1
+ativan,rhabdomyolysis,128,0
+ativan,pancreatitis,511,1
+ativan,sepsis,704,1
+ativan,chest pain,2191,2
+ativan,dyspnoea,3960,2
+ativan,shortness of breath,0,0
+ativan,dizziness,3495,2
+ativan,vertigo,289,0
+ativan,palpitations,804,1
+ativan,tachycardia,714,1
+ativan,bradycardia,341,1
+ativan,hypertension,2070,2
+ativan,hypotension,1225,1
+ativan,syncope,525,1
+ativan,fainting,0,0
+ativan,oedema,1078,1
+ativan,swelling,1479,1
+ativan,rash,2488,2
+ativan,urticaria,1603,1
+ativan,hives,0,0
+ativan,pruritus,1888,1
+ativan,itching,0,0
+ativan,vomiting,3628,2
+ativan,nausea,5725,2
+ativan,diarrhoea,4315,2
+ativan,abdominal pain,2157,2
+ativan,headache,3796,2
+ativan,migraine,1170,1
+ativan,tremor,1322,1
+ativan,insomnia,2864,2
+ativan,anxiety,4037,2
+ativan,depression,2705,2
+ativan,fatigue,5799,2
+ativan,asthenia,3052,2
+ativan,weakness,0,0
+ativan,pyrexia,2686,2
+ativan,fever,0,0
+ativan,arthralgia,2863,2
+ativan,joint pain,0,0
+ativan,myalgia,851,1
+ativan,muscle pain,0,0
+ativan,back pain,1621,1
+ativan,cough,1555,1
+zolpidem,myocardial infarction,449,1
+zolpidem,heart attack,0,0
+zolpidem,cardiac arrest,1005,1
+zolpidem,stroke,0,0
+zolpidem,cerebrovascular accident,622,1
+zolpidem,anaphylactic reaction,82,0
+zolpidem,anaphylaxis,0,0
+zolpidem,angioedema,96,0
+zolpidem,stevens-johnson syndrome,108,0
+zolpidem,renal failure,1663,1
+zolpidem,kidney failure,0,0
+zolpidem,hepatic failure,148,0
+zolpidem,liver failure,0,0
+zolpidem,respiratory failure,422,1
+zolpidem,pulmonary embolism,543,1
+zolpidem,deep vein thrombosis,403,1
+zolpidem,gastrointestinal haemorrhage,491,1
+zolpidem,internal bleeding,0,0
+zolpidem,seizure,530,1
+zolpidem,convulsion,342,1
+zolpidem,suicidal ideation,881,1
+zolpidem,rhabdomyolysis,482,1
+zolpidem,pancreatitis,224,0
+zolpidem,sepsis,579,1
+zolpidem,chest pain,822,1
+zolpidem,dyspnoea,2427,2
+zolpidem,shortness of breath,0,0
+zolpidem,dizziness,2398,2
+zolpidem,vertigo,400,1
+zolpidem,palpitations,765,1
+zolpidem,tachycardia,886,1
+zolpidem,bradycardia,472,1
+zolpidem,hypertension,1144,1
+zolpidem,hypotension,1665,1
+zolpidem,syncope,748,1
+zolpidem,fainting,0,0
+zolpidem,oedema,299,0
+zolpidem,swelling,293,0
+zolpidem,rash,1387,1
+zolpidem,urticaria,440,1
+zolpidem,hives,0,0
+zolpidem,pruritus,1197,1
+zolpidem,itching,0,0
+zolpidem,vomiting,2436,2
+zolpidem,nausea,3824,2
+zolpidem,diarrhoea,2897,2
+zolpidem,abdominal pain,1091,1
+zolpidem,headache,2824,2
+zolpidem,migraine,387,1
+zolpidem,tremor,1150,1
+zolpidem,insomnia,2738,2
+zolpidem,anxiety,2457,2
+zolpidem,depression,1845,1
+zolpidem,fatigue,3702,2
+zolpidem,asthenia,2093,2
+zolpidem,weakness,0,0
+zolpidem,pyrexia,1799,1
+zolpidem,fever,0,0
+zolpidem,arthralgia,1460,1
+zolpidem,joint pain,0,0
+zolpidem,myalgia,743,1
+zolpidem,muscle pain,0,0
+zolpidem,back pain,1122,1
+zolpidem,cough,1141,1
+ambien,myocardial infarction,830,1
+ambien,heart attack,0,0
+ambien,cardiac arrest,310,1
+ambien,stroke,0,0
+ambien,cerebrovascular accident,786,1
+ambien,anaphylactic reaction,154,0
+ambien,anaphylaxis,0,0
+ambien,angioedema,67,0
+ambien,stevens-johnson syndrome,76,0
+ambien,renal failure,1134,1
+ambien,kidney failure,0,0
+ambien,hepatic failure,132,0
+ambien,liver failure,0,0
+ambien,respiratory failure,411,1
+ambien,pulmonary embolism,727,1
+ambien,deep vein thrombosis,701,1
+ambien,gastrointestinal haemorrhage,536,1
+ambien,internal bleeding,0,0
+ambien,seizure,361,1
+ambien,convulsion,575,1
+ambien,suicidal ideation,1095,1
+ambien,rhabdomyolysis,119,0
+ambien,pancreatitis,417,1
+ambien,sepsis,557,1
+ambien,chest pain,1588,1
+ambien,dyspnoea,3038,2
+ambien,shortness of breath,0,0
+ambien,dizziness,3053,2
+ambien,vertigo,354,1
+ambien,palpitations,810,1
+ambien,tachycardia,397,1
+ambien,bradycardia,201,0
+ambien,hypertension,1471,1
+ambien,hypotension,1050,1
+ambien,syncope,635,1
+ambien,fainting,0,0
+ambien,oedema,332,1
+ambien,swelling,441,1
+ambien,rash,1646,1
+ambien,urticaria,527,1
+ambien,hives,0,0
+ambien,pruritus,1363,1
+ambien,itching,0,0
+ambien,vomiting,2608,2
+ambien,nausea,4953,2
+ambien,diarrhoea,3292,2
+ambien,abdominal pain,1499,1
+ambien,headache,3694,2
+ambien,migraine,775,1
+ambien,tremor,1260,1
+ambien,insomnia,3908,2
+ambien,anxiety,3270,2
+ambien,depression,2885,2
+ambien,fatigue,4900,2
+ambien,asthenia,2539,2
+ambien,weakness,0,0
+ambien,pyrexia,1524,1
+ambien,fever,0,0
+ambien,arthralgia,2220,2
+ambien,joint pain,0,0
+ambien,myalgia,981,1
+ambien,muscle pain,0,0
+ambien,back pain,1935,1
+ambien,cough,1262,1
+tramadol,myocardial infarction,1371,1
+tramadol,heart attack,0,0
+tramadol,cardiac arrest,1443,1
+tramadol,stroke,0,0
+tramadol,cerebrovascular accident,1465,1
+tramadol,anaphylactic reaction,547,1
+tramadol,anaphylaxis,0,0
+tramadol,angioedema,656,1
+tramadol,stevens-johnson syndrome,257,0
+tramadol,renal failure,4449,2
+tramadol,kidney failure,0,0
+tramadol,hepatic failure,435,1
+tramadol,liver failure,0,0
+tramadol,respiratory failure,987,1
+tramadol,pulmonary embolism,1263,1
+tramadol,deep vein thrombosis,1062,1
+tramadol,gastrointestinal haemorrhage,1216,1
+tramadol,internal bleeding,0,0
+tramadol,seizure,2146,2
+tramadol,convulsion,1029,1
+tramadol,suicidal ideation,1846,1
+tramadol,rhabdomyolysis,763,1
+tramadol,pancreatitis,658,1
+tramadol,sepsis,1825,1
+tramadol,chest pain,3415,2
+tramadol,dyspnoea,8571,2
+tramadol,shortness of breath,0,0
+tramadol,dizziness,8182,2
+tramadol,vertigo,1045,1
+tramadol,palpitations,1391,1
+tramadol,tachycardia,2102,2
+tramadol,bradycardia,807,1
+tramadol,hypertension,4468,2
+tramadol,hypotension,3163,2
+tramadol,syncope,1574,1
+tramadol,fainting,0,0
+tramadol,oedema,1784,1
+tramadol,swelling,2391,2
+tramadol,rash,4922,2
+tramadol,urticaria,2418,2
+tramadol,hives,0,0
+tramadol,pruritus,4644,2
+tramadol,itching,0,0
+tramadol,vomiting,10236,2
+tramadol,nausea,13348,2
+tramadol,diarrhoea,9410,2
+tramadol,abdominal pain,4086,2
+tramadol,headache,9937,2
+tramadol,migraine,2044,2
+tramadol,tremor,2813,2
+tramadol,insomnia,5423,2
+tramadol,anxiety,6660,2
+tramadol,depression,6370,2
+tramadol,fatigue,11636,2
+tramadol,asthenia,6320,2
+tramadol,weakness,0,0
+tramadol,pyrexia,4672,2
+tramadol,fever,0,0
+tramadol,arthralgia,7709,2
+tramadol,joint pain,0,0
+tramadol,myalgia,2344,2
+tramadol,muscle pain,0,0
+tramadol,back pain,4877,2
+tramadol,cough,3443,2
+ultram,myocardial infarction,392,1
+ultram,heart attack,0,0
+ultram,cardiac arrest,116,0
+ultram,stroke,0,0
+ultram,cerebrovascular accident,303,1
+ultram,anaphylactic reaction,88,0
+ultram,anaphylaxis,0,0
+ultram,angioedema,29,0
+ultram,stevens-johnson syndrome,0,0
+ultram,renal failure,470,1
+ultram,kidney failure,0,0
+ultram,hepatic failure,29,0
+ultram,liver failure,0,0
+ultram,respiratory failure,129,0
+ultram,pulmonary embolism,254,0
+ultram,deep vein thrombosis,261,0
+ultram,gastrointestinal haemorrhage,248,0
+ultram,internal bleeding,0,0
+ultram,seizure,102,0
+ultram,convulsion,397,1
+ultram,suicidal ideation,228,0
+ultram,rhabdomyolysis,42,0
+ultram,pancreatitis,121,0
+ultram,sepsis,191,0
+ultram,chest pain,519,1
+ultram,dyspnoea,961,1
+ultram,shortness of breath,0,0
+ultram,dizziness,930,1
+ultram,vertigo,126,0
+ultram,palpitations,226,0
+ultram,tachycardia,192,0
+ultram,bradycardia,79,0
+ultram,hypertension,571,1
+ultram,hypotension,348,1
+ultram,syncope,183,0
+ultram,fainting,0,0
+ultram,oedema,135,0
+ultram,swelling,160,0
+ultram,rash,481,1
+ultram,urticaria,199,0
+ultram,hives,0,0
+ultram,pruritus,393,1
+ultram,itching,0,0
+ultram,vomiting,917,1
+ultram,nausea,1446,1
+ultram,diarrhoea,840,1
+ultram,abdominal pain,494,1
+ultram,headache,1094,1
+ultram,migraine,254,0
+ultram,tremor,353,1
+ultram,insomnia,590,1
+ultram,anxiety,732,1
+ultram,depression,702,1
+ultram,fatigue,1137,1
+ultram,asthenia,756,1
+ultram,weakness,0,0
+ultram,pyrexia,437,1
+ultram,fever,0,0
+ultram,arthralgia,728,1
+ultram,joint pain,0,0
+ultram,myalgia,296,0
+ultram,muscle pain,0,0
+ultram,back pain,614,1
+ultram,cough,327,1
+oxycodone,myocardial infarction,1767,1
+oxycodone,heart attack,0,0
+oxycodone,cardiac arrest,3227,2
+oxycodone,stroke,0,0
+oxycodone,cerebrovascular accident,1716,1
+oxycodone,anaphylactic reaction,425,1
+oxycodone,anaphylaxis,0,0
+oxycodone,angioedema,218,0
+oxycodone,stevens-johnson syndrome,163,0
+oxycodone,renal failure,3422,2
+oxycodone,kidney failure,0,0
+oxycodone,hepatic failure,496,1
+oxycodone,liver failure,0,0
+oxycodone,respiratory failure,1361,1
+oxycodone,pulmonary embolism,2123,2
+oxycodone,deep vein thrombosis,1755,1
+oxycodone,gastrointestinal haemorrhage,1064,1
+oxycodone,internal bleeding,0,0
+oxycodone,seizure,1539,1
+oxycodone,convulsion,551,1
+oxycodone,suicidal ideation,2154,2
+oxycodone,rhabdomyolysis,591,1
+oxycodone,pancreatitis,863,1
+oxycodone,sepsis,2176,2
+oxycodone,chest pain,3838,2
+oxycodone,dyspnoea,10246,2
+oxycodone,shortness of breath,0,0
+oxycodone,dizziness,7075,2
+oxycodone,vertigo,662,1
+oxycodone,palpitations,1212,1
+oxycodone,tachycardia,1418,1
+oxycodone,bradycardia,636,1
+oxycodone,hypertension,5113,2
+oxycodone,hypotension,3127,2
+oxycodone,syncope,1161,1
+oxycodone,fainting,0,0
+oxycodone,oedema,2056,2
+oxycodone,swelling,5083,2
+oxycodone,rash,8700,2
+oxycodone,urticaria,3949,2
+oxycodone,hives,0,0
+oxycodone,pruritus,6862,2
+oxycodone,itching,0,0
+oxycodone,vomiting,10541,2
+oxycodone,nausea,14997,2
+oxycodone,diarrhoea,10948,2
+oxycodone,abdominal pain,4447,2
+oxycodone,headache,9910,2
+oxycodone,migraine,2717,2
+oxycodone,tremor,2564,2
+oxycodone,insomnia,6752,2
+oxycodone,anxiety,10347,2
+oxycodone,depression,9354,2
+oxycodone,fatigue,15155,2
+oxycodone,asthenia,7359,2
+oxycodone,weakness,0,0
+oxycodone,pyrexia,7985,2
+oxycodone,fever,0,0
+oxycodone,arthralgia,8966,2
+oxycodone,joint pain,0,0
+oxycodone,myalgia,1783,1
+oxycodone,muscle pain,0,0
+oxycodone,back pain,5520,2
+oxycodone,cough,2593,2
+percocet,myocardial infarction,712,1
+percocet,heart attack,0,0
+percocet,cardiac arrest,258,0
+percocet,stroke,0,0
+percocet,cerebrovascular accident,645,1
+percocet,anaphylactic reaction,127,0
+percocet,anaphylaxis,0,0
+percocet,angioedema,75,0
+percocet,stevens-johnson syndrome,0,0
+percocet,renal failure,971,1
+percocet,kidney failure,0,0
+percocet,hepatic failure,140,0
+percocet,liver failure,0,0
+percocet,respiratory failure,354,1
+percocet,pulmonary embolism,964,1
+percocet,deep vein thrombosis,820,1
+percocet,gastrointestinal haemorrhage,410,1
+percocet,internal bleeding,0,0
+percocet,seizure,398,1
+percocet,convulsion,335,1
+percocet,suicidal ideation,747,1
+percocet,rhabdomyolysis,83,0
+percocet,pancreatitis,350,1
+percocet,sepsis,536,1
+percocet,chest pain,1279,1
+percocet,dyspnoea,2600,2
+percocet,shortness of breath,0,0
+percocet,dizziness,2048,2
+percocet,vertigo,230,0
+percocet,palpitations,439,1
+percocet,tachycardia,303,1
+percocet,bradycardia,137,0
+percocet,hypertension,1192,1
+percocet,hypotension,823,1
+percocet,syncope,424,1
+percocet,fainting,0,0
+percocet,oedema,340,1
+percocet,swelling,593,1
+percocet,rash,1391,1
+percocet,urticaria,663,1
+percocet,hives,0,0
+percocet,pruritus,1238,1
+percocet,itching,0,0
+percocet,vomiting,2796,2
+percocet,nausea,4275,2
+percocet,diarrhoea,2847,2
+percocet,abdominal pain,1457,1
+percocet,headache,2764,2
+percocet,migraine,743,1
+percocet,tremor,993,1
+percocet,insomnia,1968,1
+percocet,anxiety,3063,2
+percocet,depression,3186,2
+percocet,fatigue,3609,2
+percocet,asthenia,2111,2
+percocet,weakness,0,0
+percocet,pyrexia,1337,1
+percocet,fever,0,0
+percocet,arthralgia,2143,2
+percocet,joint pain,0,0
+percocet,myalgia,673,1
+percocet,muscle pain,0,0
+percocet,back pain,2109,2
+percocet,cough,944,1
+hydrocodone,myocardial infarction,1710,1
+hydrocodone,heart attack,0,0
+hydrocodone,cardiac arrest,2358,2
+hydrocodone,stroke,0,0
+hydrocodone,cerebrovascular accident,1549,1
+hydrocodone,anaphylactic reaction,181,0
+hydrocodone,anaphylaxis,0,0
+hydrocodone,angioedema,113,0
+hydrocodone,stevens-johnson syndrome,85,0
+hydrocodone,renal failure,3605,2
+hydrocodone,kidney failure,0,0
+hydrocodone,hepatic failure,263,0
+hydrocodone,liver failure,0,0
+hydrocodone,respiratory failure,703,1
+hydrocodone,pulmonary embolism,1400,1
+hydrocodone,deep vein thrombosis,1343,1
+hydrocodone,gastrointestinal haemorrhage,987,1
+hydrocodone,internal bleeding,0,0
+hydrocodone,seizure,998,1
+hydrocodone,convulsion,554,1
+hydrocodone,suicidal ideation,1531,1
+hydrocodone,rhabdomyolysis,230,0
+hydrocodone,pancreatitis,530,1
+hydrocodone,sepsis,1099,1
+hydrocodone,chest pain,2242,2
+hydrocodone,dyspnoea,4857,2
+hydrocodone,shortness of breath,0,0
+hydrocodone,dizziness,4621,2
+hydrocodone,vertigo,470,1
+hydrocodone,palpitations,997,1
+hydrocodone,tachycardia,650,1
+hydrocodone,bradycardia,381,1
+hydrocodone,hypertension,2417,2
+hydrocodone,hypotension,1757,1
+hydrocodone,syncope,765,1
+hydrocodone,fainting,0,0
+hydrocodone,oedema,570,1
+hydrocodone,swelling,800,1
+hydrocodone,rash,2725,2
+hydrocodone,urticaria,941,1
+hydrocodone,hives,0,0
+hydrocodone,pruritus,2479,2
+hydrocodone,itching,0,0
+hydrocodone,vomiting,4774,2
+hydrocodone,nausea,8365,2
+hydrocodone,diarrhoea,5894,2
+hydrocodone,abdominal pain,2239,2
+hydrocodone,headache,5831,2
+hydrocodone,migraine,1198,1
+hydrocodone,tremor,1850,1
+hydrocodone,insomnia,3768,2
+hydrocodone,anxiety,8295,2
+hydrocodone,depression,7155,2
+hydrocodone,fatigue,7755,2
+hydrocodone,asthenia,4140,2
+hydrocodone,weakness,0,0
+hydrocodone,pyrexia,1994,1
+hydrocodone,fever,0,0
+hydrocodone,arthralgia,4162,2
+hydrocodone,joint pain,0,0
+hydrocodone,myalgia,1372,1
+hydrocodone,muscle pain,0,0
+hydrocodone,back pain,3760,2
+hydrocodone,cough,2205,2
+vicodin,myocardial infarction,692,1
+vicodin,heart attack,0,0
+vicodin,cardiac arrest,252,0
+vicodin,stroke,0,0
+vicodin,cerebrovascular accident,549,1
+vicodin,anaphylactic reaction,123,0
+vicodin,anaphylaxis,0,0
+vicodin,angioedema,55,0
+vicodin,stevens-johnson syndrome,48,0
+vicodin,renal failure,656,1
+vicodin,kidney failure,0,0
+vicodin,hepatic failure,94,0
+vicodin,liver failure,0,0
+vicodin,respiratory failure,258,0
+vicodin,pulmonary embolism,865,1
+vicodin,deep vein thrombosis,812,1
+vicodin,gastrointestinal haemorrhage,326,1
+vicodin,internal bleeding,0,0
+vicodin,seizure,190,0
+vicodin,convulsion,419,1
+vicodin,suicidal ideation,600,1
+vicodin,rhabdomyolysis,78,0
+vicodin,pancreatitis,215,0
+vicodin,sepsis,346,1
+vicodin,chest pain,1093,1
+vicodin,dyspnoea,1911,1
+vicodin,shortness of breath,0,0
+vicodin,dizziness,1697,1
+vicodin,vertigo,187,0
+vicodin,palpitations,384,1
+vicodin,tachycardia,283,0
+vicodin,bradycardia,115,0
+vicodin,hypertension,968,1
+vicodin,hypotension,590,1
+vicodin,syncope,376,1
+vicodin,fainting,0,0
+vicodin,oedema,230,0
+vicodin,swelling,287,0
+vicodin,rash,991,1
+vicodin,urticaria,398,1
+vicodin,hives,0,0
+vicodin,pruritus,860,1
+vicodin,itching,0,0
+vicodin,vomiting,1962,1
+vicodin,nausea,3037,2
+vicodin,diarrhoea,1815,1
+vicodin,abdominal pain,1145,1
+vicodin,headache,2022,2
+vicodin,migraine,496,1
+vicodin,tremor,796,1
+vicodin,insomnia,1317,1
+vicodin,anxiety,2434,2
+vicodin,depression,2109,2
+vicodin,fatigue,2415,2
+vicodin,asthenia,1446,1
+vicodin,weakness,0,0
+vicodin,pyrexia,910,1
+vicodin,fever,0,0
+vicodin,arthralgia,1550,1
+vicodin,joint pain,0,0
+vicodin,myalgia,603,1
+vicodin,muscle pain,0,0
+vicodin,back pain,1466,1
+vicodin,cough,775,1
+ibuprofen,myocardial infarction,1261,1
+ibuprofen,heart attack,0,0
+ibuprofen,cardiac arrest,1200,1
+ibuprofen,stroke,0,0
+ibuprofen,cerebrovascular accident,1292,1
+ibuprofen,anaphylactic reaction,1900,1
+ibuprofen,anaphylaxis,0,0
+ibuprofen,angioedema,2849,2
+ibuprofen,stevens-johnson syndrome,968,1
+ibuprofen,renal failure,3722,2
+ibuprofen,kidney failure,0,0
+ibuprofen,hepatic failure,591,1
+ibuprofen,liver failure,0,0
+ibuprofen,respiratory failure,924,1
+ibuprofen,pulmonary embolism,2259,2
+ibuprofen,deep vein thrombosis,1973,1
+ibuprofen,gastrointestinal haemorrhage,2188,2
+ibuprofen,internal bleeding,0,0
+ibuprofen,seizure,1427,1
+ibuprofen,convulsion,655,1
+ibuprofen,suicidal ideation,1492,1
+ibuprofen,rhabdomyolysis,599,1
+ibuprofen,pancreatitis,782,1
+ibuprofen,sepsis,1378,1
+ibuprofen,chest pain,4088,2
+ibuprofen,dyspnoea,10653,2
+ibuprofen,shortness of breath,0,0
+ibuprofen,dizziness,8375,2
+ibuprofen,vertigo,960,1
+ibuprofen,palpitations,1899,1
+ibuprofen,tachycardia,1961,1
+ibuprofen,bradycardia,795,1
+ibuprofen,hypertension,4156,2
+ibuprofen,hypotension,3081,2
+ibuprofen,syncope,1669,1
+ibuprofen,fainting,0,0
+ibuprofen,oedema,1858,1
+ibuprofen,swelling,4548,2
+ibuprofen,rash,8981,2
+ibuprofen,urticaria,5341,2
+ibuprofen,hives,0,0
+ibuprofen,pruritus,7903,2
+ibuprofen,itching,0,0
+ibuprofen,vomiting,10094,2
+ibuprofen,nausea,13727,2
+ibuprofen,diarrhoea,9747,2
+ibuprofen,abdominal pain,5133,2
+ibuprofen,headache,12345,2
+ibuprofen,migraine,2670,2
+ibuprofen,tremor,2188,2
+ibuprofen,insomnia,5555,2
+ibuprofen,anxiety,6414,2
+ibuprofen,depression,5188,2
+ibuprofen,fatigue,14501,2
+ibuprofen,asthenia,6475,2
+ibuprofen,weakness,0,0
+ibuprofen,pyrexia,7918,2
+ibuprofen,fever,0,0
+ibuprofen,arthralgia,10791,2
+ibuprofen,joint pain,0,0
+ibuprofen,myalgia,2628,2
+ibuprofen,muscle pain,0,0
+ibuprofen,back pain,5423,2
+ibuprofen,cough,4055,2
+advil,myocardial infarction,374,1
+advil,heart attack,0,0
+advil,cardiac arrest,66,0
+advil,stroke,0,0
+advil,cerebrovascular accident,411,1
+advil,anaphylactic reaction,184,0
+advil,anaphylaxis,0,0
+advil,angioedema,93,0
+advil,stevens-johnson syndrome,96,0
+advil,renal failure,422,1
+advil,kidney failure,0,0
+advil,hepatic failure,60,0
+advil,liver failure,0,0
+advil,respiratory failure,93,0
+advil,pulmonary embolism,563,1
+advil,deep vein thrombosis,482,1
+advil,gastrointestinal haemorrhage,280,0
+advil,internal bleeding,0,0
+advil,seizure,210,0
+advil,convulsion,177,0
+advil,suicidal ideation,268,0
+advil,rhabdomyolysis,36,0
+advil,pancreatitis,134,0
+advil,sepsis,168,0
+advil,chest pain,955,1
+advil,dyspnoea,1914,1
+advil,shortness of breath,0,0
+advil,dizziness,2425,2
+advil,vertigo,283,0
+advil,palpitations,568,1
+advil,tachycardia,214,0
+advil,bradycardia,66,0
+advil,hypertension,866,1
+advil,hypotension,442,1
+advil,syncope,260,0
+advil,fainting,0,0
+advil,oedema,166,0
+advil,swelling,549,1
+advil,rash,1617,1
+advil,urticaria,1049,1
+advil,hives,0,0
+advil,pruritus,1525,1
+advil,itching,0,0
+advil,vomiting,1971,1
+advil,nausea,3403,2
+advil,diarrhoea,2204,2
+advil,abdominal pain,931,1
+advil,headache,3413,2
+advil,migraine,666,1
+advil,tremor,639,1
+advil,insomnia,1667,1
+advil,anxiety,1527,1
+advil,depression,1082,1
+advil,fatigue,3479,2
+advil,asthenia,1375,1
+advil,weakness,0,0
+advil,pyrexia,1239,1
+advil,fever,0,0
+advil,arthralgia,1949,1
+advil,joint pain,0,0
+advil,myalgia,746,1
+advil,muscle pain,0,0
+advil,back pain,1310,1
+advil,cough,1199,1
+motrin,myocardial infarction,267,0
+motrin,heart attack,0,0
+motrin,cardiac arrest,74,0
+motrin,stroke,0,0
+motrin,cerebrovascular accident,275,0
+motrin,anaphylactic reaction,93,0
+motrin,anaphylaxis,0,0
+motrin,angioedema,68,0
+motrin,stevens-johnson syndrome,125,0
+motrin,renal failure,280,0
+motrin,kidney failure,0,0
+motrin,hepatic failure,51,0
+motrin,liver failure,0,0
+motrin,respiratory failure,103,0
+motrin,pulmonary embolism,589,1
+motrin,deep vein thrombosis,565,1
+motrin,gastrointestinal haemorrhage,291,0
+motrin,internal bleeding,0,0
+motrin,seizure,148,0
+motrin,convulsion,231,0
+motrin,suicidal ideation,175,0
+motrin,rhabdomyolysis,23,0
+motrin,pancreatitis,107,0
+motrin,sepsis,139,0
+motrin,chest pain,595,1
+motrin,dyspnoea,997,1
+motrin,shortness of breath,0,0
+motrin,dizziness,1136,1
+motrin,vertigo,105,0
+motrin,palpitations,253,0
+motrin,tachycardia,148,0
+motrin,bradycardia,57,0
+motrin,hypertension,468,1
+motrin,hypotension,222,0
+motrin,syncope,148,0
+motrin,fainting,0,0
+motrin,oedema,106,0
+motrin,swelling,160,0
+motrin,rash,802,1
+motrin,urticaria,427,1
+motrin,hives,0,0
+motrin,pruritus,529,1
+motrin,itching,0,0
+motrin,vomiting,1376,1
+motrin,nausea,1914,1
+motrin,diarrhoea,1105,1
+motrin,abdominal pain,632,1
+motrin,headache,1765,1
+motrin,migraine,283,0
+motrin,tremor,297,0
+motrin,insomnia,640,1
+motrin,anxiety,1071,1
+motrin,depression,729,1
+motrin,fatigue,1388,1
+motrin,asthenia,613,1
+motrin,weakness,0,0
+motrin,pyrexia,857,1
+motrin,fever,0,0
+motrin,arthralgia,926,1
+motrin,joint pain,0,0
+motrin,myalgia,301,1
+motrin,muscle pain,0,0
+motrin,back pain,693,1
+motrin,cough,475,1
+naproxen,myocardial infarction,1223,1
+naproxen,heart attack,0,0
+naproxen,cardiac arrest,467,1
+naproxen,stroke,0,0
+naproxen,cerebrovascular accident,711,1
+naproxen,anaphylactic reaction,760,1
+naproxen,anaphylaxis,0,0
+naproxen,angioedema,1089,1
+naproxen,stevens-johnson syndrome,207,0
+naproxen,renal failure,1900,1
+naproxen,kidney failure,0,0
+naproxen,hepatic failure,136,0
+naproxen,liver failure,0,0
+naproxen,respiratory failure,387,1
+naproxen,pulmonary embolism,831,1
+naproxen,deep vein thrombosis,783,1
+naproxen,gastrointestinal haemorrhage,1005,1
+naproxen,internal bleeding,0,0
+naproxen,seizure,503,1
+naproxen,convulsion,260,0
+naproxen,suicidal ideation,779,1
+naproxen,rhabdomyolysis,266,0
+naproxen,pancreatitis,480,1
+naproxen,sepsis,563,1
+naproxen,chest pain,3097,2
+naproxen,dyspnoea,5677,2
+naproxen,shortness of breath,0,0
+naproxen,dizziness,6048,2
+naproxen,vertigo,484,1
+naproxen,palpitations,1347,1
+naproxen,tachycardia,1082,1
+naproxen,bradycardia,210,0
+naproxen,hypertension,3834,2
+naproxen,hypotension,1533,1
+naproxen,syncope,713,1
+naproxen,fainting,0,0
+naproxen,oedema,1852,1
+naproxen,swelling,3552,2
+naproxen,rash,5864,2
+naproxen,urticaria,3393,2
+naproxen,hives,0,0
+naproxen,pruritus,3962,2
+naproxen,itching,0,0
+naproxen,vomiting,6154,2
+naproxen,nausea,8633,2
+naproxen,diarrhoea,6749,2
+naproxen,abdominal pain,3092,2
+naproxen,headache,7089,2
+naproxen,migraine,2938,2
+naproxen,tremor,1117,1
+naproxen,insomnia,3755,2
+naproxen,anxiety,3893,2
+naproxen,depression,3588,2
+naproxen,fatigue,9186,2
+naproxen,asthenia,3839,2
+naproxen,weakness,0,0
+naproxen,pyrexia,4003,2
+naproxen,fever,0,0
+naproxen,arthralgia,8666,2
+naproxen,joint pain,0,0
+naproxen,myalgia,1338,1
+naproxen,muscle pain,0,0
+naproxen,back pain,3637,2
+naproxen,cough,2500,2
+aleve,myocardial infarction,470,1
+aleve,heart attack,0,0
+aleve,cardiac arrest,57,0
+aleve,stroke,0,0
+aleve,cerebrovascular accident,402,1
+aleve,anaphylactic reaction,246,0
+aleve,anaphylaxis,0,0
+aleve,angioedema,62,0
+aleve,stevens-johnson syndrome,32,0
+aleve,renal failure,559,1
+aleve,kidney failure,0,0
+aleve,hepatic failure,42,0
+aleve,liver failure,0,0
+aleve,respiratory failure,78,0
+aleve,pulmonary embolism,316,1
+aleve,deep vein thrombosis,264,0
+aleve,gastrointestinal haemorrhage,520,1
+aleve,internal bleeding,0,0
+aleve,seizure,145,0
+aleve,convulsion,146,0
+aleve,suicidal ideation,205,0
+aleve,rhabdomyolysis,0,0
+aleve,pancreatitis,87,0
+aleve,sepsis,155,0
+aleve,chest pain,795,1
+aleve,dyspnoea,1811,1
+aleve,shortness of breath,0,0
+aleve,dizziness,2596,2
+aleve,vertigo,234,0
+aleve,palpitations,525,1
+aleve,tachycardia,128,0
+aleve,bradycardia,42,0
+aleve,hypertension,729,1
+aleve,hypotension,374,1
+aleve,syncope,284,0
+aleve,fainting,0,0
+aleve,oedema,152,0
+aleve,swelling,434,1
+aleve,rash,1522,1
+aleve,urticaria,1245,1
+aleve,hives,0,0
+aleve,pruritus,1844,1
+aleve,itching,0,0
+aleve,vomiting,1701,1
+aleve,nausea,3156,2
+aleve,diarrhoea,1996,1
+aleve,abdominal pain,818,1
+aleve,headache,4133,2
+aleve,migraine,631,1
+aleve,tremor,568,1
+aleve,insomnia,1657,1
+aleve,anxiety,1182,1
+aleve,depression,848,1
+aleve,fatigue,2806,2
+aleve,asthenia,1313,1
+aleve,weakness,0,0
+aleve,pyrexia,722,1
+aleve,fever,0,0
+aleve,arthralgia,2255,2
+aleve,joint pain,0,0
+aleve,myalgia,640,1
+aleve,muscle pain,0,0
+aleve,back pain,1716,1
+aleve,cough,747,1
+acetaminophen,myocardial infarction,3737,2
+acetaminophen,heart attack,0,0
+acetaminophen,cardiac arrest,4712,2
+acetaminophen,stroke,0,0
+acetaminophen,cerebrovascular accident,3140,2
+acetaminophen,anaphylactic reaction,1918,1
+acetaminophen,anaphylaxis,0,0
+acetaminophen,angioedema,1565,1
+acetaminophen,stevens-johnson syndrome,828,1
+acetaminophen,renal failure,6546,2
+acetaminophen,kidney failure,0,0
+acetaminophen,hepatic failure,1751,1
+acetaminophen,liver failure,0,0
+acetaminophen,respiratory failure,2406,2
+acetaminophen,pulmonary embolism,3312,2
+acetaminophen,deep vein thrombosis,2368,2
+acetaminophen,gastrointestinal haemorrhage,2188,2
+acetaminophen,internal bleeding,0,0
+acetaminophen,seizure,2656,2
+acetaminophen,convulsion,1073,1
+acetaminophen,suicidal ideation,2588,2
+acetaminophen,rhabdomyolysis,1349,1
+acetaminophen,pancreatitis,1574,1
+acetaminophen,sepsis,4430,2
+acetaminophen,chest pain,6976,2
+acetaminophen,dyspnoea,18448,2
+acetaminophen,shortness of breath,0,0
+acetaminophen,dizziness,13450,2
+acetaminophen,vertigo,1639,1
+acetaminophen,palpitations,3022,2
+acetaminophen,tachycardia,4264,2
+acetaminophen,bradycardia,2075,2
+acetaminophen,hypertension,10363,2
+acetaminophen,hypotension,9103,2
+acetaminophen,syncope,2807,2
+acetaminophen,fainting,0,0
+acetaminophen,oedema,3114,2
+acetaminophen,swelling,7602,2
+acetaminophen,rash,14668,2
+acetaminophen,urticaria,6369,2
+acetaminophen,hives,0,0
+acetaminophen,pruritus,11508,2
+acetaminophen,itching,0,0
+acetaminophen,vomiting,18218,2
+acetaminophen,nausea,24570,2
+acetaminophen,diarrhoea,18092,2
+acetaminophen,abdominal pain,9595,2
+acetaminophen,headache,21511,2
+acetaminophen,migraine,4474,2
+acetaminophen,tremor,4104,2
+acetaminophen,insomnia,9171,2
+acetaminophen,anxiety,13683,2
+acetaminophen,depression,11337,2
+acetaminophen,fatigue,26381,2
+acetaminophen,asthenia,12641,2
+acetaminophen,weakness,0,0
+acetaminophen,pyrexia,15829,2
+acetaminophen,fever,0,0
+acetaminophen,arthralgia,17518,2
+acetaminophen,joint pain,0,0
+acetaminophen,myalgia,3918,2
+acetaminophen,muscle pain,0,0
+acetaminophen,back pain,8845,2
+acetaminophen,cough,9168,2
+tylenol,myocardial infarction,2533,2
+tylenol,heart attack,0,0
+tylenol,cardiac arrest,745,1
+tylenol,stroke,0,0
+tylenol,cerebrovascular accident,2581,2
+tylenol,anaphylactic reaction,838,1
+tylenol,anaphylaxis,0,0
+tylenol,angioedema,259,0
+tylenol,stevens-johnson syndrome,223,0
+tylenol,renal failure,3184,2
+tylenol,kidney failure,0,0
+tylenol,hepatic failure,742,1
+tylenol,liver failure,0,0
+tylenol,respiratory failure,1096,1
+tylenol,pulmonary embolism,1741,1
+tylenol,deep vein thrombosis,1343,1
+tylenol,gastrointestinal haemorrhage,1567,1
+tylenol,internal bleeding,0,0
+tylenol,seizure,1284,1
+tylenol,convulsion,858,1
+tylenol,suicidal ideation,1028,1
+tylenol,rhabdomyolysis,202,0
+tylenol,pancreatitis,806,1
+tylenol,sepsis,1906,1
+tylenol,chest pain,5043,2
+tylenol,dyspnoea,12950,2
+tylenol,shortness of breath,0,0
+tylenol,dizziness,10265,2
+tylenol,vertigo,1023,1
+tylenol,palpitations,2424,2
+tylenol,tachycardia,1510,1
+tylenol,bradycardia,641,1
+tylenol,hypertension,5676,2
+tylenol,hypotension,3706,2
+tylenol,syncope,1657,1
+tylenol,fainting,0,0
+tylenol,oedema,1633,1
+tylenol,swelling,3873,2
+tylenol,rash,9189,2
+tylenol,urticaria,4055,2
+tylenol,hives,0,0
+tylenol,pruritus,8160,2
+tylenol,itching,0,0
+tylenol,vomiting,10512,2
+tylenol,nausea,17061,2
+tylenol,diarrhoea,14488,2
+tylenol,abdominal pain,5269,2
+tylenol,headache,16497,2
+tylenol,migraine,2777,2
+tylenol,tremor,3007,2
+tylenol,insomnia,6484,2
+tylenol,anxiety,6308,2
+tylenol,depression,4818,2
+tylenol,fatigue,20303,2
+tylenol,asthenia,9354,2
+tylenol,weakness,0,0
+tylenol,pyrexia,9502,2
+tylenol,fever,0,0
+tylenol,arthralgia,12692,2
+tylenol,joint pain,0,0
+tylenol,myalgia,3374,2
+tylenol,muscle pain,0,0
+tylenol,back pain,7688,2
+tylenol,cough,7284,2
+aspirin,myocardial infarction,16154,2
+aspirin,heart attack,0,0
+aspirin,cardiac arrest,4025,2
+aspirin,stroke,0,0
+aspirin,cerebrovascular accident,12210,2
+aspirin,anaphylactic reaction,1813,1
+aspirin,anaphylaxis,0,0
+aspirin,angioedema,2288,2
+aspirin,stevens-johnson syndrome,721,1
+aspirin,renal failure,10281,2
+aspirin,kidney failure,0,0
+aspirin,hepatic failure,873,1
+aspirin,liver failure,0,0
+aspirin,respiratory failure,3682,2
+aspirin,pulmonary embolism,4312,2
+aspirin,deep vein thrombosis,3625,2
+aspirin,gastrointestinal haemorrhage,14767,2
+aspirin,internal bleeding,0,0
+aspirin,seizure,2625,2
+aspirin,convulsion,1882,1
+aspirin,suicidal ideation,1647,1
+aspirin,rhabdomyolysis,3385,2
+aspirin,pancreatitis,2072,2
+aspirin,sepsis,5345,2
+aspirin,chest pain,13524,2
+aspirin,dyspnoea,30741,2
+aspirin,shortness of breath,0,0
+aspirin,dizziness,25669,2
+aspirin,vertigo,2677,2
+aspirin,palpitations,5446,2
+aspirin,tachycardia,3714,2
+aspirin,bradycardia,3621,2
+aspirin,hypertension,11867,2
+aspirin,hypotension,12630,2
+aspirin,syncope,6831,2
+aspirin,fainting,0,0
+aspirin,oedema,3350,2
+aspirin,swelling,3075,2
+aspirin,rash,13946,2
+aspirin,urticaria,4789,2
+aspirin,hives,0,0
+aspirin,pruritus,15057,2
+aspirin,itching,0,0
+aspirin,vomiting,17666,2
+aspirin,nausea,30508,2
+aspirin,diarrhoea,29953,2
+aspirin,abdominal pain,9266,2
+aspirin,headache,22659,2
+aspirin,migraine,2438,2
+aspirin,tremor,6826,2
+aspirin,insomnia,11075,2
+aspirin,anxiety,10194,2
+aspirin,depression,8589,2
+aspirin,fatigue,36624,2
+aspirin,asthenia,21415,2
+aspirin,weakness,0,0
+aspirin,pyrexia,12183,2
+aspirin,fever,0,0
+aspirin,arthralgia,16032,2
+aspirin,joint pain,0,0
+aspirin,myalgia,9013,2
+aspirin,muscle pain,0,0
+aspirin,back pain,12050,2
+aspirin,cough,14055,2
+bayer,myocardial infarction,347,1
+bayer,heart attack,0,0
+bayer,cardiac arrest,46,0
+bayer,stroke,0,0
+bayer,cerebrovascular accident,286,0
+bayer,anaphylactic reaction,59,0
+bayer,anaphylaxis,0,0
+bayer,angioedema,21,0
+bayer,stevens-johnson syndrome,9,0
+bayer,renal failure,157,0
+bayer,kidney failure,0,0
+bayer,hepatic failure,15,0
+bayer,liver failure,0,0
+bayer,respiratory failure,68,0
+bayer,pulmonary embolism,78,0
+bayer,deep vein thrombosis,69,0
+bayer,gastrointestinal haemorrhage,1226,1
+bayer,internal bleeding,0,0
+bayer,seizure,57,0
+bayer,convulsion,38,0
+bayer,suicidal ideation,32,0
+bayer,rhabdomyolysis,26,0
+bayer,pancreatitis,24,0
+bayer,sepsis,59,0
+bayer,chest pain,243,0
+bayer,dyspnoea,500,1
+bayer,shortness of breath,0,0
+bayer,dizziness,436,1
+bayer,vertigo,47,0
+bayer,palpitations,110,0
+bayer,tachycardia,51,0
+bayer,bradycardia,22,0
+bayer,hypertension,237,0
+bayer,hypotension,136,0
+bayer,syncope,93,0
+bayer,fainting,0,0
+bayer,oedema,45,0
+bayer,swelling,99,0
+bayer,rash,225,0
+bayer,urticaria,137,0
+bayer,hives,0,0
+bayer,pruritus,226,0
+bayer,itching,0,0
+bayer,vomiting,297,0
+bayer,nausea,484,1
+bayer,diarrhoea,436,1
+bayer,abdominal pain,168,0
+bayer,headache,400,1
+bayer,migraine,55,0
+bayer,tremor,109,0
+bayer,insomnia,232,0
+bayer,anxiety,227,0
+bayer,depression,168,0
+bayer,fatigue,461,1
+bayer,asthenia,352,1
+bayer,weakness,0,0
+bayer,pyrexia,145,0
+bayer,fever,0,0
+bayer,arthralgia,274,0
+bayer,joint pain,0,0
+bayer,myalgia,96,0
+bayer,muscle pain,0,0
+bayer,back pain,264,0
+bayer,cough,182,0
+albuterol,myocardial infarction,2215,2
+albuterol,heart attack,0,0
+albuterol,cardiac arrest,1080,1
+albuterol,stroke,0,0
+albuterol,cerebrovascular accident,1773,1
+albuterol,anaphylactic reaction,1211,1
+albuterol,anaphylaxis,0,0
+albuterol,angioedema,702,1
+albuterol,stevens-johnson syndrome,193,0
+albuterol,renal failure,2748,2
+albuterol,kidney failure,0,0
+albuterol,hepatic failure,271,0
+albuterol,liver failure,0,0
+albuterol,respiratory failure,2265,2
+albuterol,pulmonary embolism,2469,2
+albuterol,deep vein thrombosis,1404,1
+albuterol,gastrointestinal haemorrhage,1457,1
+albuterol,internal bleeding,0,0
+albuterol,seizure,1281,1
+albuterol,convulsion,621,1
+albuterol,suicidal ideation,1288,1
+albuterol,rhabdomyolysis,390,1
+albuterol,pancreatitis,723,1
+albuterol,sepsis,2027,2
+albuterol,chest pain,5077,2
+albuterol,dyspnoea,30396,2
+albuterol,shortness of breath,0,0
+albuterol,dizziness,7924,2
+albuterol,vertigo,776,1
+albuterol,palpitations,2225,2
+albuterol,tachycardia,1770,1
+albuterol,bradycardia,665,1
+albuterol,hypertension,4686,2
+albuterol,hypotension,3667,2
+albuterol,syncope,1511,1
+albuterol,fainting,0,0
+albuterol,oedema,1214,1
+albuterol,swelling,1683,1
+albuterol,rash,5981,2
+albuterol,urticaria,2869,2
+albuterol,hives,0,0
+albuterol,pruritus,5076,2
+albuterol,itching,0,0
+albuterol,vomiting,7320,2
+albuterol,nausea,11498,2
+albuterol,diarrhoea,8972,2
+albuterol,abdominal pain,3946,2
+albuterol,headache,11160,2
+albuterol,migraine,2222,2
+albuterol,tremor,3154,2
+albuterol,insomnia,4626,2
+albuterol,anxiety,6740,2
+albuterol,depression,4848,2
+albuterol,fatigue,12305,2
+albuterol,asthenia,6622,2
+albuterol,weakness,0,0
+albuterol,pyrexia,5892,2
+albuterol,fever,0,0
+albuterol,arthralgia,5891,2
+albuterol,joint pain,0,0
+albuterol,myalgia,2371,2
+albuterol,muscle pain,0,0
+albuterol,back pain,4487,2
+albuterol,cough,13744,2
+ventolin,myocardial infarction,904,1
+ventolin,heart attack,0,0
+ventolin,cardiac arrest,321,1
+ventolin,stroke,0,0
+ventolin,cerebrovascular accident,808,1
+ventolin,anaphylactic reaction,621,1
+ventolin,anaphylaxis,0,0
+ventolin,angioedema,322,1
+ventolin,stevens-johnson syndrome,0,0
+ventolin,renal failure,1017,1
+ventolin,kidney failure,0,0
+ventolin,hepatic failure,87,0
+ventolin,liver failure,0,0
+ventolin,respiratory failure,613,1
+ventolin,pulmonary embolism,614,1
+ventolin,deep vein thrombosis,325,1
+ventolin,gastrointestinal haemorrhage,344,1
+ventolin,internal bleeding,0,0
+ventolin,seizure,484,1
+ventolin,convulsion,134,0
+ventolin,suicidal ideation,523,1
+ventolin,rhabdomyolysis,75,0
+ventolin,pancreatitis,242,0
+ventolin,sepsis,571,1
+ventolin,chest pain,2088,2
+ventolin,dyspnoea,15350,2
+ventolin,shortness of breath,0,0
+ventolin,dizziness,3385,2
+ventolin,vertigo,397,1
+ventolin,palpitations,1028,1
+ventolin,tachycardia,673,1
+ventolin,bradycardia,189,0
+ventolin,hypertension,2071,2
+ventolin,hypotension,1037,1
+ventolin,syncope,633,1
+ventolin,fainting,0,0
+ventolin,oedema,388,1
+ventolin,swelling,748,1
+ventolin,rash,2808,2
+ventolin,urticaria,1947,1
+ventolin,hives,0,0
+ventolin,pruritus,2580,2
+ventolin,itching,0,0
+ventolin,vomiting,3023,2
+ventolin,nausea,4199,2
+ventolin,diarrhoea,3662,2
+ventolin,abdominal pain,1758,1
+ventolin,headache,5413,2
+ventolin,migraine,867,1
+ventolin,tremor,1464,1
+ventolin,insomnia,2489,2
+ventolin,anxiety,2624,2
+ventolin,depression,1547,1
+ventolin,fatigue,5745,2
+ventolin,asthenia,3094,2
+ventolin,weakness,0,0
+ventolin,pyrexia,3096,2
+ventolin,fever,0,0
+ventolin,arthralgia,2964,2
+ventolin,joint pain,0,0
+ventolin,myalgia,1297,1
+ventolin,muscle pain,0,0
+ventolin,back pain,2635,2
+ventolin,cough,7405,2
+proair,myocardial infarction,390,1
+proair,heart attack,0,0
+proair,cardiac arrest,126,0
+proair,stroke,0,0
+proair,cerebrovascular accident,368,1
+proair,anaphylactic reaction,161,0
+proair,anaphylaxis,0,0
+proair,angioedema,41,0
+proair,stevens-johnson syndrome,0,0
+proair,renal failure,1023,1
+proair,kidney failure,0,0
+proair,hepatic failure,38,0
+proair,liver failure,0,0
+proair,respiratory failure,235,0
+proair,pulmonary embolism,321,1
+proair,deep vein thrombosis,248,0
+proair,gastrointestinal haemorrhage,287,0
+proair,internal bleeding,0,0
+proair,seizure,276,0
+proair,convulsion,50,0
+proair,suicidal ideation,270,0
+proair,rhabdomyolysis,0,0
+proair,pancreatitis,101,0
+proair,sepsis,305,1
+proair,chest pain,965,1
+proair,dyspnoea,5419,2
+proair,shortness of breath,0,0
+proair,dizziness,1754,1
+proair,vertigo,200,0
+proair,palpitations,452,1
+proair,tachycardia,158,0
+proair,bradycardia,50,0
+proair,hypertension,745,1
+proair,hypotension,436,1
+proair,syncope,258,0
+proair,fainting,0,0
+proair,oedema,190,0
+proair,swelling,337,1
+proair,rash,1137,1
+proair,urticaria,504,1
+proair,hives,0,0
+proair,pruritus,1086,1
+proair,itching,0,0
+proair,vomiting,1204,1
+proair,nausea,2376,2
+proair,diarrhoea,1870,1
+proair,abdominal pain,511,1
+proair,headache,2456,2
+proair,migraine,516,1
+proair,tremor,719,1
+proair,insomnia,977,1
+proair,anxiety,1396,1
+proair,depression,978,1
+proair,fatigue,2803,2
+proair,asthenia,1181,1
+proair,weakness,0,0
+proair,pyrexia,811,1
+proair,fever,0,0
+proair,arthralgia,1200,1
+proair,joint pain,0,0
+proair,myalgia,449,1
+proair,muscle pain,0,0
+proair,back pain,989,1
+proair,cough,2470,2
+fluticasone,myocardial infarction,664,1
+fluticasone,heart attack,0,0
+fluticasone,cardiac arrest,334,1
+fluticasone,stroke,0,0
+fluticasone,cerebrovascular accident,616,1
+fluticasone,anaphylactic reaction,375,1
+fluticasone,anaphylaxis,0,0
+fluticasone,angioedema,476,1
+fluticasone,stevens-johnson syndrome,79,0
+fluticasone,renal failure,1629,1
+fluticasone,kidney failure,0,0
+fluticasone,hepatic failure,107,0
+fluticasone,liver failure,0,0
+fluticasone,respiratory failure,637,1
+fluticasone,pulmonary embolism,852,1
+fluticasone,deep vein thrombosis,483,1
+fluticasone,gastrointestinal haemorrhage,522,1
+fluticasone,internal bleeding,0,0
+fluticasone,seizure,545,1
+fluticasone,convulsion,200,0
+fluticasone,suicidal ideation,417,1
+fluticasone,rhabdomyolysis,142,0
+fluticasone,pancreatitis,195,0
+fluticasone,sepsis,925,1
+fluticasone,chest pain,1762,1
+fluticasone,dyspnoea,8052,2
+fluticasone,shortness of breath,0,0
+fluticasone,dizziness,3419,2
+fluticasone,vertigo,419,1
+fluticasone,palpitations,885,1
+fluticasone,tachycardia,681,1
+fluticasone,bradycardia,303,1
+fluticasone,hypertension,2121,2
+fluticasone,hypotension,1314,1
+fluticasone,syncope,714,1
+fluticasone,fainting,0,0
+fluticasone,oedema,721,1
+fluticasone,swelling,754,1
+fluticasone,rash,2691,2
+fluticasone,urticaria,1124,1
+fluticasone,hives,0,0
+fluticasone,pruritus,2263,2
+fluticasone,itching,0,0
+fluticasone,vomiting,3349,2
+fluticasone,nausea,4915,2
+fluticasone,diarrhoea,4070,2
+fluticasone,abdominal pain,1784,1
+fluticasone,headache,5203,2
+fluticasone,migraine,938,1
+fluticasone,tremor,1058,1
+fluticasone,insomnia,1765,1
+fluticasone,anxiety,2308,2
+fluticasone,depression,1679,1
+fluticasone,fatigue,5557,2
+fluticasone,asthenia,2621,2
+fluticasone,weakness,0,0
+fluticasone,pyrexia,2826,2
+fluticasone,fever,0,0
+fluticasone,arthralgia,2740,2
+fluticasone,joint pain,0,0
+fluticasone,myalgia,1152,1
+fluticasone,muscle pain,0,0
+fluticasone,back pain,1994,1
+fluticasone,cough,4634,2
+flonase,myocardial infarction,508,1
+flonase,heart attack,0,0
+flonase,cardiac arrest,158,0
+flonase,stroke,0,0
+flonase,cerebrovascular accident,505,1
+flonase,anaphylactic reaction,264,0
+flonase,anaphylaxis,0,0
+flonase,angioedema,74,0
+flonase,stevens-johnson syndrome,0,0
+flonase,renal failure,665,1
+flonase,kidney failure,0,0
+flonase,hepatic failure,39,0
+flonase,liver failure,0,0
+flonase,respiratory failure,301,1
+flonase,pulmonary embolism,531,1
+flonase,deep vein thrombosis,428,1
+flonase,gastrointestinal haemorrhage,305,1
+flonase,internal bleeding,0,0
+flonase,seizure,394,1
+flonase,convulsion,140,0
+flonase,suicidal ideation,432,1
+flonase,rhabdomyolysis,63,0
+flonase,pancreatitis,187,0
+flonase,sepsis,422,1
+flonase,chest pain,1214,1
+flonase,dyspnoea,3775,2
+flonase,shortness of breath,0,0
+flonase,dizziness,2790,2
+flonase,vertigo,364,1
+flonase,palpitations,750,1
+flonase,tachycardia,293,0
+flonase,bradycardia,106,0
+flonase,hypertension,1113,1
+flonase,hypotension,755,1
+flonase,syncope,417,1
+flonase,fainting,0,0
+flonase,oedema,295,0
+flonase,swelling,483,1
+flonase,rash,1769,1
+flonase,urticaria,803,1
+flonase,hives,0,0
+flonase,pruritus,1628,1
+flonase,itching,0,0
+flonase,vomiting,1883,1
+flonase,nausea,3810,2
+flonase,diarrhoea,3068,2
+flonase,abdominal pain,988,1
+flonase,headache,4218,2
+flonase,migraine,846,1
+flonase,tremor,843,1
+flonase,insomnia,1688,1
+flonase,anxiety,2016,2
+flonase,depression,1442,1
+flonase,fatigue,4244,2
+flonase,asthenia,1753,1
+flonase,weakness,0,0
+flonase,pyrexia,1407,1
+flonase,fever,0,0
+flonase,arthralgia,1933,1
+flonase,joint pain,0,0
+flonase,myalgia,862,1
+flonase,muscle pain,0,0
+flonase,back pain,1420,1
+flonase,cough,2588,2
+montelukast,myocardial infarction,343,1
+montelukast,heart attack,0,0
+montelukast,cardiac arrest,273,0
+montelukast,stroke,0,0
+montelukast,cerebrovascular accident,439,1
+montelukast,anaphylactic reaction,679,1
+montelukast,anaphylaxis,0,0
+montelukast,angioedema,585,1
+montelukast,stevens-johnson syndrome,51,0
+montelukast,renal failure,853,1
+montelukast,kidney failure,0,0
+montelukast,hepatic failure,72,0
+montelukast,liver failure,0,0
+montelukast,respiratory failure,486,1
+montelukast,pulmonary embolism,523,1
+montelukast,deep vein thrombosis,253,0
+montelukast,gastrointestinal haemorrhage,270,0
+montelukast,internal bleeding,0,0
+montelukast,seizure,506,1
+montelukast,convulsion,96,0
+montelukast,suicidal ideation,1204,1
+montelukast,rhabdomyolysis,79,0
+montelukast,pancreatitis,200,0
+montelukast,sepsis,451,1
+montelukast,chest pain,1319,1
+montelukast,dyspnoea,7653,2
+montelukast,shortness of breath,0,0
+montelukast,dizziness,2984,2
+montelukast,vertigo,375,1
+montelukast,palpitations,789,1
+montelukast,tachycardia,444,1
+montelukast,bradycardia,140,0
+montelukast,hypertension,1836,1
+montelukast,hypotension,882,1
+montelukast,syncope,449,1
+montelukast,fainting,0,0
+montelukast,oedema,498,1
+montelukast,swelling,658,1
+montelukast,rash,2822,2
+montelukast,urticaria,2206,2
+montelukast,hives,0,0
+montelukast,pruritus,2832,2
+montelukast,itching,0,0
+montelukast,vomiting,2609,2
+montelukast,nausea,4229,2
+montelukast,diarrhoea,3373,2
+montelukast,abdominal pain,1168,1
+montelukast,headache,4786,2
+montelukast,migraine,756,1
+montelukast,tremor,1185,1
+montelukast,insomnia,2373,2
+montelukast,anxiety,3529,2
+montelukast,depression,2420,2
+montelukast,fatigue,5490,2
+montelukast,asthenia,2061,2
+montelukast,weakness,0,0
+montelukast,pyrexia,2447,2
+montelukast,fever,0,0
+montelukast,arthralgia,2441,2
+montelukast,joint pain,0,0
+montelukast,myalgia,962,1
+montelukast,muscle pain,0,0
+montelukast,back pain,1511,1
+montelukast,cough,4493,2
+singulair,myocardial infarction,728,1
+singulair,heart attack,0,0
+singulair,cardiac arrest,274,0
+singulair,stroke,0,0
+singulair,cerebrovascular accident,729,1
+singulair,anaphylactic reaction,946,1
+singulair,anaphylaxis,0,0
+singulair,angioedema,393,1
+singulair,stevens-johnson syndrome,0,0
+singulair,renal failure,1009,1
+singulair,kidney failure,0,0
+singulair,hepatic failure,0,0
+singulair,liver failure,0,0
+singulair,respiratory failure,495,1
+singulair,pulmonary embolism,926,1
+singulair,deep vein thrombosis,630,1
+singulair,gastrointestinal haemorrhage,378,1
+singulair,internal bleeding,0,0
+singulair,seizure,477,1
+singulair,convulsion,475,1
+singulair,suicidal ideation,1891,1
+singulair,rhabdomyolysis,86,0
+singulair,pancreatitis,337,1
+singulair,sepsis,556,1
+singulair,chest pain,2340,2
+singulair,dyspnoea,11919,2
+singulair,shortness of breath,0,0
+singulair,dizziness,3793,2
+singulair,vertigo,463,1
+singulair,palpitations,1107,1
+singulair,tachycardia,629,1
+singulair,bradycardia,181,0
+singulair,hypertension,2309,2
+singulair,hypotension,992,1
+singulair,syncope,636,1
+singulair,fainting,0,0
+singulair,oedema,919,1
+singulair,swelling,858,1
+singulair,rash,2997,2
+singulair,urticaria,2642,2
+singulair,hives,0,0
+singulair,pruritus,3389,2
+singulair,itching,0,0
+singulair,vomiting,3546,2
+singulair,nausea,5263,2
+singulair,diarrhoea,3567,2
+singulair,abdominal pain,1750,1
+singulair,headache,6283,2
+singulair,migraine,1275,1
+singulair,tremor,1569,1
+singulair,insomnia,3066,2
+singulair,anxiety,3744,2
+singulair,depression,3327,2
+singulair,fatigue,6762,2
+singulair,asthenia,2675,2
+singulair,weakness,0,0
+singulair,pyrexia,3287,2
+singulair,fever,0,0
+singulair,arthralgia,3338,2
+singulair,joint pain,0,0
+singulair,myalgia,1472,1
+singulair,muscle pain,0,0
+singulair,back pain,2492,2
+singulair,cough,7062,2
+prednisone,myocardial infarction,4006,2
+prednisone,heart attack,0,0
+prednisone,cardiac arrest,2125,2
+prednisone,stroke,0,0
+prednisone,cerebrovascular accident,3640,2
+prednisone,anaphylactic reaction,2320,2
+prednisone,anaphylaxis,0,0
+prednisone,angioedema,1192,1
+prednisone,stevens-johnson syndrome,435,1
+prednisone,renal failure,6683,2
+prednisone,kidney failure,0,0
+prednisone,hepatic failure,1008,1
+prednisone,liver failure,0,0
+prednisone,respiratory failure,5347,2
+prednisone,pulmonary embolism,4839,2
+prednisone,deep vein thrombosis,3547,2
+prednisone,gastrointestinal haemorrhage,2757,2
+prednisone,internal bleeding,0,0
+prednisone,seizure,2102,2
+prednisone,convulsion,1012,1
+prednisone,suicidal ideation,1254,1
+prednisone,rhabdomyolysis,784,1
+prednisone,pancreatitis,2134,2
+prednisone,sepsis,7258,2
+prednisone,chest pain,9231,2
+prednisone,dyspnoea,34791,2
+prednisone,shortness of breath,0,0
+prednisone,dizziness,16057,2
+prednisone,vertigo,1758,1
+prednisone,palpitations,3516,2
+prednisone,tachycardia,3276,2
+prednisone,bradycardia,889,1
+prednisone,hypertension,13957,2
+prednisone,hypotension,7580,2
+prednisone,syncope,3021,2
+prednisone,fainting,0,0
+prednisone,oedema,4602,2
+prednisone,swelling,12672,2
+prednisone,rash,22639,2
+prednisone,urticaria,9705,2
+prednisone,hives,0,0
+prednisone,pruritus,14762,2
+prednisone,itching,0,0
+prednisone,vomiting,18935,2
+prednisone,nausea,28634,2
+prednisone,diarrhoea,28090,2
+prednisone,abdominal pain,13523,2
+prednisone,headache,26346,2
+prednisone,migraine,4824,2
+prednisone,tremor,4665,2
+prednisone,insomnia,11129,2
+prednisone,anxiety,9821,2
+prednisone,depression,8306,2
+prednisone,fatigue,40480,2
+prednisone,asthenia,18363,2
+prednisone,weakness,0,0
+prednisone,pyrexia,22059,2
+prednisone,fever,0,0
+prednisone,arthralgia,33082,2
+prednisone,joint pain,0,0
+prednisone,myalgia,5786,2
+prednisone,muscle pain,0,0
+prednisone,back pain,11337,2
+prednisone,cough,18944,2
+deltasone,myocardial infarction,29,0
+deltasone,heart attack,0,0
+deltasone,cardiac arrest,25,0
+deltasone,stroke,0,0
+deltasone,cerebrovascular accident,32,0
+deltasone,anaphylactic reaction,59,0
+deltasone,anaphylaxis,0,0
+deltasone,angioedema,13,0
+deltasone,stevens-johnson syndrome,0,0
+deltasone,renal failure,95,0
+deltasone,kidney failure,0,0
+deltasone,hepatic failure,12,0
+deltasone,liver failure,0,0
+deltasone,respiratory failure,72,0
+deltasone,pulmonary embolism,44,0
+deltasone,deep vein thrombosis,40,0
+deltasone,gastrointestinal haemorrhage,70,0
+deltasone,internal bleeding,0,0
+deltasone,seizure,27,0
+deltasone,convulsion,11,0
+deltasone,suicidal ideation,10,0
+deltasone,rhabdomyolysis,0,0
+deltasone,pancreatitis,10,0
+deltasone,sepsis,88,0
+deltasone,chest pain,109,0
+deltasone,dyspnoea,295,0
+deltasone,shortness of breath,0,0
+deltasone,dizziness,133,0
+deltasone,vertigo,14,0
+deltasone,palpitations,42,0
+deltasone,tachycardia,56,0
+deltasone,bradycardia,18,0
+deltasone,hypertension,105,0
+deltasone,hypotension,96,0
+deltasone,syncope,45,0
+deltasone,fainting,0,0
+deltasone,oedema,75,0
+deltasone,swelling,37,0
+deltasone,rash,117,0
+deltasone,urticaria,30,0
+deltasone,hives,0,0
+deltasone,pruritus,105,0
+deltasone,itching,0,0
+deltasone,vomiting,175,0
+deltasone,nausea,251,0
+deltasone,diarrhoea,277,0
+deltasone,abdominal pain,138,0
+deltasone,headache,188,0
+deltasone,migraine,18,0
+deltasone,tremor,46,0
+deltasone,insomnia,67,0
+deltasone,anxiety,134,0
+deltasone,depression,63,0
+deltasone,fatigue,281,0
+deltasone,asthenia,196,0
+deltasone,weakness,0,0
+deltasone,pyrexia,148,0
+deltasone,fever,0,0
+deltasone,arthralgia,179,0
+deltasone,joint pain,0,0
+deltasone,myalgia,96,0
+deltasone,muscle pain,0,0
+deltasone,back pain,143,0
+deltasone,cough,143,0
+omeprazole,myocardial infarction,3169,2
+omeprazole,heart attack,0,0
+omeprazole,cardiac arrest,1819,1
+omeprazole,stroke,0,0
+omeprazole,cerebrovascular accident,3139,2
+omeprazole,anaphylactic reaction,1160,1
+omeprazole,anaphylaxis,0,0
+omeprazole,angioedema,1430,1
+omeprazole,stevens-johnson syndrome,573,1
+omeprazole,renal failure,7899,2
+omeprazole,kidney failure,0,0
+omeprazole,hepatic failure,821,1
+omeprazole,liver failure,0,0
+omeprazole,respiratory failure,2182,2
+omeprazole,pulmonary embolism,2788,2
+omeprazole,deep vein thrombosis,1938,1
+omeprazole,gastrointestinal haemorrhage,3110,2
+omeprazole,internal bleeding,0,0
+omeprazole,seizure,2447,2
+omeprazole,convulsion,977,1
+omeprazole,suicidal ideation,1737,1
+omeprazole,rhabdomyolysis,1473,1
+omeprazole,pancreatitis,1400,1
+omeprazole,sepsis,3642,2
+omeprazole,chest pain,6080,2
+omeprazole,dyspnoea,16963,2
+omeprazole,shortness of breath,0,0
+omeprazole,dizziness,13651,2
+omeprazole,vertigo,1721,1
+omeprazole,palpitations,3348,2
+omeprazole,tachycardia,2663,2
+omeprazole,bradycardia,1507,1
+omeprazole,hypertension,5785,2
+omeprazole,hypotension,6279,2
+omeprazole,syncope,3191,2
+omeprazole,fainting,0,0
+omeprazole,oedema,1447,1
+omeprazole,swelling,2183,2
+omeprazole,rash,8542,2
+omeprazole,urticaria,2804,2
+omeprazole,hives,0,0
+omeprazole,pruritus,8242,2
+omeprazole,itching,0,0
+omeprazole,vomiting,13768,2
+omeprazole,nausea,20703,2
+omeprazole,diarrhoea,20490,2
+omeprazole,abdominal pain,7674,2
+omeprazole,headache,15145,2
+omeprazole,migraine,2418,2
+omeprazole,tremor,4501,2
+omeprazole,insomnia,6915,2
+omeprazole,anxiety,7143,2
+omeprazole,depression,6093,2
+omeprazole,fatigue,20493,2
+omeprazole,asthenia,11131,2
+omeprazole,weakness,0,0
+omeprazole,pyrexia,9313,2
+omeprazole,fever,0,0
+omeprazole,arthralgia,10954,2
+omeprazole,joint pain,0,0
+omeprazole,myalgia,4714,2
+omeprazole,muscle pain,0,0
+omeprazole,back pain,7233,2
+omeprazole,cough,8263,2
+prilosec,myocardial infarction,1348,1
+prilosec,heart attack,0,0
+prilosec,cardiac arrest,459,1
+prilosec,stroke,0,0
+prilosec,cerebrovascular accident,1180,1
+prilosec,anaphylactic reaction,209,0
+prilosec,anaphylaxis,0,0
+prilosec,angioedema,112,0
+prilosec,stevens-johnson syndrome,0,0
+prilosec,renal failure,13387,2
+prilosec,kidney failure,0,0
+prilosec,hepatic failure,147,0
+prilosec,liver failure,0,0
+prilosec,respiratory failure,562,1
+prilosec,pulmonary embolism,867,1
+prilosec,deep vein thrombosis,796,1
+prilosec,gastrointestinal haemorrhage,883,1
+prilosec,internal bleeding,0,0
+prilosec,seizure,354,1
+prilosec,convulsion,449,1
+prilosec,suicidal ideation,492,1
+prilosec,rhabdomyolysis,137,0
+prilosec,pancreatitis,515,1
+prilosec,sepsis,804,1
+prilosec,chest pain,2454,2
+prilosec,dyspnoea,4293,2
+prilosec,shortness of breath,0,0
+prilosec,dizziness,3682,2
+prilosec,vertigo,398,1
+prilosec,palpitations,921,1
+prilosec,tachycardia,480,1
+prilosec,bradycardia,259,0
+prilosec,hypertension,2245,2
+prilosec,hypotension,1262,1
+prilosec,syncope,708,1
+prilosec,fainting,0,0
+prilosec,oedema,456,1
+prilosec,swelling,564,1
+prilosec,rash,2036,2
+prilosec,urticaria,783,1
+prilosec,hives,0,0
+prilosec,pruritus,1888,1
+prilosec,itching,0,0
+prilosec,vomiting,3760,2
+prilosec,nausea,6654,2
+prilosec,diarrhoea,5330,2
+prilosec,abdominal pain,2137,2
+prilosec,headache,4256,2
+prilosec,migraine,708,1
+prilosec,tremor,1176,1
+prilosec,insomnia,2272,2
+prilosec,anxiety,2922,2
+prilosec,depression,2741,2
+prilosec,fatigue,5765,2
+prilosec,asthenia,3220,2
+prilosec,weakness,0,0
+prilosec,pyrexia,1935,1
+prilosec,fever,0,0
+prilosec,arthralgia,2786,2
+prilosec,joint pain,0,0
+prilosec,myalgia,1247,1
+prilosec,muscle pain,0,0
+prilosec,back pain,2453,2
+prilosec,cough,2189,2
+pantoprazole,myocardial infarction,2408,2
+pantoprazole,heart attack,0,0
+pantoprazole,cardiac arrest,1306,1
+pantoprazole,stroke,0,0
+pantoprazole,cerebrovascular accident,2316,2
+pantoprazole,anaphylactic reaction,766,1
+pantoprazole,anaphylaxis,0,0
+pantoprazole,angioedema,963,1
+pantoprazole,stevens-johnson syndrome,400,1
+pantoprazole,renal failure,6071,2
+pantoprazole,kidney failure,0,0
+pantoprazole,hepatic failure,682,1
+pantoprazole,liver failure,0,0
+pantoprazole,respiratory failure,1916,1
+pantoprazole,pulmonary embolism,2378,2
+pantoprazole,deep vein thrombosis,1299,1
+pantoprazole,gastrointestinal haemorrhage,2538,2
+pantoprazole,internal bleeding,0,0
+pantoprazole,seizure,1556,1
+pantoprazole,convulsion,378,1
+pantoprazole,suicidal ideation,911,1
+pantoprazole,rhabdomyolysis,1166,1
+pantoprazole,pancreatitis,1413,1
+pantoprazole,sepsis,3136,2
+pantoprazole,chest pain,5746,2
+pantoprazole,dyspnoea,17701,2
+pantoprazole,shortness of breath,0,0
+pantoprazole,dizziness,10972,2
+pantoprazole,vertigo,1321,1
+pantoprazole,palpitations,2125,2
+pantoprazole,tachycardia,2308,2
+pantoprazole,bradycardia,1662,1
+pantoprazole,hypertension,7592,2
+pantoprazole,hypotension,5940,2
+pantoprazole,syncope,2665,2
+pantoprazole,fainting,0,0
+pantoprazole,oedema,2582,2
+pantoprazole,swelling,5658,2
+pantoprazole,rash,10700,2
+pantoprazole,urticaria,4518,2
+pantoprazole,hives,0,0
+pantoprazole,pruritus,9013,2
+pantoprazole,itching,0,0
+pantoprazole,vomiting,12735,2
+pantoprazole,nausea,17864,2
+pantoprazole,diarrhoea,17320,2
+pantoprazole,abdominal pain,8045,2
+pantoprazole,headache,13357,2
+pantoprazole,migraine,2575,2
+pantoprazole,tremor,2937,2
+pantoprazole,insomnia,5725,2
+pantoprazole,anxiety,5552,2
+pantoprazole,depression,4549,2
+pantoprazole,fatigue,20818,2
+pantoprazole,asthenia,11355,2
+pantoprazole,weakness,0,0
+pantoprazole,pyrexia,11775,2
+pantoprazole,fever,0,0
+pantoprazole,arthralgia,12575,2
+pantoprazole,joint pain,0,0
+pantoprazole,myalgia,3077,2
+pantoprazole,muscle pain,0,0
+pantoprazole,back pain,6080,2
+pantoprazole,cough,7683,2
+protonix,myocardial infarction,1256,1
+protonix,heart attack,0,0
+protonix,cardiac arrest,478,1
+protonix,stroke,0,0
+protonix,cerebrovascular accident,1076,1
+protonix,anaphylactic reaction,183,0
+protonix,anaphylaxis,0,0
+protonix,angioedema,78,0
+protonix,stevens-johnson syndrome,74,0
+protonix,renal failure,10342,2
+protonix,kidney failure,0,0
+protonix,hepatic failure,164,0
+protonix,liver failure,0,0
+protonix,respiratory failure,717,1
+protonix,pulmonary embolism,935,1
+protonix,deep vein thrombosis,788,1
+protonix,gastrointestinal haemorrhage,1435,1
+protonix,internal bleeding,0,0
+protonix,seizure,385,1
+protonix,convulsion,459,1
+protonix,suicidal ideation,364,1
+protonix,rhabdomyolysis,138,0
+protonix,pancreatitis,556,1
+protonix,sepsis,1010,1
+protonix,chest pain,1973,1
+protonix,dyspnoea,3711,2
+protonix,shortness of breath,0,0
+protonix,dizziness,2845,2
+protonix,vertigo,302,1
+protonix,palpitations,732,1
+protonix,tachycardia,539,1
+protonix,bradycardia,298,0
+protonix,hypertension,1664,1
+protonix,hypotension,1582,1
+protonix,syncope,740,1
+protonix,fainting,0,0
+protonix,oedema,455,1
+protonix,swelling,469,1
+protonix,rash,1568,1
+protonix,urticaria,528,1
+protonix,hives,0,0
+protonix,pruritus,1354,1
+protonix,itching,0,0
+protonix,vomiting,3120,2
+protonix,nausea,5363,2
+protonix,diarrhoea,4035,2
+protonix,abdominal pain,1949,1
+protonix,headache,3287,2
+protonix,migraine,563,1
+protonix,tremor,989,1
+protonix,insomnia,1550,1
+protonix,anxiety,2389,2
+protonix,depression,2059,2
+protonix,fatigue,4419,2
+protonix,asthenia,2890,2
+protonix,weakness,0,0
+protonix,pyrexia,1782,1
+protonix,fever,0,0
+protonix,arthralgia,2184,2
+protonix,joint pain,0,0
+protonix,myalgia,935,1
+protonix,muscle pain,0,0
+protonix,back pain,1870,1
+protonix,cough,1730,1
+famotidine,myocardial infarction,479,1
+famotidine,heart attack,0,0
+famotidine,cardiac arrest,493,1
+famotidine,stroke,0,0
+famotidine,cerebrovascular accident,552,1
+famotidine,anaphylactic reaction,682,1
+famotidine,anaphylaxis,0,0
+famotidine,angioedema,275,0
+famotidine,stevens-johnson syndrome,180,0
+famotidine,renal failure,2207,2
+famotidine,kidney failure,0,0
+famotidine,hepatic failure,181,0
+famotidine,liver failure,0,0
+famotidine,respiratory failure,711,1
+famotidine,pulmonary embolism,437,1
+famotidine,deep vein thrombosis,324,1
+famotidine,gastrointestinal haemorrhage,514,1
+famotidine,internal bleeding,0,0
+famotidine,seizure,592,1
+famotidine,convulsion,201,0
+famotidine,suicidal ideation,230,0
+famotidine,rhabdomyolysis,235,0
+famotidine,pancreatitis,239,0
+famotidine,sepsis,941,1
+famotidine,chest pain,1102,1
+famotidine,dyspnoea,3270,2
+famotidine,shortness of breath,0,0
+famotidine,dizziness,2526,2
+famotidine,vertigo,249,0
+famotidine,palpitations,561,1
+famotidine,tachycardia,571,1
+famotidine,bradycardia,318,1
+famotidine,hypertension,1196,1
+famotidine,hypotension,1266,1
+famotidine,syncope,470,1
+famotidine,fainting,0,0
+famotidine,oedema,341,1
+famotidine,swelling,495,1
+famotidine,rash,2011,2
+famotidine,urticaria,1033,1
+famotidine,hives,0,0
+famotidine,pruritus,1819,1
+famotidine,itching,0,0
+famotidine,vomiting,2772,2
+famotidine,nausea,4462,2
+famotidine,diarrhoea,4094,2
+famotidine,abdominal pain,1321,1
+famotidine,headache,2961,2
+famotidine,migraine,474,1
+famotidine,tremor,863,1
+famotidine,insomnia,1202,1
+famotidine,anxiety,1495,1
+famotidine,depression,1192,1
+famotidine,fatigue,4186,2
+famotidine,asthenia,2038,2
+famotidine,weakness,0,0
+famotidine,pyrexia,2476,2
+famotidine,fever,0,0
+famotidine,arthralgia,1964,1
+famotidine,joint pain,0,0
+famotidine,myalgia,740,1
+famotidine,muscle pain,0,0
+famotidine,back pain,1441,1
+famotidine,cough,1779,1
+pepcid,myocardial infarction,460,1
+pepcid,heart attack,0,0
+pepcid,cardiac arrest,200,0
+pepcid,stroke,0,0
+pepcid,cerebrovascular accident,442,1
+pepcid,anaphylactic reaction,302,1
+pepcid,anaphylaxis,0,0
+pepcid,angioedema,123,0
+pepcid,stevens-johnson syndrome,61,0
+pepcid,renal failure,2594,2
+pepcid,kidney failure,0,0
+pepcid,hepatic failure,67,0
+pepcid,liver failure,0,0
+pepcid,respiratory failure,327,1
+pepcid,pulmonary embolism,377,1
+pepcid,deep vein thrombosis,315,1
+pepcid,gastrointestinal haemorrhage,310,1
+pepcid,internal bleeding,0,0
+pepcid,seizure,216,0
+pepcid,convulsion,200,0
+pepcid,suicidal ideation,156,0
+pepcid,rhabdomyolysis,142,0
+pepcid,pancreatitis,190,0
+pepcid,sepsis,522,1
+pepcid,chest pain,915,1
+pepcid,dyspnoea,1981,1
+pepcid,shortness of breath,0,0
+pepcid,dizziness,1681,1
+pepcid,vertigo,154,0
+pepcid,palpitations,437,1
+pepcid,tachycardia,331,1
+pepcid,bradycardia,123,0
+pepcid,hypertension,771,1
+pepcid,hypotension,730,1
+pepcid,syncope,324,1
+pepcid,fainting,0,0
+pepcid,oedema,210,0
+pepcid,swelling,329,1
+pepcid,rash,1195,1
+pepcid,urticaria,685,1
+pepcid,hives,0,0
+pepcid,pruritus,1086,1
+pepcid,itching,0,0
+pepcid,vomiting,1667,1
+pepcid,nausea,2834,2
+pepcid,diarrhoea,2280,2
+pepcid,abdominal pain,941,1
+pepcid,headache,1943,1
+pepcid,migraine,324,1
+pepcid,tremor,510,1
+pepcid,insomnia,809,1
+pepcid,anxiety,1269,1
+pepcid,depression,959,1
+pepcid,fatigue,2687,2
+pepcid,asthenia,1358,1
+pepcid,weakness,0,0
+pepcid,pyrexia,1015,1
+pepcid,fever,0,0
+pepcid,arthralgia,1183,1
+pepcid,joint pain,0,0
+pepcid,myalgia,521,1
+pepcid,muscle pain,0,0
+pepcid,back pain,960,1
+pepcid,cough,1002,1
+amoxicillin,myocardial infarction,559,1
+amoxicillin,heart attack,0,0
+amoxicillin,cardiac arrest,592,1
+amoxicillin,stroke,0,0
+amoxicillin,cerebrovascular accident,607,1
+amoxicillin,anaphylactic reaction,1657,1
+amoxicillin,anaphylaxis,0,0
+amoxicillin,angioedema,1500,1
+amoxicillin,stevens-johnson syndrome,693,1
+amoxicillin,renal failure,3546,2
+amoxicillin,kidney failure,0,0
+amoxicillin,hepatic failure,394,1
+amoxicillin,liver failure,0,0
+amoxicillin,respiratory failure,785,1
+amoxicillin,pulmonary embolism,1130,1
+amoxicillin,deep vein thrombosis,649,1
+amoxicillin,gastrointestinal haemorrhage,511,1
+amoxicillin,internal bleeding,0,0
+amoxicillin,seizure,718,1
+amoxicillin,convulsion,286,0
+amoxicillin,suicidal ideation,434,1
+amoxicillin,rhabdomyolysis,445,1
+amoxicillin,pancreatitis,348,1
+amoxicillin,sepsis,1201,1
+amoxicillin,chest pain,1585,1
+amoxicillin,dyspnoea,5671,2
+amoxicillin,shortness of breath,0,0
+amoxicillin,dizziness,2964,2
+amoxicillin,vertigo,441,1
+amoxicillin,palpitations,868,1
+amoxicillin,tachycardia,884,1
+amoxicillin,bradycardia,353,1
+amoxicillin,hypertension,1390,1
+amoxicillin,hypotension,1883,1
+amoxicillin,syncope,727,1
+amoxicillin,fainting,0,0
+amoxicillin,oedema,609,1
+amoxicillin,swelling,738,1
+amoxicillin,rash,5058,2
+amoxicillin,urticaria,2912,2
+amoxicillin,hives,0,0
+amoxicillin,pruritus,4275,2
+amoxicillin,itching,0,0
+amoxicillin,vomiting,4492,2
+amoxicillin,nausea,5455,2
+amoxicillin,diarrhoea,6527,2
+amoxicillin,abdominal pain,2721,2
+amoxicillin,headache,3986,2
+amoxicillin,migraine,474,1
+amoxicillin,tremor,1144,1
+amoxicillin,insomnia,1861,1
+amoxicillin,anxiety,2926,2
+amoxicillin,depression,1783,1
+amoxicillin,fatigue,4726,2
+amoxicillin,asthenia,2714,2
+amoxicillin,weakness,0,0
+amoxicillin,pyrexia,4653,2
+amoxicillin,fever,0,0
+amoxicillin,arthralgia,2442,2
+amoxicillin,joint pain,0,0
+amoxicillin,myalgia,1226,1
+amoxicillin,muscle pain,0,0
+amoxicillin,back pain,1813,1
+amoxicillin,cough,2666,2
+augmentin,myocardial infarction,242,0
+augmentin,heart attack,0,0
+augmentin,cardiac arrest,253,0
+augmentin,stroke,0,0
+augmentin,cerebrovascular accident,178,0
+augmentin,anaphylactic reaction,257,0
+augmentin,anaphylaxis,0,0
+augmentin,angioedema,194,0
+augmentin,stevens-johnson syndrome,175,0
+augmentin,renal failure,666,1
+augmentin,kidney failure,0,0
+augmentin,hepatic failure,144,0
+augmentin,liver failure,0,0
+augmentin,respiratory failure,273,0
+augmentin,pulmonary embolism,374,1
+augmentin,deep vein thrombosis,308,1
+augmentin,gastrointestinal haemorrhage,184,0
+augmentin,internal bleeding,0,0
+augmentin,seizure,155,0
+augmentin,convulsion,140,0
+augmentin,suicidal ideation,90,0
+augmentin,rhabdomyolysis,89,0
+augmentin,pancreatitis,122,0
+augmentin,sepsis,473,1
+augmentin,chest pain,428,1
+augmentin,dyspnoea,1474,1
+augmentin,shortness of breath,0,0
+augmentin,dizziness,702,1
+augmentin,vertigo,130,0
+augmentin,palpitations,223,0
+augmentin,tachycardia,367,1
+augmentin,bradycardia,135,0
+augmentin,hypertension,411,1
+augmentin,hypotension,774,1
+augmentin,syncope,236,0
+augmentin,fainting,0,0
+augmentin,oedema,249,0
+augmentin,swelling,221,0
+augmentin,rash,1185,1
+augmentin,urticaria,646,1
+augmentin,hives,0,0
+augmentin,pruritus,1102,1
+augmentin,itching,0,0
+augmentin,vomiting,1403,1
+augmentin,nausea,1547,1
+augmentin,diarrhoea,2051,2
+augmentin,abdominal pain,722,1
+augmentin,headache,919,1
+augmentin,migraine,155,0
+augmentin,tremor,247,0
+augmentin,insomnia,380,1
+augmentin,anxiety,653,1
+augmentin,depression,412,1
+augmentin,fatigue,1247,1
+augmentin,asthenia,920,1
+augmentin,weakness,0,0
+augmentin,pyrexia,1718,1
+augmentin,fever,0,0
+augmentin,arthralgia,585,1
+augmentin,joint pain,0,0
+augmentin,myalgia,303,1
+augmentin,muscle pain,0,0
+augmentin,back pain,488,1
+augmentin,cough,735,1
+azithromycin,myocardial infarction,361,1
+azithromycin,heart attack,0,0
+azithromycin,cardiac arrest,648,1
+azithromycin,stroke,0,0
+azithromycin,cerebrovascular accident,381,1
+azithromycin,anaphylactic reaction,308,1
+azithromycin,anaphylaxis,0,0
+azithromycin,angioedema,340,1
+azithromycin,stevens-johnson syndrome,308,1
+azithromycin,renal failure,3296,2
+azithromycin,kidney failure,0,0
+azithromycin,hepatic failure,185,0
+azithromycin,liver failure,0,0
+azithromycin,respiratory failure,1035,1
+azithromycin,pulmonary embolism,913,1
+azithromycin,deep vein thrombosis,543,1
+azithromycin,gastrointestinal haemorrhage,265,0
+azithromycin,internal bleeding,0,0
+azithromycin,seizure,250,0
+azithromycin,convulsion,109,0
+azithromycin,suicidal ideation,202,0
+azithromycin,rhabdomyolysis,282,0
+azithromycin,pancreatitis,172,0
+azithromycin,sepsis,709,1
+azithromycin,chest pain,1132,1
+azithromycin,dyspnoea,4977,2
+azithromycin,shortness of breath,0,0
+azithromycin,dizziness,1780,1
+azithromycin,vertigo,254,0
+azithromycin,palpitations,549,1
+azithromycin,tachycardia,543,1
+azithromycin,bradycardia,327,1
+azithromycin,hypertension,1024,1
+azithromycin,hypotension,955,1
+azithromycin,syncope,397,1
+azithromycin,fainting,0,0
+azithromycin,oedema,229,0
+azithromycin,swelling,380,1
+azithromycin,rash,2008,2
+azithromycin,urticaria,1029,1
+azithromycin,hives,0,0
+azithromycin,pruritus,1388,1
+azithromycin,itching,0,0
+azithromycin,vomiting,2300,2
+azithromycin,nausea,3748,2
+azithromycin,diarrhoea,3305,2
+azithromycin,abdominal pain,1653,1
+azithromycin,headache,2671,2
+azithromycin,migraine,350,1
+azithromycin,tremor,696,1
+azithromycin,insomnia,1047,1
+azithromycin,anxiety,2199,2
+azithromycin,depression,1158,1
+azithromycin,fatigue,3041,2
+azithromycin,asthenia,1638,1
+azithromycin,weakness,0,0
+azithromycin,pyrexia,2565,2
+azithromycin,fever,0,0
+azithromycin,arthralgia,1324,1
+azithromycin,joint pain,0,0
+azithromycin,myalgia,555,1
+azithromycin,muscle pain,0,0
+azithromycin,back pain,983,1
+azithromycin,cough,3349,2
+zithromax,myocardial infarction,259,0
+zithromax,heart attack,0,0
+zithromax,cardiac arrest,134,0
+zithromax,stroke,0,0
+zithromax,cerebrovascular accident,222,0
+zithromax,anaphylactic reaction,90,0
+zithromax,anaphylaxis,0,0
+zithromax,angioedema,33,0
+zithromax,stevens-johnson syndrome,128,0
+zithromax,renal failure,576,1
+zithromax,kidney failure,0,0
+zithromax,hepatic failure,74,0
+zithromax,liver failure,0,0
+zithromax,respiratory failure,190,0
+zithromax,pulmonary embolism,392,1
+zithromax,deep vein thrombosis,286,0
+zithromax,gastrointestinal haemorrhage,88,0
+zithromax,internal bleeding,0,0
+zithromax,seizure,70,0
+zithromax,convulsion,147,0
+zithromax,suicidal ideation,109,0
+zithromax,rhabdomyolysis,91,0
+zithromax,pancreatitis,73,0
+zithromax,sepsis,166,0
+zithromax,chest pain,539,1
+zithromax,dyspnoea,1298,1
+zithromax,shortness of breath,0,0
+zithromax,dizziness,636,1
+zithromax,vertigo,92,0
+zithromax,palpitations,277,0
+zithromax,tachycardia,200,0
+zithromax,bradycardia,108,0
+zithromax,hypertension,406,1
+zithromax,hypotension,253,0
+zithromax,syncope,182,0
+zithromax,fainting,0,0
+zithromax,oedema,118,0
+zithromax,swelling,134,0
+zithromax,rash,695,1
+zithromax,urticaria,373,1
+zithromax,hives,0,0
+zithromax,pruritus,420,1
+zithromax,itching,0,0
+zithromax,vomiting,813,1
+zithromax,nausea,1026,1
+zithromax,diarrhoea,979,1
+zithromax,abdominal pain,485,1
+zithromax,headache,781,1
+zithromax,migraine,143,0
+zithromax,tremor,273,0
+zithromax,insomnia,410,1
+zithromax,anxiety,812,1
+zithromax,depression,509,1
+zithromax,fatigue,961,1
+zithromax,asthenia,615,1
+zithromax,weakness,0,0
+zithromax,pyrexia,707,1
+zithromax,fever,0,0
+zithromax,arthralgia,473,1
+zithromax,joint pain,0,0
+zithromax,myalgia,229,0
+zithromax,muscle pain,0,0
+zithromax,back pain,419,1
+zithromax,cough,853,1
+ciprofloxacin,myocardial infarction,496,1
+ciprofloxacin,heart attack,0,0
+ciprofloxacin,cardiac arrest,514,1
+ciprofloxacin,stroke,0,0
+ciprofloxacin,cerebrovascular accident,380,1
+ciprofloxacin,anaphylactic reaction,476,1
+ciprofloxacin,anaphylaxis,0,0
+ciprofloxacin,angioedema,416,1
+ciprofloxacin,stevens-johnson syndrome,535,1
+ciprofloxacin,renal failure,3113,2
+ciprofloxacin,kidney failure,0,0
+ciprofloxacin,hepatic failure,349,1
+ciprofloxacin,liver failure,0,0
+ciprofloxacin,respiratory failure,760,1
+ciprofloxacin,pulmonary embolism,702,1
+ciprofloxacin,deep vein thrombosis,536,1
+ciprofloxacin,gastrointestinal haemorrhage,456,1
+ciprofloxacin,internal bleeding,0,0
+ciprofloxacin,seizure,570,1
+ciprofloxacin,convulsion,332,1
+ciprofloxacin,suicidal ideation,732,1
+ciprofloxacin,rhabdomyolysis,571,1
+ciprofloxacin,pancreatitis,257,0
+ciprofloxacin,sepsis,1469,1
+ciprofloxacin,chest pain,1560,1
+ciprofloxacin,dyspnoea,3998,2
+ciprofloxacin,shortness of breath,0,0
+ciprofloxacin,dizziness,3159,2
+ciprofloxacin,vertigo,442,1
+ciprofloxacin,palpitations,1323,1
+ciprofloxacin,tachycardia,939,1
+ciprofloxacin,bradycardia,353,1
+ciprofloxacin,hypertension,1373,1
+ciprofloxacin,hypotension,1411,1
+ciprofloxacin,syncope,755,1
+ciprofloxacin,fainting,0,0
+ciprofloxacin,oedema,1067,1
+ciprofloxacin,swelling,720,1
+ciprofloxacin,rash,2976,2
+ciprofloxacin,urticaria,1230,1
+ciprofloxacin,hives,0,0
+ciprofloxacin,pruritus,2119,2
+ciprofloxacin,itching,0,0
+ciprofloxacin,vomiting,3807,2
+ciprofloxacin,nausea,4985,2
+ciprofloxacin,diarrhoea,5019,2
+ciprofloxacin,abdominal pain,2660,2
+ciprofloxacin,headache,3554,2
+ciprofloxacin,migraine,642,1
+ciprofloxacin,tremor,1365,1
+ciprofloxacin,insomnia,2257,2
+ciprofloxacin,anxiety,3669,2
+ciprofloxacin,depression,2443,2
+ciprofloxacin,fatigue,5229,2
+ciprofloxacin,asthenia,3016,2
+ciprofloxacin,weakness,0,0
+ciprofloxacin,pyrexia,3888,2
+ciprofloxacin,fever,0,0
+ciprofloxacin,arthralgia,5009,2
+ciprofloxacin,joint pain,0,0
+ciprofloxacin,myalgia,2730,2
+ciprofloxacin,muscle pain,0,0
+ciprofloxacin,back pain,1983,1
+ciprofloxacin,cough,1957,1
+cipro,myocardial infarction,222,0
+cipro,heart attack,0,0
+cipro,cardiac arrest,85,0
+cipro,stroke,0,0
+cipro,cerebrovascular accident,205,0
+cipro,anaphylactic reaction,93,0
+cipro,anaphylaxis,0,0
+cipro,angioedema,60,0
+cipro,stevens-johnson syndrome,70,0
+cipro,renal failure,547,1
+cipro,kidney failure,0,0
+cipro,hepatic failure,53,0
+cipro,liver failure,0,0
+cipro,respiratory failure,154,0
+cipro,pulmonary embolism,165,0
+cipro,deep vein thrombosis,198,0
+cipro,gastrointestinal haemorrhage,146,0
+cipro,internal bleeding,0,0
+cipro,seizure,116,0
+cipro,convulsion,108,0
+cipro,suicidal ideation,144,0
+cipro,rhabdomyolysis,27,0
+cipro,pancreatitis,79,0
+cipro,sepsis,284,0
+cipro,chest pain,446,1
+cipro,dyspnoea,1042,1
+cipro,shortness of breath,0,0
+cipro,dizziness,930,1
+cipro,vertigo,93,0
+cipro,palpitations,296,0
+cipro,tachycardia,158,0
+cipro,bradycardia,60,0
+cipro,hypertension,467,1
+cipro,hypotension,345,1
+cipro,syncope,169,0
+cipro,fainting,0,0
+cipro,oedema,118,0
+cipro,swelling,193,0
+cipro,rash,851,1
+cipro,urticaria,360,1
+cipro,hives,0,0
+cipro,pruritus,546,1
+cipro,itching,0,0
+cipro,vomiting,840,1
+cipro,nausea,1498,1
+cipro,diarrhoea,1454,1
+cipro,abdominal pain,771,1
+cipro,headache,1021,1
+cipro,migraine,196,0
+cipro,tremor,334,1
+cipro,insomnia,619,1
+cipro,anxiety,968,1
+cipro,depression,635,1
+cipro,fatigue,1413,1
+cipro,asthenia,964,1
+cipro,weakness,0,0
+cipro,pyrexia,818,1
+cipro,fever,0,0
+cipro,arthralgia,1451,1
+cipro,joint pain,0,0
+cipro,myalgia,518,1
+cipro,muscle pain,0,0
+cipro,back pain,640,1
+cipro,cough,562,1
+cephalexin,myocardial infarction,345,1
+cephalexin,heart attack,0,0
+cephalexin,cardiac arrest,125,0
+cephalexin,stroke,0,0
+cephalexin,cerebrovascular accident,295,0
+cephalexin,anaphylactic reaction,192,0
+cephalexin,anaphylaxis,0,0
+cephalexin,angioedema,262,0
+cephalexin,stevens-johnson syndrome,86,0
+cephalexin,renal failure,1738,1
+cephalexin,kidney failure,0,0
+cephalexin,hepatic failure,34,0
+cephalexin,liver failure,0,0
+cephalexin,respiratory failure,136,0
+cephalexin,pulmonary embolism,395,1
+cephalexin,deep vein thrombosis,340,1
+cephalexin,gastrointestinal haemorrhage,140,0
+cephalexin,internal bleeding,0,0
+cephalexin,seizure,141,0
+cephalexin,convulsion,82,0
+cephalexin,suicidal ideation,135,0
+cephalexin,rhabdomyolysis,32,0
+cephalexin,pancreatitis,88,0
+cephalexin,sepsis,293,0
+cephalexin,chest pain,433,1
+cephalexin,dyspnoea,1340,1
+cephalexin,shortness of breath,0,0
+cephalexin,dizziness,939,1
+cephalexin,vertigo,101,0
+cephalexin,palpitations,216,0
+cephalexin,tachycardia,135,0
+cephalexin,bradycardia,82,0
+cephalexin,hypertension,612,1
+cephalexin,hypotension,398,1
+cephalexin,syncope,242,0
+cephalexin,fainting,0,0
+cephalexin,oedema,196,0
+cephalexin,swelling,275,0
+cephalexin,rash,1265,1
+cephalexin,urticaria,483,1
+cephalexin,hives,0,0
+cephalexin,pruritus,839,1
+cephalexin,itching,0,0
+cephalexin,vomiting,925,1
+cephalexin,nausea,1411,1
+cephalexin,diarrhoea,1577,1
+cephalexin,abdominal pain,619,1
+cephalexin,headache,1201,1
+cephalexin,migraine,283,0
+cephalexin,tremor,272,0
+cephalexin,insomnia,437,1
+cephalexin,anxiety,1290,1
+cephalexin,depression,813,1
+cephalexin,fatigue,1442,1
+cephalexin,asthenia,722,1
+cephalexin,weakness,0,0
+cephalexin,pyrexia,685,1
+cephalexin,fever,0,0
+cephalexin,arthralgia,972,1
+cephalexin,joint pain,0,0
+cephalexin,myalgia,337,1
+cephalexin,muscle pain,0,0
+cephalexin,back pain,623,1
+cephalexin,cough,715,1
+keflex,myocardial infarction,95,0
+keflex,heart attack,0,0
+keflex,cardiac arrest,58,0
+keflex,stroke,0,0
+keflex,cerebrovascular accident,119,0
+keflex,anaphylactic reaction,105,0
+keflex,anaphylaxis,0,0
+keflex,angioedema,22,0
+keflex,stevens-johnson syndrome,44,0
+keflex,renal failure,314,1
+keflex,kidney failure,0,0
+keflex,hepatic failure,16,0
+keflex,liver failure,0,0
+keflex,respiratory failure,88,0
+keflex,pulmonary embolism,182,0
+keflex,deep vein thrombosis,224,0
+keflex,gastrointestinal haemorrhage,104,0
+keflex,internal bleeding,0,0
+keflex,seizure,82,0
+keflex,convulsion,66,0
+keflex,suicidal ideation,57,0
+keflex,rhabdomyolysis,22,0
+keflex,pancreatitis,37,0
+keflex,sepsis,154,0
+keflex,chest pain,271,0
+keflex,dyspnoea,686,1
+keflex,shortness of breath,0,0
+keflex,dizziness,464,1
+keflex,vertigo,61,0
+keflex,palpitations,117,0
+keflex,tachycardia,98,0
+keflex,bradycardia,54,0
+keflex,hypertension,324,1
+keflex,hypotension,202,0
+keflex,syncope,158,0
+keflex,fainting,0,0
+keflex,oedema,147,0
+keflex,swelling,131,0
+keflex,rash,559,1
+keflex,urticaria,195,0
+keflex,hives,0,0
+keflex,pruritus,350,1
+keflex,itching,0,0
+keflex,vomiting,444,1
+keflex,nausea,773,1
+keflex,diarrhoea,696,1
+keflex,abdominal pain,366,1
+keflex,headache,532,1
+keflex,migraine,116,0
+keflex,tremor,142,0
+keflex,insomnia,215,0
+keflex,anxiety,467,1
+keflex,depression,381,1
+keflex,fatigue,683,1
+keflex,asthenia,431,1
+keflex,weakness,0,0
+keflex,pyrexia,389,1
+keflex,fever,0,0
+keflex,arthralgia,509,1
+keflex,joint pain,0,0
+keflex,myalgia,213,0
+keflex,muscle pain,0,0
+keflex,back pain,414,1
+keflex,cough,383,1
+doxycycline,myocardial infarction,321,1
+doxycycline,heart attack,0,0
+doxycycline,cardiac arrest,238,0
+doxycycline,stroke,0,0
+doxycycline,cerebrovascular accident,282,0
+doxycycline,anaphylactic reaction,331,1
+doxycycline,anaphylaxis,0,0
+doxycycline,angioedema,190,0
+doxycycline,stevens-johnson syndrome,222,0
+doxycycline,renal failure,1878,1
+doxycycline,kidney failure,0,0
+doxycycline,hepatic failure,104,0
+doxycycline,liver failure,0,0
+doxycycline,respiratory failure,397,1
+doxycycline,pulmonary embolism,570,1
+doxycycline,deep vein thrombosis,436,1
+doxycycline,gastrointestinal haemorrhage,278,0
+doxycycline,internal bleeding,0,0
+doxycycline,seizure,265,0
+doxycycline,convulsion,137,0
+doxycycline,suicidal ideation,513,1
+doxycycline,rhabdomyolysis,116,0
+doxycycline,pancreatitis,430,1
+doxycycline,sepsis,651,1
+doxycycline,chest pain,1741,1
+doxycycline,dyspnoea,3863,2
+doxycycline,shortness of breath,0,0
+doxycycline,dizziness,2833,2
+doxycycline,vertigo,265,0
+doxycycline,palpitations,531,1
+doxycycline,tachycardia,551,1
+doxycycline,bradycardia,158,0
+doxycycline,hypertension,1977,1
+doxycycline,hypotension,822,1
+doxycycline,syncope,535,1
+doxycycline,fainting,0,0
+doxycycline,oedema,992,1
+doxycycline,swelling,1387,1
+doxycycline,rash,3957,2
+doxycycline,urticaria,1713,1
+doxycycline,hives,0,0
+doxycycline,pruritus,2745,2
+doxycycline,itching,0,0
+doxycycline,vomiting,3789,2
+doxycycline,nausea,4940,2
+doxycycline,diarrhoea,3913,2
+doxycycline,abdominal pain,1671,1
+doxycycline,headache,3834,2
+doxycycline,migraine,764,1
+doxycycline,tremor,667,1
+doxycycline,insomnia,1741,1
+doxycycline,anxiety,2588,2
+doxycycline,depression,1706,1
+doxycycline,fatigue,4432,2
+doxycycline,asthenia,2018,2
+doxycycline,weakness,0,0
+doxycycline,pyrexia,2602,2
+doxycycline,fever,0,0
+doxycycline,arthralgia,2621,2
+doxycycline,joint pain,0,0
+doxycycline,myalgia,801,1
+doxycycline,muscle pain,0,0
+doxycycline,back pain,1181,1
+doxycycline,cough,1641,1
+vibramycin,myocardial infarction,11,0
+vibramycin,heart attack,0,0
+vibramycin,cardiac arrest,5,0
+vibramycin,stroke,0,0
+vibramycin,cerebrovascular accident,10,0
+vibramycin,anaphylactic reaction,11,0
+vibramycin,anaphylaxis,0,0
+vibramycin,angioedema,2,0
+vibramycin,stevens-johnson syndrome,13,0
+vibramycin,renal failure,33,0
+vibramycin,kidney failure,0,0
+vibramycin,hepatic failure,0,0
+vibramycin,liver failure,0,0
+vibramycin,respiratory failure,11,0
+vibramycin,pulmonary embolism,16,0
+vibramycin,deep vein thrombosis,9,0
+vibramycin,gastrointestinal haemorrhage,13,0
+vibramycin,internal bleeding,0,0
+vibramycin,seizure,5,0
+vibramycin,convulsion,9,0
+vibramycin,suicidal ideation,7,0
+vibramycin,rhabdomyolysis,3,0
+vibramycin,pancreatitis,7,0
+vibramycin,sepsis,13,0
+vibramycin,chest pain,14,0
+vibramycin,dyspnoea,84,0
+vibramycin,shortness of breath,0,0
+vibramycin,dizziness,43,0
+vibramycin,vertigo,10,0
+vibramycin,palpitations,10,0
+vibramycin,tachycardia,17,0
+vibramycin,bradycardia,5,0
+vibramycin,hypertension,40,0
+vibramycin,hypotension,20,0
+vibramycin,syncope,14,0
+vibramycin,fainting,0,0
+vibramycin,oedema,6,0
+vibramycin,swelling,9,0
+vibramycin,rash,65,0
+vibramycin,urticaria,27,0
+vibramycin,hives,0,0
+vibramycin,pruritus,21,0
+vibramycin,itching,0,0
+vibramycin,vomiting,50,0
+vibramycin,nausea,75,0
+vibramycin,diarrhoea,89,0
+vibramycin,abdominal pain,34,0
+vibramycin,headache,44,0
+vibramycin,migraine,6,0
+vibramycin,tremor,18,0
+vibramycin,insomnia,24,0
+vibramycin,anxiety,47,0
+vibramycin,depression,31,0
+vibramycin,fatigue,77,0
+vibramycin,asthenia,47,0
+vibramycin,weakness,0,0
+vibramycin,pyrexia,66,0
+vibramycin,fever,0,0
+vibramycin,arthralgia,30,0
+vibramycin,joint pain,0,0
+vibramycin,myalgia,22,0
+vibramycin,muscle pain,0,0
+vibramycin,back pain,25,0
+vibramycin,cough,35,0
