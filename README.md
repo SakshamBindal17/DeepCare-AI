@@ -11,19 +11,7 @@
 **🔗 Frontend Application:** [https://deepcare-ai.onrender.com](https://deepcare-ai.onrender.com)  
 **🔗 Backend API:** [https://deepcare-ai-backend.onrender.com](https://deepcare-ai-backend.onrender.com)  
 **📊 Figma Design:** [View Design here](https://www.figma.com/design/fSX8aPdbMo8RnSmUgJBFwc/DeepCare-AI-Hackathon?t=0cGK9ysIydl3k3MO-1)  
-**🎥 Project Demo Video:** [View Video here]()
-
----
-
-## 📑 Quick Links
-
-- [Architecture](https://github.com/SakshamBindal17/DeepCare-AI/tree/main?tab=readme-ov-file#%EF%B8%8F-architecture)
-- [Features Documentation](./FEATURES_DOCUMENTATION.md)
-- [Test Cases & QA](./TEST_CASES.md)
-- [Implementation Summary](./IMPLEMENTATION_SUMMARY.md)
-- [FAERS Data Analysis](./analysis/FAERS_Analysis_Report.md)
-- [ML Model Guide](./analysis/ML_Implementation_Guide.md)
-- [API Documentation](#-api-documentation)
+**🎥 Project Demo Video:** [View Video here](https://drive.google.com/file/d/1y32uZ5bMLvWYYsJLtqAsmIOCyTy5GN3P/view?usp=sharing)
 
 ---
 
