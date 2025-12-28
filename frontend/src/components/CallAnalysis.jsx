@@ -369,6 +369,13 @@ const CallAnalysis = ({ preloadedAnalysis }) => {
         </div>
       </div>
 
+      {error && (
+        <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg flex items-center space-x-2 animate-in fade-in slide-in-from-top-2">
+          <AlertTriangle size={20} />
+          <span className="font-medium">{error}</span>
+        </div>
+      )}
+
       <div className="flex-1 grid grid-cols-1 lg:grid-cols-3 gap-6 min-h-0">
         {/* Left Column: Transcript + FAERS Chart */}
         <div className="lg:col-span-2 space-y-6">
