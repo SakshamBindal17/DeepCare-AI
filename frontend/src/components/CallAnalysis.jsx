@@ -91,6 +91,13 @@ const CallAnalysis = ({ preloadedAnalysis }) => {
   const handleFileUpload = async (event) => {
     const file = event.target.files[0];
     if (!file) return;
+    
+    // Validate file type
+    const isAudio = file.type.startsWith('audio/') || /\.(mp3|wav|ogg|m4a|flac|aac|webm)$/i.test(file.name);
+    if (!isAudio) {
+      setError("Invalid file type. Please upload audio files only.");
+      return;
+    }
 
     setIsLoading(true);
     setError(null);
