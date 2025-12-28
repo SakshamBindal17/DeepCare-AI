@@ -9,7 +9,7 @@ This document outlines comprehensive test cases for the DeepCare AI system, cove
 ## 1. Manual Test Cases
 
 ### Test Case 1.1: Audio File Upload - Valid Audio
-**Objective:** Verify successful audio file upload and transcription.
+**Objective:** Verify successful audio file upload and transcription
 
 | Field | Details |
 |-------|---------|
@@ -58,9 +58,9 @@ This document outlines comprehensive test cases for the DeepCare AI system, cove
 - ✅ Error message displayed: "Invalid file type. Please upload audio files only."
 - ✅ No API call made
 
-**Actual Results:** Windows dialog defaults to audio files. When forced to upload .txt, file is accepted by UI but no analysis occurs. No error message displayed, but no transcript/score generated.
+**Actual Results:** System correctly rejects .txt files. Error message "Invalid file type. Please upload audio files only." is displayed in a red alert box. No API call is made.
 
-**Status:** ☐ Pass ☑ Fail
+**Status:** ☑ Pass ☐ Fail
 
 ---
 
@@ -584,7 +584,7 @@ def test_concurrent_requests():
 
 | Category | Total | Pass | Fail | Pending |
 |----------|-------|------|------|---------|
-| Manual Tests | 10 | 9 | 1 | 0 |
+| Manual Tests | 10 | 10 | 0 | 0 |
 | API Tests | 4 | 4 | 0 | 0 |
 | Unit Tests | 6 | 6 | 0 | 0 |
 | Integration Tests | 1 | 1 | 0 | 0 |
@@ -592,7 +592,7 @@ def test_concurrent_requests():
 | Edge Cases | 6 | 6 | 0 | 0 |
 | Security Tests | 3 | 3 | 0 | 0 |
 | Browser Compatibility | 4 | 4 | 0 | 0 |
-| **TOTAL** | **37** | **36** | **1** | **0** |
+| **TOTAL** | **37** | **37** | **0** | **0** |
 
 ---
 
@@ -600,7 +600,7 @@ def test_concurrent_requests():
 
 | Defect ID | Severity | Description | Status | Resolution |
 |-----------|----------|-------------|--------|------------|
-| DEF-001 | Medium | Uploading non-audio files (.txt) does not trigger an error message. System accepts file but fails to analyze. | Open | Add frontend file type validation in `handleFileUpload`. |
+| DEF-001 | Medium | Uploading non-audio files (.txt) does not trigger an error message. System accepts file but fails to analyze. | Closed | Added frontend file type validation and error alert in `CallAnalysis.jsx`. |
 
 ---
 
@@ -611,7 +611,7 @@ def test_concurrent_requests():
 - **OS:** Windows
 - **Browser:** Chrome 120+
 - **API Keys:** Deepgram, AWS Comprehend Medical
-- **Test Data:** Audio files from `data/conversations/Audio_Recordings/`
+- **Test Data:** Audio files from `tests/conversations`
 
 ---
 
