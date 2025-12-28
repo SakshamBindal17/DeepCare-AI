@@ -9,7 +9,7 @@ This document outlines comprehensive test cases for the DeepCare AI system, cove
 ## 1. Manual Test Cases
 
 ### Test Case 1.1: Audio File Upload - Valid Audio
-**Objective:** Verify successful audio file upload and transcription
+**Objective:** Verify successful audio file upload and transcription.
 
 | Field | Details |
 |-------|---------|
